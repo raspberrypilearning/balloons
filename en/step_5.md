@@ -14,9 +14,11 @@ Click on your balloon sprite, and then click the **Costumes** tab. You can delet
 
 Make sure that your balloon switches to the right costume when the game starts. Your code should now look like this:
 
-```blocks
+![balloon sprite](images/balloon-sprite.png)
+
+```blocks3
 when flag clicked
-+switch costume to [balloon1-a v]
++switch costume to (balloon1-a v)
 point in direction (pick random (-90) to (180))
 go to x:(pick random (-150) to (150)) y:(pick random (-150) to (150))
 change [color v] effect by (pick random (0) to (200))
@@ -32,10 +34,12 @@ end
 
 To allow the player to burst a balloon, add this code:
 
-```blocks
+![balloon sprite](images/balloon-sprite.png)
+
+```blocks3
 	when this sprite clicked
-	switch costume to [burst v]
-	play sound [pop v]
+	switch costume to (burst v)
+	start sound (pop v)
 ```
 
 --- /task ---
@@ -46,13 +50,15 @@ Test out your project. Can you pop the balloon? Does it work as you expected?
 
 You'll need to improve this code, so that when the balloon is clicked, it shows the `burst` costume for a short time, and is then hidden. 
 
-You can make all of this happen by changing your balloon `when sprite clicked`{:class="blockevents"} code to this:
+You can make all of this happen by changing your balloon `when sprite clicked`{:class="block3events"} code to this:
 
-```blocks
+![balloon sprite](images/balloon-sprite.png)
+
+```blocks3
 when this sprite clicked
-switch costume to [burst v]
-play sound [pop v]
-+ wait (0.3) secs
+switch costume to (burst v)
+start sound (pop v)
++ wait (0.3) seconds
 + hide
 ```
 
@@ -60,13 +66,14 @@ play sound [pop v]
 
 --- task ---
 
-Now that you're deleting the balloon when it's clicked, you'll also need to add a `show`{:class="blocklooks"} block to the start of the `when flag clicked`{:class="blockevents"} code.
+Now that you're deleting the balloon when it's clicked, you'll also need to add a `show`{:class="block3looks"} block to the start of the `when flag clicked`{:class="block3events"} code.
 
-```blocks
-```blocks
+![balloon sprite](images/balloon-sprite.png)
+
+```blocks3
 when flag clicked
 + show
-switch costume to [balloon1-a v]
+switch costume to (balloon1-a v)
 point in direction (pick random (-90) to (180))
 ```
 
@@ -75,9 +82,5 @@ point in direction (pick random (-90) to (180))
 --- task ---
 
 Try popping a balloon again, to check that it works properly. 
-
-Tip: If you find it difficult to pop the balloon without dragging it around, you can play the game in fullscreen mode by clicking this button.
-
-![fullscreen button](images/balloons-fullscreen.png)
 
 --- /task ---

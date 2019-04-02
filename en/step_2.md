@@ -30,7 +30,9 @@ Add in a new balloon sprite, and a suitable stage backdrop.
 
 Add this code to your balloon, so that it bounces around the screen:
 
-```blocks
+![balloon sprite](images/balloon-sprite.png)
+
+```blocks3
 	when flag clicked
 	go to x:(0) y:(0)
 	point in direction (45 v)
@@ -54,12 +56,11 @@ Did you also notice that your balloon flips as it moves around the screen?
 
 ![balloon upside down](images/balloons-flip.png)
 
-Balloons don't move like this! To fix this, click on the balloon sprite icon, and then click the blue `i`{:class="blockmotion"} information icon.
+Balloons don't move like this! To fix this, click on the balloon sprite icon, and then click the direction.
 
-![balloon sprite](images/balloons-info.png)
-In the 'rotation style' section, click the dot to stop the balloon rotating.
+In the 'rotation style' section, click 'Do not rotate' to stop the balloon rotating.
 
-![rotation style option](images/balloons-lock.png)
+![rotation style option](images/balloons-lock-annotated.png)
 
 --- /task ---
 

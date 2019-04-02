@@ -8,13 +8,15 @@ A much better way of getting lots of balloons is to _clone_ the balloon sprite.
 
 --- task ---
 
-Drag your balloon `when flag clicked`{:class="blockevents"} code to a new `when I start as a clone`{:class="blockevents"} event block.
+Drag your balloon `when flag clicked`{:class="block3events"} code to a new `when I start as a clone`{:class="block3control"} control block.
 
-```blocks
+![balloon sprite](images/balloon-sprite.png)
+
+```blocks3
 when flag clicked
 set [score v] to [0]
 -show
--switch costume to [balloon1-a v]
+-switch costume to (balloon1-a v)
 -point in direction (pick random (-90) to (180))
 -go to x:(pick random (-150) to (150)) y:(pick random (-150) to (150))
 -change [color v] effect by (pick random (0) to (200))
@@ -25,7 +27,7 @@ set [score v] to [0]
 
 +when I start as a clone
 show
-switch costume to [balloon1-a v]
+switch costume to (balloon1-a v)
 point in direction (pick random (-90) to (180))
 go to x:(pick random (-150) to (150)) y:(pick random (-150) to (150))
 change [color v] effect by (pick random (0) to (200))
@@ -39,14 +41,16 @@ end
 
 --- task ---
 
-Add code to create 20 balloon clones to the `when flag clicked`{:class="blockevents"} code.
+Add code to create 20 balloon clones to the `when flag clicked`{:class="block3events"} code.
 
-```blocks
+![balloon sprite](images/balloon-sprite.png)
+
+```blocks3
 when flag clicked
 set [score v] to [0]
 +hide
 +repeat (20)
-create clone of [myself v]
+create clone of (myself v)
 end
 ```
 
@@ -54,13 +58,15 @@ end
 
 --- task ---
 
-You should also replace the `hide`{:class="blocklooks"} block in the balloon-clicking script with a `delete this clone`{:class="blockcontrol"} block.
+You should also replace the `hide`{:class="block3looks"} block in the balloon-clicking script with a `delete this clone`{:class="block3control"} block.
 
-```blocks
+![balloon sprite](images/balloon-sprite.png)
+
+```blocks3
 when this sprite clicked
-switch costume to [burst v]
-play sound [pop v]
-wait (0.3) secs
+switch costume to (burst v)
+start sound (pop v)
+wait (0.3) seconds
 change [score v] by (1)
 -hide
 +delete this clone
