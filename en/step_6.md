@@ -2,40 +2,45 @@
 
 Let's make things more interesting by keeping score.
 
+--- task ---
 
+To keep the player's score, you need a place to put it. Create a new `variable`{:class="blockdata"} called `score`{:class="blockdata"}.
 
-+ To keep the player's score, you need a place to put it. A _variable_ is a place to store data that can change, like a score.
+[[[generic-scratch-add-variable]]]
 
-	To create a new variable, click on the 'Scripts' tab, select `Data`{:class="blockdata"} and then click 'Make a Variable'.
+--- /task ---
 
-	![screenshot](images/balloons-score.png)
+--- task ---
 
-	Type 'score' as the name of the variable, make sure that it is available for all sprites, and click 'OK' to create it. You'll then see lots of code blocks that can be used with your `score`{:class="blockdata"} variable.
+When a new game is started (by clicking the flag), you should set the player's score to 0. Add this code to the top of the balloon's `when flag clicked`{:class="blockevents"} code:
 
-	![screenshot](images/balloons-variable.png)
+```blocks
+when flag clicked
++ set [score v] to [0]
+show
+switch costume to [balloon1-a v]
+```
 
-	You'll also see the score in the top-left of the stage.
+--- /task ---
 
-	![screenshot](images/balloons-stage-score.png)
+--- task ---
 
-+ When a new game is started (by clicking the flag), you want to set the player's score to 0. Add this code to the top of the balloon's `when flag clicked`{:class="blockevents"} code:
+Whenever a balloon is popped, you need to add 1 to the score:
 
-	```blocks
-	set [score v] to [0]
-	```
+```blocks
+when this sprite clicked
+switch costume to [burst v]
+play sound [pop v]
+wait (0.3) secs
++change [score v] by (1)
+hide
+```
 
-+ Whenever a balloon is popped, you need to add 1 to the score:
+--- /task ---
 
-	```blocks
-		when this sprite clicked
-		switch costume to [burst v]
-		play sound [pop v]
-		wait (0.3) secs
-		change [score v] by (1)
-		hide
-	```
+--- task ---
 
-+ Run your program again and click the balloon. Does your score change?
+Run your program again and click the balloon. Does your score change?
 
-
+--- /task ---
 

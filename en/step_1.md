@@ -2,61 +2,68 @@
 
 You are going to make a balloon-popping game!
 
+
+### What you will make
+
+--- no-print ---
+
+Instructions on how to use the project.
+
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26745384/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26745384/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/balloons-final.png">
 </div>
 
-### Additional information for club leaders
+--- /no-print ---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/balloons).
+--- print-only ---
 
+![complete project](images/balloons-final.png)
+
+--- /print-only ---
 
 --- collapse ---
+
 ---
-title: Club leader notes
+title: What you will need
 ---
 
+### Hardware
 
-## Introduction:
-In this project, children will learn how to use variables to store data in their programs.
++ A computer capable of running Scratch
 
-## Resources
-For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
+### Software
 
-You can find a completed version of this project <a href="http://scratch.mit.edu/projects/26745384/#editor">online</a>, or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
-
-+ Balloons.sb2
-
-## Learning Objectives
-+ Variables;
-+ Random numbers;
-+ Cloning sprites.
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
-
-## Challenges
-+ "More randomness" - using random numbers;
-+ "More objects" - applying skills to create another game object.
-
-## Frequently Asked Questions
-+ If children find it difficult to pop balloons without dragging them around, they can play the game in fullscreen mode, in which balloons aren't draggable.
-
-![screenshot](images/balloons-fullscreen.png)
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
+--- collapse ---
+
+---
+title: What you will learn
+---
+
+- How to use animation to make sprites move
+- How to use random numbers
+- How to draw sprites
+- How to create clones of a sprite
+
+--- /collapse ---
 
 --- collapse ---
 ---
-title: Project materials
+title: Additional information for educators
 ---
 
+--- no-print ---
 
-## Club leader resources
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/26745384/#editor)
-* [Downloadable completed Scratch 2 project](resources/Balloons.sb2)
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/balloons/print){:target="_blank"}.
+
+If children find it difficult to pop balloons without dragging them around, they can play the game in fullscreen mode, in which balloons aren't draggable.
+
+--- /no-print ---
+
+You can [find the solution for this project here](http://rpf.io/p/en/balloons-get){:target="_blank"}.
 
 --- /collapse ---
