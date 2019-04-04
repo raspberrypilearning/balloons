@@ -1,5 +1,5 @@
 hero_image: images/banner.png
-listed: false
+listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
