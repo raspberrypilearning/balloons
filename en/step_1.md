@@ -13,7 +13,7 @@ You are going to make a balloon-popping game!
 
 --- no-print ---
 
-Instructions on how to use the project.
+Pop the balloons by clicking on them.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
