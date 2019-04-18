@@ -5,6 +5,8 @@ Open a new Scratch project.
 
 **Online**: open a [new online Scratch project](http://rpf.io/scratch-new){:target="_blank"}.
 
+If you have a Scratch account you can make a copy by clicking **Remix**.
+
 **Offline**: open a new project in the offline editor.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
