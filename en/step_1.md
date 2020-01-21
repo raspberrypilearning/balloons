@@ -29,7 +29,6 @@ Pop the balloons by clicking on them.
 --- /print-only ---
 
 --- collapse ---
-
 ---
 title: What you will need
 ---
@@ -45,7 +44,6 @@ title: What you will need
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: What you will learn
 ---

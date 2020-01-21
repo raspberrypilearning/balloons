@@ -1,6 +1,7 @@
 ## Animating a balloon
 
 --- task ---
+
 Open a new Scratch project.
 
 **Online**: open a [new online Scratch project](http://rpf.io/scratch-new){:target="_blank"}.
