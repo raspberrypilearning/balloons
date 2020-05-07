@@ -23,7 +23,7 @@ Voici le code pour faire cela, que tu peux ajouter à ta _scène_:
 ```blocks3
 when flag clicked
 set [temps v] to [10]
-repeat until <(temps) = [0]>
+repeat until <(temps :: variables) = [0]>
     wait (1) seconds
     change [temps v] by (-1)
 end

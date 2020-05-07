@@ -62,7 +62,7 @@ title: Aanvullende informatie voor docenten
 
 --- no-print ---
 
-Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/balloons/print) {:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/balloons/print){:target="_blank"}.
 
 --- /no-print ---
 

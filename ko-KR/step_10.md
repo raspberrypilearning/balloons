@@ -1,4 +1,4 @@
-## 더 나아가기
+## 도전해 보기
 
 [Tech Toys](https://projects.raspberrypi.org/ko-KR/projects/tech-toys) 스크래치 프로젝트를 보아요.
 

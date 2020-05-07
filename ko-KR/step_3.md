@@ -39,7 +39,7 @@
 
 --- hint ---
 
-`초록색  깃발을 클릭했을 때`{:class="block3events"} `난수`{:class="block3operators"}만큼  `색깔 효과를 바꾸기`{:class="lc3looks"}.
+`초록색  깃발을 클릭했을 때`{:class="block3events"} `난수`{:class="block3operators"}만큼  `색깔 효과를 바꾸기`{:class="block3looks"}.
 
 --- /hint ---
 
