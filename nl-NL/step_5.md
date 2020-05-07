@@ -1,20 +1,20 @@
-## Popping balloons
+## Ballonnen knallen
 
-Lets allow the player to pop the balloons!
+Laat de speler de ballonnen laten ploffen!
 
 --- task ---
 
-Click on your balloon sprite, and then click the **Costumes** tab. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
+Klik op je ballonsprite en klik vervolgens op het **Uiterlijken** tabblad. Je kunt alle andere uiterlijken verwijderen, zodat er maar 1 ballonuiterlijk overblijft. Voeg een nieuw uiterlijk toe door te klikken op **Teken nieuw uiterlijk** en maak een nieuw uiterlijk genaamd `uitbarsting`.
 
-![balloon costume called burst](images/balloons-costume.png)
+![ballon uiterlijk genaamd uitbarsting](images/balloons-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that your balloon switches to the right costume when the game starts. Your code should now look like this:
+Zorg ervoor dat je ballon bij het begin van het spel naar het juiste uiterlijk schakelt. Je code zou er nu als volgt uit moeten zien:
 
-![balloon sprite](images/balloon-sprite.png)
+![ballon sprite](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -32,9 +32,9 @@ end
 
 --- task ---
 
-To allow the player to burst a balloon, add this code:
+Voeg de volgende code toe zodat de speler een ballon kan laten ploffen:
 
-![balloon sprite](images/balloon-sprite.png)
+![ballon sprite](images/balloon-sprite.png)
 
 ```blocks3
     when this sprite clicked
@@ -46,13 +46,13 @@ To allow the player to burst a balloon, add this code:
 
 --- task ---
 
-Test out your project. Can you pop the balloon? Does it work as you expected?
+Test je project. Kun je de ballon laten knallen? Werkt het zoals je verwacht?
 
-You'll need to improve this code, so that when the balloon is clicked, it shows the `burst` costume for a short time, and is then hidden.
+Je moet deze code verbeteren, zodat wanneer op de ballon wordt geklikt, deze het `uitbarsting` uiterlijk toont gedurende een korte tijd, en dan wordt verborgen.
 
-You can make all of this happen by changing your balloon `when sprite clicked`{:class="block3events"} code to this:
+Je kunt dit allemaal laten gebeuren door je ballon `wanneer op deze sprite wordt geklikt`{:class="block3events"} code te wijzigen in:
 
-![balloon sprite](images/balloon-sprite.png)
+![ballon sprite](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -66,9 +66,9 @@ start sound (pop v)
 
 --- task ---
 
-Now that you're deleting the balloon when it's clicked, you'll also need to add a `show`{:class="block3looks"} block to the start of the `when flag clicked`{:class="block3events"} code.
+Nu je de ballon verwijdert wanneer erop wordt geklikt, moet je ook een `verschijn`{:class="block3looks"} blok toevoegen aan het begin van de `wanneer op de groene vlag wordt geklikt`{:class="block3events"} code.
 
-![balloon sprite](images/balloon-sprite.png)
+![ballon sprite](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -81,6 +81,6 @@ point in direction (pick random (-90) to (180))
 
 --- task ---
 
-Try popping a balloon again, to check that it works properly.
+Probeer opnieuw een ballon te laten ploffen om te controleren of deze goed werkt.
 
 --- /task ---
