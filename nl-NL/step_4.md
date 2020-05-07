@@ -1,3 +1,3 @@
-## Challenge: More randomness
-Can you make your balloon start by pointing in a random direction (between -90 and 180)?
+## Uitdaging: meer willekeur
+Kun je je ballon laten beginnen door in een willekeurige richting te wijzen (tussen -90 en 180)?
 
