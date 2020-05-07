@@ -1,6 +1,6 @@
-## What next?
+## Wat kun je verder nog doen?
 
-Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys) Scratch project.
+Bekijk het [Tech-speelgoed](https://projects.raspberrypi.org/en/projects/tech-toys) Scratch-project.
 
 --- no-print ---
 
@@ -9,16 +9,16 @@ Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech
   <img src="images/toys-final.png">
 </div>
 
-+ Click the bow tie to see it spin
-+ Click the sunglasses to see them change colour
-+ Click the laptop to power up the helicopter
-+ Use the arrow keys to fly the helicopter
-+ Press the space bar to make the helicopter loop-the-loop
++ Klik op de vlinderdas om hem te zien draaien
++ Klik op de zonnebril om ze van kleur te zien veranderen
++ Klik op de laptop om de helikopter aan te zetten
++ Gebruik de pijltjestoetsen om met de helikopter te vliegen
++ Druk op de spatiebalk om de helikopter een looping te laten maken
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/toys-final.png)
+![voltooid project](images/toys-final.png)
 
 --- /print-only ---
