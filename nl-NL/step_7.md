@@ -1,16 +1,16 @@
-## Lots of balloons
+## Veel ballonnen
 
-Popping 1 balloon isn't much of a game, so let's add lots more!
+1 ballon laten knallen is niet echt een spel, dus laten we er nog veel meer aan toevoegen!
 
-One simple way to get lots of balloons is just to right-click on the balloon sprite and click **duplicate**. This is OK if you only want a few, but what if you need 20? or 100? Are you really going to click **duplicate** that many times?
+Een eenvoudige manier om veel ballonnen te krijgen, is door met de rechtermuisknop op de ballonsprite te klikken en op **dupliceren** te klikken. Dit is oké als je er maar een paar wilt, maar wat als je er 20 nodig hebt? of 100? Ga je echt zo vaak op **dupliceren** klikken?
 
-A much better way of getting lots of balloons is to _clone_ the balloon sprite.
+Een veel betere manier om veel ballonnen te krijgen, is door de ballonsprite _te klonen_.
 
 --- task ---
 
-Drag your balloon `when flag clicked`{:class="block3events"} code to a new `when I start as a clone`{:class="block3control"} control block.
+Sleep je ballon `wanneer er op de groene vlag wordt geklikt`{:class="block3events"} code naar een nieuwe `wanneer ik als kloon start`{:class="block3control"} besturenblok.
 
-![balloon sprite](images/balloon-sprite.png)
+![ballon sprite](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -41,9 +41,9 @@ end
 
 --- task ---
 
-Add code to create 20 balloon clones to the `when flag clicked`{:class="block3events"} code.
+Voeg code toe om 20 ballonklonen te maken aan de `wanneer op de groene vlag wordt geklikt`{:class="block3events"} code.
 
-![balloon sprite](images/balloon-sprite.png)
+![ballon sprite](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -58,9 +58,9 @@ end
 
 --- task ---
 
-You should also replace the `hide`{:class="block3looks"} block in the balloon-clicking script with a `delete this clone`{:class="block3control"} block.
+Je moet ook het `verdwijn`{:class="block3looks"} blok in het ballon-klikkende script vervangen door een `verwijder deze kloon`{:class="block3control"} blok.
 
-![balloon sprite](images/balloon-sprite.png)
+![ballon sprite](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,7 +77,7 @@ change [score v] by (1)
 
 --- task ---
 
-Test your project! Now when the flag is clicked, your main balloon sprite will hide and then clone itself 20 times. When each of these 20 clones is started, they will each bounce around the screen randomly, just as they did before. See if you can pop the 20 balloons!
+Test je project! Wanneer je nu op de vlag klikt, verbergt je hoofdballon-sprite zich en kloont zichzelf vervolgens 20 keer. Wanneer elk van deze 20 klonen wordt gestart, stuiteren ze elk willekeurig rond over het scherm, net als voorheen. Kijk of je de 20 ballonnen kunt laten knallen!
 
 --- /task ---
 
