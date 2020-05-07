@@ -1,18 +1,18 @@
-## Random balloons
+## Ballons aléatoires
 
 --- task ---
 
-With the code you have now, your balloon will always start in the same place and move in the same path.
+Avec le code que tu as maintenant, ton ballon commencera toujours au même endroit et se déplacera dans la même direction.
 
-Click the flag a few times to start your program, and you'll see it's the same every time.
+Clique sur le drapeau plusieurs fois pour démarrer ton programme, et tu verras que c'est la même chose à chaque fois.
 
 --- /task ---
 
 --- task ---
 
-Instead of using the same x and y position each time, you can let Scratch `pick a random number`{:class="blockoperators"} instead. Change your balloon's code, so that it looks like this:
+Au lieu d'utiliser la même position x et y à chaque fois, tu peux laisser Scratch `choisir un nombre aléatoire`{:class="blockoperators"} à la place. Modifie le code de ton ballon pour qu'il ressemble à ceci :
 
-![balloon sprite](images/balloon-sprite.png)
+![sprite ballon](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -24,27 +24,27 @@ Instead of using the same x and y position each time, you can let Scratch `pick 
     end
 ```
 
-If you click the green flag a few times, you should notice that your balloon starts in a different place each time.
+Si tu cliques plusieurs fois sur le drapeau vert, tu devrais remarquer que ton ballon démarre à un endroit différent à chaque fois.
 
 --- /task ---
 
 --- task ---
 
-You could even use a random number to choose a random balloon colour each time:
+Tu peux même utiliser un nombre aléatoire pour choisir une couleur de ballon aléatoire à chaque fois :
 
-![red balloon sprite](images/balloons-colour.png)
+![sprite ballon rouge](images/balloons-colour.png)
 
 --- hints ---
 
 --- hint ---
 
-`Change the color effect by`{:class="block3looks"} by a `random number`{:class="block3operators"} when the `green flag is clicked`{:class="block3events"}.
+`Ajoute à l'effet couleur`{:class="block3looks"} un `nombre aléatoire`{:class="block3operators"} `quand le drapeau vert est cliqué`{:class="block3events"}.
 
 --- /hint ---
 
 --- hint ---
 
-You will need to add these blocks to your code.
+Tu devras ajouter ces blocs à ton code.
 
 ```blocks3
 (pick random (0) to (200)
@@ -56,9 +56,9 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-You code should look like this:
+Ton code devrait ressembler à ceci :
 
-![balloon sprite](images/balloon-sprite.png)
+![sprite ballon](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -78,5 +78,5 @@ You code should look like this:
 
 --- /task ---
 
-What happens if this code is put at the start of your program? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
+Que se passe-t-il si ce code est mis au début de ton programme ? Est-ce que quelque chose de différent se produit si tu mets ce code _à l'intérieur_ d'une boucle `répéter indéfiniment`{:class="block3control"} ? Lequel préfères-tu ?
 
