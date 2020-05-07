@@ -1,19 +1,19 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
+Dit is de **Scratch 3** versie van het project. Er is ook een [Scratch 2 versie van dit project](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
 
 --- /no-print ---
 
-## Introduction
+## Inleiding
 
-You are going to make a balloon-popping game!
+Je gaat een ballon-knallend spel maken!
 
 
-### What you will make
+### Wat ga je maken
 
 --- no-print ---
 
-Pop the balloons by clicking on them.
+Laat de ballonnen ploffen door erop te klikken.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -24,48 +24,48 @@ Pop the balloons by clicking on them.
 
 --- print-only ---
 
-![complete project](images/balloons-final.png)
+![voltooid project](images/balloons-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Wat heb je nodig
 ---
 
 ### Hardware
 
-+ A computer capable of running Scratch
++ Een computer die Scratch kan uitvoeren
 
 ### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Wat ga je leren
 ---
 
-- How to use animation to make sprites move
-- How to use random numbers
-- How to draw sprites
-- How to create clones of a sprite
+- Animatie gebruiken om sprites te laten bewegen
+- Hoe willekeurige getallen te gebruiken
+- Hoe sprites te tekenen
+- Hoe klonen van een sprite te maken
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Aanvullende informatie voor docenten
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/balloons/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/en/projects/balloons/print) {:target="_blank"}.
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/balloons-get){:target="_blank"}.
+Je kunt het [voltooide project hier](http://rpf.io/p/en/balloons-get)"{:target="_blank"} vinden.
 
 --- /collapse ---
