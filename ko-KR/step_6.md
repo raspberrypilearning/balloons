@@ -1,10 +1,10 @@
-## Adding a score
+## 점수 추가하기
 
-Let's make things more interesting by keeping score.
+점수를 기록해서 좀 더 재밌게 만들어 봅시다.
 
 --- task ---
 
-To keep the player's score, you need a place to put it. Create a new `variable`{:class="block3variables"} called `score`{:class="block3variables"}.
+점수를 기록하기 위해, 이를 적을 공간이 필요합니다. 새로운 `변수`{:class="block3variables"}를 생성하고, `점수`{:class="block3variables"}라는 이름을 붙이세요.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,9 +12,9 @@ To keep the player's score, you need a place to put it. Create a new `variable`{
 
 --- task ---
 
-When a new game is started (by clicking the flag), you should set the player's score to 0. Add this code to the top of the balloon's `when flag clicked`{:class="block3events"} code:
+(깃발을 클릭하여) 새로 게임이 시작됐을 때, 플레이어의 점수를 0으로 맞춰야 합니다. 이 코드를 풍선의 `깃발을 클릭했을 때`{:class="block3events"} 코드 가장 위쪽에 추가하세요:
 
-![balloon sprite](images/balloon-sprite.png)
+![풍선 스프라이트](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -27,9 +27,9 @@ switch costume to (balloon1-a v)
 
 --- task ---
 
-Whenever a balloon is popped, you need to add 1 to the score:
+풍선이 터뜨려질 때마다, 점수에 1씩 추가해야 합니다:
 
-![balloon sprite](images/balloon-sprite.png)
+![풍선 스프라이트](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -44,7 +44,7 @@ hide
 
 --- task ---
 
-Run your program again and click the balloon. Does your score change?
+프로그램을 다시 실행시킨 뒤 풍선을 클릭해 보세요. 점수가 바뀌나요?
 
 --- /task ---
 
