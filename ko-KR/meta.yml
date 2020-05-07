@@ -2,30 +2,30 @@
 hero_image: images/banner.png
 listed: true
 copyedit: true
-title: Balloons
-description: Learn how to make a balloon-popping game!
+title: 풍선들
+description: 풍선 터뜨리기 게임을 만드는 방법을 배워봅시다!
 version: 4
 last_tested: 2018-04-02
 steps:
   - 
-    title: Introduction
+    title: 소개
   - 
-    title: Animating a balloon
+    title: 풍선을 움직이게 만들기
   - 
-    title: Random balloons
+    title: 무작위의 풍선들
   - 
-    title: 'Challenge: More randomness'
+    title: '과제: 더 무작위하게'
     challenge: true
   - 
-    title: Popping balloons
+    title: 풍선들 터뜨리기
   - 
-    title: Adding a score
+    title: 점수 추가하기
   - 
-    title: Lots of balloons
+    title: 많은 풍선들
   - 
-    title: Adding a timer
+    title: 타이머 추가하기
   - 
-    title: 'Challenge: More objects'
+    title: '과제: 더 많은 물체들'
     challenge: true
   - 
-    title: What next?
+    title: 도전해 보기
