@@ -1,24 +1,24 @@
-## Adding a timer
+## Een timer toevoegen
 
-You can make your game more interesting, by only giving your player 10 seconds to pop as many balloons as possible.
+Je kunt je spel interessanter maken door je speler slechts 10 seconden de tijd te geven om zoveel mogelijk ballonnen te laten knallen.
 
 --- task ---
 
-You can use another variable to store the remaining time left. Click on the stage, and create a new variable called `time`{:class="block3variables"}.
+Je kunt een andere variabele gebruiken om de resterende tijd op te slaan. Klik op het speelveld en maak een nieuwe variabele met de naam `tijd`{:class="block3variables"}.
 
 --- /task ---
 
-This is how the timer should work:
+Zo zou de timer moeten werken:
 
-+ The timer should start at 10 seconds;
-+ The timer should count down every second;
-+ The game should stop when the timer gets to 0.
++ De timer moet beginnen op 10 seconden;
++ De timer moet elke seconde aftellen;
++ Het spel zou moeten stoppen als de timer op 0 komt.
 
 --- task ---
 
-Here's the code to do this, which you can add to your _stage_:
+Hier is de code om dit te doen, die je aan je _speelveld_ kunt toevoegen:
 
-![balloon sprite](images/stage-sprite.png)
+![ballon sprite](images/stage-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -34,22 +34,22 @@ stop [all v]
 
 --- task ---
 
-Drag your 'time' variable display to the right side of the stage. You can also right-click on the variable display and choose 'large readout' to change how the time is displayed.
+Sleep je 'tijd'-variabele weergave naar de rechterkant van het speelveld. Je kunt ook met de rechtermuisknop op de variabeleweergave klikken en 'groot uitlezen' kiezen om de weergave van de tijd te wijzigen.
 
-![screenshot](images/balloons-readout.png)
+![schermafbeelding](images/balloons-readout.png)
 
 --- /task ---
 
 --- task ---
 
-Test your game. How many points can you score? If your game is too easy, you can:
+Test je spel. Hoeveel punten kun je scoren? Als je spel te gemakkelijk is, kun je:
 
-+ Give the player less time;
-+ Have more balloons;
-+ Make the balloons move faster;
-+ Make the balloons smaller.
++ De speler minder tijd geven;
++ Meer ballonnen hebben;
++ De ballonnen sneller laten bewegen;
++ De ballonnen kleiner maken.
 
-Play your game a few times until you're happy that it's the right level of difficulty.
+Speel je spel een paar keer totdat je blij bent dat het de juiste moeilijkheidsgraad heeft.
 
 --- /task ---
 
