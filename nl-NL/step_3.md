@@ -1,18 +1,18 @@
-## Random balloons
+## Willekeurige ballonnen
 
 --- task ---
 
-With the code you have now, your balloon will always start in the same place and move in the same path.
+Met de code die je nu hebt, zal je ballon altijd op dezelfde plek starten en over hetzelfde pad bewegen.
 
-Click the flag a few times to start your program, and you'll see it's the same every time.
+Klik een paar keer op de vlag om je programma te starten en je zult zien dat het elke keer hetzelfde is.
 
 --- /task ---
 
 --- task ---
 
-Instead of using the same x and y position each time, you can let Scratch `pick a random number`{:class="blockoperators"} instead. Change your balloon's code, so that it looks like this:
+In plaats van elke keer dezelfde x- en y-positie te gebruiken, kun je Scratch `een willekeurig getal laten kiezen`{:class="blockoperators"} in plaats daarvan. Wijzig de code van je ballon, zodat deze er als volgt uitziet:
 
-![balloon sprite](images/balloon-sprite.png)
+![ballon sprite](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -24,27 +24,27 @@ Instead of using the same x and y position each time, you can let Scratch `pick 
     end
 ```
 
-If you click the green flag a few times, you should notice that your balloon starts in a different place each time.
+Als je een paar keer op de groene vlag klikt, zou je moeten merken dat je ballon elke keer op een andere plaats begint.
 
 --- /task ---
 
 --- task ---
 
-You could even use a random number to choose a random balloon colour each time:
+Je kunt zelfs een willekeurig getal gebruiken om elke keer een willekeurige ballonkleur te kiezen:
 
-![red balloon sprite](images/balloons-colour.png)
+![rode ballonsprite](images/balloons-colour.png)
 
 --- hints ---
 
 --- hint ---
 
-`Change the color effect by`{:class="block3looks"} by a `random number`{:class="block3operators"} when the `green flag is clicked`{:class="block3events"}.
+`Wijzig het kleureffect met`{:class="block3looks"} met een `willekeurig getal`{:class="block3operators"} wanneer op de `groene vlag wordt geklikt`{:class="block3events"}.
 
 --- /hint ---
 
 --- hint ---
 
-You will need to add these blocks to your code.
+Je moet deze blokken toevoegen aan je code.
 
 ```blocks3
 (pick random (0) to (200)
@@ -56,9 +56,9 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-You code should look like this:
+Je code zou er als volgt uit moeten zien:
 
-![balloon sprite](images/balloon-sprite.png)
+![ballon sprite](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -78,5 +78,5 @@ You code should look like this:
 
 --- /task ---
 
-What happens if this code is put at the start of your program? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
+Wat gebeurt er als deze code aan het begin van je programma wordt gezet? Gebeurt er iets anders als je deze code _binnen_ de `herhaal`{:class="block3control"} lus zet? Wat heb je liever?
 
