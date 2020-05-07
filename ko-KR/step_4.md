@@ -1,3 +1,3 @@
-## Challenge: More randomness
-Can you make your balloon start by pointing in a random direction (between -90 and 180)?
+## 과제: 더 무작위하게
+당신은 풍선이 무작위의 방향(-90과 180 사이)을 가리킨 상태로 출발하도록 만들 수 있나요?
 
