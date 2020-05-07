@@ -1,6 +1,6 @@
-## What next?
+## 더 나아가기
 
-Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys) Scratch project.
+[Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys) 스크래치 프로젝트를 보아요.
 
 --- no-print ---
 
@@ -9,16 +9,16 @@ Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech
   <img src="images/toys-final.png">
 </div>
 
-+ Click the bow tie to see it spin
-+ Click the sunglasses to see them change colour
-+ Click the laptop to power up the helicopter
-+ Use the arrow keys to fly the helicopter
-+ Press the space bar to make the helicopter loop-the-loop
++ 나비넥타이를 클릭하여 회전하는 것을 보세요.
++ 선글라스를 클릭해 색깔이 바뀌는 것을 보세요.
++ 헬리콥터에 시동을 걸기 위해 노트북을 클릭해 보세요.
++ 화살표를 눌러 헬리콥터를 비행시켜요.
++ 스페이스바를 눌러 헬리콥터가 원을 그리며 날게 해요.
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/toys-final.png)
+![완료된 프로젝트](images/toys-final.png)
 
 --- /print-only ---
