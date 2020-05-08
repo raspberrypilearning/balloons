@@ -1,19 +1,19 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
+Αυτή είναι η **Scratch 3** έκδοση του έργου. Υπάρχει επίσης η [έκδοση Scratch 2 του έργου](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
 
 --- /no-print ---
 
-## Introduction
+## Εισαγωγή
 
-You are going to make a balloon-popping game!
+Θα φτιάξεις ένα παιχνίδι στο οποίο θα σκας μπαλόνια!
 
 
-### What you will make
+### Τι θα φτιάξεις
 
 --- no-print ---
 
-Pop the balloons by clicking on them.
+Σκάσε τα μπαλόνια κάνοντας κλικ σε αυτά.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -24,48 +24,48 @@ Pop the balloons by clicking on them.
 
 --- print-only ---
 
-![complete project](images/balloons-final.png)
+![ολοκληρωμένο έργο](images/balloons-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Τι θα χρειαστείς
 ---
 
-### Hardware
+### Υλικό (Hardware)
 
-+ A computer capable of running Scratch
++ Ένας υπολογιστής ικανός να τρέχει το Scratch
 
-### Software
+### Λογισμικό
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Τι θα μάθεις
 ---
 
-- How to use animation to make sprites move
-- How to use random numbers
-- How to draw sprites
-- How to create clones of a sprite
+- Πώς να δημιουργήσεις κινούμενα σχέδια με τα αντικείμενα στο scratch
+- Πώς να χρησιμοποιήσεις τυχαίους αριθμούς
+- Πώς να ζωγραφίσεις αντικείμενα
+- Πώς να δημιουργήσεις κλώνο ενός αντικειμένου
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Πρόσθετες πληροφορίες για εκπαιδευτικούς
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/balloons/print){:target="_blank"}.
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/balloons/print)"{:target="_blank"}.
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/balloons-get){:target="_blank"}.
+Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/en/balloons-get){:target="_blank"}.
 
 --- /collapse ---
