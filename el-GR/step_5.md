@@ -1,20 +1,20 @@
-## Popping balloons
+## Σκάσιμο μπαλονιών
 
-Lets allow the player to pop the balloons!
+Ας δώσουμε τη δυνατότητα στον παίκτη να σκάσει τα μπαλόνια!
 
 --- task ---
 
-Click on your balloon sprite, and then click the **Costumes** tab. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
+Κάνε κλικ στο αντικείμενο μπαλόνι και ξανά κλικ στην καρτέλα **Ενδυμασίες**. Μπορείς να διαγράψεις όλες τις άλλες ενδυμασίες, αφήνοντας μόνο μία ενδυμασία με μπαλόνι. Πρόσθεσε μια νέα ενδυμασία, κάνοντας κλικ στη **Ζωγραφική νέας ενδυμασίας ** και δημιούργησε μία νέα ενδυμασία με το όνομα `σκασμένο`.
 
-![balloon costume called burst](images/balloons-costume.png)
+![ενδυμασία μπαλονιού με το όνομα "σκασμένο"](images/balloons-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that your balloon switches to the right costume when the game starts. Your code should now look like this:
+Βεβαιώσου ότι το μπαλόνι σου αλλάζει στη σωστή ενδυμασία κατά την έναρξη του παιχνιδιού. Ο κώδικάς σου τώρα θα φαίνεται έτσι:
 
-![balloon sprite](images/balloon-sprite.png)
+![αντικείμενο μπαλόνι](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -32,9 +32,9 @@ end
 
 --- task ---
 
-To allow the player to burst a balloon, add this code:
+Για να δώσεις τη δυνατότητα στον παίκτη να σκάσει ένα μπαλόνι, πρόσθεσε αυτόν τον κώδικα:
 
-![balloon sprite](images/balloon-sprite.png)
+![αντικείμενο μπαλόνι](images/balloon-sprite.png)
 
 ```blocks3
     when this sprite clicked
@@ -46,13 +46,13 @@ To allow the player to burst a balloon, add this code:
 
 --- task ---
 
-Test out your project. Can you pop the balloon? Does it work as you expected?
+Δοκίμασε το έργο σου. Μπορείς να σκάσεις το μπαλόνι; Είναι αυτό που περίμενες;
 
-You'll need to improve this code, so that when the balloon is clicked, it shows the `burst` costume for a short time, and is then hidden.
+Θα χρειαστεί να βελτιώσεις αυτόν τον κώδικα, έτσι ώστε όταν κάνεις κλικ στο μπαλόνι, να δείχνει την ενδυμασία `σκασμένο` για μικρό χρονικό διάστημα, και στη συνέχεια να εξαφανίζεται.
 
-You can make all of this happen by changing your balloon `when sprite clicked`{:class="block3events"} code to this:
+Μπορείς να τα κάνεις όλα αυτά αλλάζοντας τον κώδικα στο μπαλόνι σου στο ` όταν γίνει κλικ σε αυτό το αντικείμενο`{:class="block3events"}:
 
-![balloon sprite](images/balloon-sprite.png)
+![αντικείμενο μπαλόνι](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -66,9 +66,9 @@ start sound (pop v)
 
 --- task ---
 
-Now that you're deleting the balloon when it's clicked, you'll also need to add a `show`{:class="block3looks"} block to the start of the `when flag clicked`{:class="block3events"} code.
+Τώρα που διαγράφεις το μπαλόνι όταν γίνει κλικ, θα πρέπει επίσης να προσθέσεις ένα μπλοκ `εμφανίσου`{:class="block3looks"} στην αρχή του κώδικα `όταν γίνει κλικ στην πράσινη σημαία`{:class="block3events"}.
 
-![balloon sprite](images/balloon-sprite.png)
+![αντικείμενο μπαλόνι](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -81,6 +81,6 @@ point in direction (pick random (-90) to (180))
 
 --- task ---
 
-Try popping a balloon again, to check that it works properly.
+Δοκίμασε να σκάσεις ξανά ένα μπαλόνι, για να βεβαιωθείς ότι λειτουργεί σωστά.
 
 --- /task ---
