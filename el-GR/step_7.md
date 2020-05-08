@@ -1,8 +1,8 @@
 ## Lots of balloons
 
-Popping 1 balloon isn't much of a game, so let's add lots more!
+Το σκάσιμο ενός μπαλονιού δεν είναι και κανένα σοβαρό παιχνίδι, οπότε ας προσθέσουμε πολλά περισσότερα!
 
-One simple way to get lots of balloons is just to right-click on the balloon sprite and click **duplicate**. This is OK if you only want a few, but what if you need 20? or 100? Are you really going to click **duplicate** that many times?
+Ένας απλός τρόπος για να πάρεις πολλά μπαλόνια είναι απλώς να κάνεις δεξί κλικ στο αντικείμενο του μπαλονιού και να κάνεις κλικ στο **διπλασιασμό**. Αυτό είναι εντάξει εάν θέλεις λίγα, αλλά τι γίνεται αν χρειάζεσαι 20; ή 100; Are you really going to click **duplicate** that many times?
 
 A much better way of getting lots of balloons is to _clone_ the balloon sprite.
 
