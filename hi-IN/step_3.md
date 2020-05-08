@@ -38,13 +38,13 @@
 
 --- hint ---
 
-`Change the color effect by`{:class="block3looks"} by a `random number`{:class="block3operators"} when the `green flag is clicked`{:class="block3events"}.
+`Change the color effect by`{:class="block3looks"} एक `random number`{:class="block3operators"} जब`green flag is clicked`{:class="block3events"} दबाया जाये |
 
 --- /hint ---
 
 --- hint ---
 
-You will need to add these blocks to your code.
+आपको अपने कोड में यह ब्लॉक्स जोड़ना होगा:
 
 ```blocks3
 (pick random (0) to (200)
@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-You code should look like this:
+आपका कोड इस प्रकार दिखना चाहिए:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -78,5 +78,5 @@ You code should look like this:
 
 --- /task ---
 
-What happens if this code is put at the start of your program? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
+यदि यह कोड आपके प्रोग्राम की शुरुआत में रखा जाए तो क्या होगा? क्या कुछ अलग होता है जब आप इस कोड को `forever`{:class="block3control"} लूप (loop) के _अंदर_  डालते है तो? आप क्या पसंद करेंगे?
 
