@@ -1,14 +1,14 @@
-## Lots of balloons
+## बहुत सारे गुब्बारे
 
-Popping 1 balloon isn't much of a game, so let's add lots more!
+1 गुब्बारा फोड़ना कोई खेल नहीं है तो चलिए और भी बहुत कुछ जोड़ते हैं!
 
-One simple way to get lots of balloons is just to right-click on the balloon sprite and click **duplicate**. This is OK if you only want a few, but what if you need 20? or 100? Are you really going to click **duplicate** that many times?
+बहुत सारे गुब्बारों को लाने के एक बहुत आसान तरीका है कि आप गुब्बारे के स्प्राइट पर राइट क्लिक (right-click) करके **duplicate** दबा सकते हैं | यह ठीक है यदि आप केवल कुछ गुब्बारे चाहते, लेकिन क्या होगा यदि आपको 20 की आवश्यकता है? या 100? क्या आप सचमुच **duplicate** उतनी बार दबाएंगे?
 
-A much better way of getting lots of balloons is to _clone_ the balloon sprite.
+बहुत सारे गुब्बारे पाने का एक बेहतर तरीका है, गुब्बारा स्प्राइट का _clone_ बनाना।
 
 --- task ---
 
-Drag your balloon `when flag clicked`{:class="block3events"} code to a new `when I start as a clone`{:class="block3control"} control block.
+अपने गुब्बारे के `when flag clicked`{:class="block3events"} कोड को खींचकर इस नए `when I start as a clone`{:class="block3control"} कंट्रोल (control) ब्लॉक में जोड़ें |
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -41,7 +41,7 @@ end
 
 --- task ---
 
-Add code to create 20 balloon clones to the `when flag clicked`{:class="block3events"} code.
+अपने `when flag clicked`{:class="block3events"} कोड में यह और कोड जोड़ें ताकि आपके गुब्बारों के 20 क्लोन्स (clones) बन जाएं |
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -58,7 +58,7 @@ end
 
 --- task ---
 
-You should also replace the `hide`{:class="block3looks"} block in the balloon-clicking script with a `delete this clone`{:class="block3control"} block.
+आपको `hide`{:class="block3looks"} ब्लॉक को बदलना पड़ेगा, गुब्बारा क्लिक करने वाली स्क्रिप्ट (script) में `delete this clone`{:class="block3control"} ब्लॉक से |
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -77,7 +77,7 @@ change [score v] by (1)
 
 --- task ---
 
-Test your project! Now when the flag is clicked, your main balloon sprite will hide and then clone itself 20 times. When each of these 20 clones is started, they will each bounce around the screen randomly, just as they did before. See if you can pop the 20 balloons!
+अपने प्रोजेक्ट का परीक्षण करें। अब जब हरे झंडे पर क्लिक किया जाएगा, तो आपका मुख्य गुब्बारा स्प्राइट छिप जाएगा और फिर 20 बार क्लोन (clone) बनाएगा। जब यह प्रत्येक 20 क्लोन (clone) बनना शुरू होते है, तो वे स्क्रीन के चारों ओर अनियमित ढंग से उछलेगा जैसा कि पहले किया था। देखें कि क्या आप 20 गुब्बारे को फोड़ सकते हैं!
 
 --- /task ---
 
