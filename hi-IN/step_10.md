@@ -1,6 +1,6 @@
-## What next?
+## आगे क्या?
 
-Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys) Scratch project.
+आइये [तकनीकी खिलौने](https://projects.raspberrypi.org/en/projects/tech-toys) Scratch प्रोजेक्ट पर एक नज़र डालें।
 
 --- no-print ---
 
@@ -9,11 +9,11 @@ Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech
   <img src="images/toys-final.png">
 </div>
 
-+ Click the bow tie to see it spin
-+ Click the sunglasses to see them change colour
-+ Click the laptop to power up the helicopter
-+ Use the arrow keys to fly the helicopter
-+ Press the space bar to make the helicopter loop-the-loop
++ बो टाई को घुमते हुए देखने के लिए उसपर क्लिक करें
++ चश्मों का रंग बदलता हुआ देखने के लिए उनपर क्लिक करें
++ हेलीकाप्टर (helicopter) को चलने के लिए लैपटॉप (laptop) पर क्लिक करें
++ हेलीकाप्टर को उड़ाने के लिए ऊपर निचे (तीर) वाले कुंजियों को दबाएं
++ हेलीकाप्टर को गोल गोल घुमाने के लिए स्पेस बार (space bar) दबाएं
 
 --- /no-print ---
 
