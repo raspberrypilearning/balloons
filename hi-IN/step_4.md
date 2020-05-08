@@ -1,3 +1,3 @@
-## Challenge: More randomness
-Can you make your balloon start by pointing in a random direction (between -90 and 180)?
+## चुनौती: कुछ और अनियमितता जोड़े
+क्या आप एक यादृच्छिक (random) दिशा (-90 और 180 के बीच) में इशारा करके अपना गुब्बारा बना सकते हैं?
 
