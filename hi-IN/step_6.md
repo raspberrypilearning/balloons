@@ -1,10 +1,10 @@
-## Adding a score
+## स्कोर (score) जोड़ना
 
-Let's make things more interesting by keeping score.
+चलिए स्कोर जोड़ कर चीजों को और अधिक रोचक बनाएं!
 
 --- task ---
 
-To keep the player's score, you need a place to put it. Create a new `variable`{:class="block3variables"} called `score`{:class="block3variables"}.
+खिलाड़ी के स्कोर (score) को बनाने के लिए आपको इसे लगाने के लिए जगह चाहिए। एक नया `variable`{:class="block3variables"} बनाइये जिसका नाम `score`{:class="block3variables"} होगा |
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,7 +12,7 @@ To keep the player's score, you need a place to put it. Create a new `variable`{
 
 --- task ---
 
-When a new game is started (by clicking the flag), you should set the player's score to 0. Add this code to the top of the balloon's `when flag clicked`{:class="block3events"} code:
+जब एक नया गेम शुरू किया जाता है (हरे झंडे को क्लिक करके) तो आपको खिलाड़ी का स्कोर 0 पर सेट करना चाहिए। इस कोड को अपने गुब्बारों `when flag clicked`{:class="block3events"} कोड के ऊपर जोड़ें:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -27,7 +27,7 @@ switch costume to (balloon1-a v)
 
 --- task ---
 
-Whenever a balloon is popped, you need to add 1 to the score:
+जब भी एक गुब्बारा फूटता है तो आपको स्कोर में 1 जोड़ने की आवश्यकता होगी:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -44,7 +44,7 @@ hide
 
 --- task ---
 
-Run your program again and click the balloon. Does your score change?
+अपना प्रोग्राम फिर से चलाएं और गुब्बारे पर क्लिक करें। क्या आपका स्कोर बदलता है?
 
 --- /task ---
 
