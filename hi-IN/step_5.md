@@ -1,10 +1,10 @@
-## Popping balloons
+## गुब्बारे फोड़ना
 
-Lets allow the player to pop the balloons!
+आइये खिलाड़ी को गुब्बारे फोड़ने को अनुमति दें!
 
 --- task ---
 
-Click on your balloon sprite, and then click the **Costumes** tab. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
+अपने गुब्बारे स्प्राइट पर क्लिक करें और फिर **Costumes** बटन पर क्लिक करें । आप अन्य सभी वेशभूषा (costumes) को हटा सकते हैं, बस 1 गुब्बारे का पोशाक को छोड़कर। एक नई पोशाक (costume) जोड़ने के लिए, **Paint a new costume** और `burst` नामक एक नई पोशाक बनाएँ |
 
 ![balloon costume called burst](images/balloons-costume.png)
 
@@ -12,7 +12,7 @@ Click on your balloon sprite, and then click the **Costumes** tab. You can delet
 
 --- task ---
 
-Make sure that your balloon switches to the right costume when the game starts. Your code should now look like this:
+सुनिश्चित करें कि आपका गुब्बारा खेल शुरू होने पर सही पोशाक में बदल जाए। आपका कोड अब इस प्रकार दिखना चाहिए:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -32,7 +32,7 @@ end
 
 --- task ---
 
-To allow the player to burst a balloon, add this code:
+खिलाड़ी को गुब्बारा फोड़ने की अनुमति देने के लिए इस कोड को जोड़ें:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -46,11 +46,11 @@ To allow the player to burst a balloon, add this code:
 
 --- task ---
 
-Test out your project. Can you pop the balloon? Does it work as you expected?
+अपने प्रोजेक्ट का परीक्षण करें। क्या आप गुब्बारे को फोड़ पा रहे हैं? क्या यह वैसे ही चला जैसा आपने सोचा था?
 
-You'll need to improve this code, so that when the balloon is clicked, it shows the `burst` costume for a short time, and is then hidden.
+आपको इस कोड को सुधारना होगा ताकि जब गुब्बारे पर क्लिक किया जाए, तो यह `burst` पोशाक थोड़े समय के लिए दिखाए और फिर छुप जाए |
 
-You can make all of this happen by changing your balloon `when sprite clicked`{:class="block3events"} code to this:
+आप यह सब कर सकते है अगर आप अपने गुब्बारे `when sprite clicked`{:class="block3events"} कोड में यह बदलाव करें:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -66,7 +66,7 @@ start sound (pop v)
 
 --- task ---
 
-Now that you're deleting the balloon when it's clicked, you'll also need to add a `show`{:class="block3looks"} block to the start of the `when flag clicked`{:class="block3events"} code.
+अब जब आप गुब्बारा हटा (delete) रहे हैं जब यह क्लिक किया जाता है, तो आपको एक `show`{:class="block3looks"} ब्लॉक `when flag clicked`{:class="block3events"} कोडके शुरुआत में जोड़ने की ज़रूरत पड़ेगी |
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -81,6 +81,6 @@ point in direction (pick random (-90) to (180))
 
 --- task ---
 
-Try popping a balloon again, to check that it works properly.
+एक गुब्बारे को फिर से फोड़ने की कोशिश करें, यह जांचने के लिए कि यह ठीक से काम करता है की नही।
 
 --- /task ---
