@@ -1,28 +1,28 @@
-## Animating a balloon
+## गुब्बारे को एनिमेट (animate) करना
 
 --- task ---
 
-Open a new Scratch project.
+एक नया Scratch प्रोजेक्ट खोलिये।
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratch-new){:target="_blank"}.
+**ऑनलाइन**: [नया ऑनलाइन Scratch प्रोजेक्ट](http://rpf.io/scratch-new){:target="_blank"} खोलें |
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+यदि आपके पास एक Scratch खाता (account) है तो आप **Remix** पर क्लिक करके प्रतिलिपि (copy) बना सकते हैं |
 
-**Offline**: open a new project in the offline editor.
+**ऑफ़लाइन**: ऑफलाइन एडिटर (offline editor) में एक नया प्रोजेक्ट खोलें |
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+यदि आपको Scratch ऑफ़लाइन एडिटर (offline editor) को डाउनलोड और इंस्टॉल (download and install) करना है तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff) {:target="_blank"} पर जाकर कर सकते हैं।
 
 --- /task ---
 
 --- task ---
 
-Delete the cat sprite.
+बिल्ली स्प्राइट को हटा (delete) दें।
 
 --- /task ---
 
 --- task ---
 
-Add in a new balloon sprite, and a suitable stage backdrop.
+एक नया गुब्बारा स्प्राइट (sprite) और एक उचित स्टेज बैकड्रॉप (stage backdrop) जोड़ें।
 
 ![backdrop and balloon sprite](images/balloons-balloon.png)
 
@@ -31,7 +31,7 @@ Add in a new balloon sprite, and a suitable stage backdrop.
 
 --- task ---
 
-Add this code to your balloon, so that it bounces around the screen:
+इस कोड को अपने गुब्बारे में जोड़ें ताकि यह स्क्रीन के चारों ओर उछले:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -49,19 +49,19 @@ Add this code to your balloon, so that it bounces around the screen:
 
 --- task ---
 
-Test out your balloon. Does it move too slowly? Change the numbers in your code if you want to speed it up a bit.
+अपने गुब्बारे का परीक्षण करें। क्या यह बहुत धीरे-धीरे चल रही हैं? यदि आप इसे थोड़ा जल्दी चलाना है तो अपने कोड में संख्याओं को बदल सकते है।
 
 --- /task ---
 
 --- task ---
 
-Did you also notice that your balloon flips as it moves around the screen?
+क्या आपने यह भी देखा कि आपका गुब्बारा पलटी मारता है जब वह स्क्रीन के चारों ओर घूमता है?
 
 ![balloon upside down](images/balloons-flip.png)
 
-Balloons don't move like this! To fix this, click on the balloon sprite icon, and then click the direction.
+गुब्बारे इस तरह तो नहीं चलते हैं! इसे ठीक करने के लिए, गुब्बारा स्प्राइट आइकन (icon) पर क्लिक करें और फिर दिशा (direction) पर क्लिक करें।
 
-In the 'rotation style' section, click 'Do not rotate' to stop the balloon rotating.
+आप 'rotation style' भाग में 'Do not rotate' पर क्लिक करें ताकि गुब्बारे घूमना बंद करदें |
 
 ![rotation style option](images/balloons-lock-annotated.png)
 
@@ -69,6 +69,6 @@ In the 'rotation style' section, click 'Do not rotate' to stop the balloon rotat
 
 --- task ---
 
-Test your program again to see if the problem is fixed.
+यह देखने के लिए कि क्या समस्या ठीक हो गई है की नहीं, अपने प्रोग्राम को फिर से परिक्षण करें।
 
 --- /task ---
