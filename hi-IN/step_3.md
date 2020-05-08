@@ -1,16 +1,16 @@
-## Random balloons
+## इधर-उधर गुब्बारे
 
 --- task ---
 
-With the code you have now, your balloon will always start in the same place and move in the same path.
+अब आपके पास जो कोड है, आपका गुब्बारा हमेशा उसी स्थान पर शुरू होगा और उसी रस्ते में आगे बढ़ेगा।
 
-Click the flag a few times to start your program, and you'll see it's the same every time.
+अपना प्रोग्राम (program) शुरू करने के लिए हरे झंडे को कई बार क्लिक करें और आप देखेंगे कि यह हर बार एक ही तरीके का दिखता है।
 
 --- /task ---
 
 --- task ---
 
-Instead of using the same x and y position each time, you can let Scratch `pick a random number`{:class="blockoperators"} instead. Change your balloon's code, so that it looks like this:
+हर बार एक ही X और Y जगह का उपयोग करने के बजाय, आप Scratch `pick a random number`{:class="blockoperators"} करने दे सकते हैं | अपने गुब्बारे का कोड बदलें ताकि वह इस तरह दिखे:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -24,13 +24,13 @@ Instead of using the same x and y position each time, you can let Scratch `pick 
     end
 ```
 
-If you click the green flag a few times, you should notice that your balloon starts in a different place each time.
+यदि आप कुछ बार हरे झंडे पर क्लिक करते हैं तो आपको यह दिखना चाहिए कि आपका गुब्बारा हर बार अलग जगह पर शुरू होरहा है।
 
 --- /task ---
 
 --- task ---
 
-You could even use a random number to choose a random balloon colour each time:
+आप हर बार एक यादृच्छिक (random) गुब्बारा रंग चुनने के लिए एक यादृच्छिक संख्या का उपयोग कर सकते हैं:
 
 ![red balloon sprite](images/balloons-colour.png)
 
