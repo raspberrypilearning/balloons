@@ -1,3 +1,3 @@
 ## Πρόκληση: Περισσότερη τυχαιότητα
-Can you make your balloon start by pointing in a random direction (between -90 and 180)?
+Μπορείς να ξεκινήσεις το μπαλόνι σου δείχνοντας (σε) μια τυχαία κατεύθυνση (μεταξύ -90 και 180);
 
