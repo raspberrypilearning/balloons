@@ -31,9 +31,9 @@
 
 --- task ---
 
-Add this code to your balloon, so that it bounces around the screen:
+Πρόσθεσε αυτόν τον κώδικα στο μπαλόνι σου, έτσι ώστε να αναπηδά τριγύρω στην οθόνη:
 
-![balloon sprite](images/balloon-sprite.png)
+![αντικείμενο μπαλόνι](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -49,26 +49,26 @@ Add this code to your balloon, so that it bounces around the screen:
 
 --- task ---
 
-Test out your balloon. Does it move too slowly? Change the numbers in your code if you want to speed it up a bit.
+Δοκίμασε το μπαλόνι σου. Μήπως κινείται πολύ αργά; Άλλαξε τους αριθμούς στον κώδικά σου εάν θέλεις να το επιταχύνεις λίγο.
 
 --- /task ---
 
 --- task ---
 
-Did you also notice that your balloon flips as it moves around the screen?
+Παρατήρησες επίσης ότι το μπαλόνι σου γυρίζει καθώς κινείται τριγύρω;
 
-![balloon upside down](images/balloons-flip.png)
+![μπαλόνι ανάποδα](images/balloons-flip.png)
 
-Balloons don't move like this! To fix this, click on the balloon sprite icon, and then click the direction.
+Τα μπαλόνια δεν κινούνται έτσι! Για να το διορθώσεις, κάνε κλικ στο εικονίδιο με το αντικείμενο μπαλόνι και, στη συνέχεια, κάνε κλικ στην κατεύθυνση.
 
-In the 'rotation style' section, click 'Do not rotate' to stop the balloon rotating.
+Στην ενότητα «στυλ περιστροφής», κάνε κλικ στο «Χωρίς περιστροφή» για να σταματήσεις την περιστροφή του μπαλονιού.
 
-![rotation style option](images/balloons-lock-annotated.png)
+![επιλογή στυλ περιστροφής](images/balloons-lock-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-Test your program again to see if the problem is fixed.
+Δοκίμασε ξανά το πρόγραμμά σου για να δεις αν το πρόβλημα έχει επιλυθεί.
 
 --- /task ---
