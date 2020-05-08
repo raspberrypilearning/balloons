@@ -1,30 +1,30 @@
-## Animating a balloon
+## Δίνοντας κίνηση στο μπαλόνι
 
 --- task ---
 
-Open a new Scratch project.
+Δημιούργησε ένα νέο έργο Scratch.
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratch-new){:target="_blank"}.
+**Online**: άνοιξε ένα [νέο online έργο Scratch](http://rpf.io/scratch-new){:target="_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Αν έχεις λογαριασμό Scratch μπορείς να κάνεις ένα αντίγραφο, κάνοντας κλικ στο κουμπί **Ανάμειξη**.
 
-**Offline**: open a new project in the offline editor.
+**Eκτός σύνδεσης**: άνοιξε ένα νέο έργο στο Scratch.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Αν χρειαστεί να κατεβάσεις και να εγκαταστήσεις τον offline editor για το Scratch, μπορείς να το βρεις στο [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Delete the cat sprite.
+Διέγραψε το αντικείμενο γάτα.
 
 --- /task ---
 
 --- task ---
 
-Add in a new balloon sprite, and a suitable stage backdrop.
+Πρόσθεσε ένα νέο αντικείμενο μπαλόνι και ένα κατάλληλο υπόβαθρο σκηνικού.
 
-![backdrop and balloon sprite](images/balloons-balloon.png)
+![σκηνικό και αντικείμενο μπαλόνι](images/balloons-balloon.png)
 
 --- /task ---
 
