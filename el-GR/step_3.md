@@ -78,5 +78,5 @@ change [colour v] effect by (25)
 
 --- /task ---
 
-Τι θα συμβεί εάν αυτός ο κώδικας τοποθετηθεί στην αρχή του προγράμματος σου; Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
+Τι θα συμβεί εάν αυτός ο κώδικας τοποθετηθεί στην αρχή του προγράμματός σου; Συμβαίνει κάτι διαφορετικό αν βάλεις αυτόν τον κώδικα _μέσα_ στο βρόχο `για πάντα`{:class="block3control"}; Ποιο προτιμάς;
 
