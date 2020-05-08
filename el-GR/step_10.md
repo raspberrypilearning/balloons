@@ -1,6 +1,6 @@
-## What next?
+## Τι υπάρχει στη συνέχεια;
 
-Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys) Scratch project.
+Ρίξε μια ματιά στο Scratch έργο [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys).
 
 --- no-print ---
 
@@ -9,16 +9,16 @@ Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech
   <img src="images/toys-final.png">
 </div>
 
-+ Click the bow tie to see it spin
-+ Click the sunglasses to see them change colour
-+ Click the laptop to power up the helicopter
-+ Use the arrow keys to fly the helicopter
-+ Press the space bar to make the helicopter loop-the-loop
++ Κάνε κλικ στο παπιγιόν για να το δεις να περιστρέφεται
++ Κάνε κλικ στα γυαλιά ηλίου για να τα δεις να αλλάζουν χρώμα
++ Κάνε κλικ στο laptop για να ενεργοποιήσεις το ελικόπτερο
++ Χρησιμοποίησε τα πλήκτρα βέλους για να πετάξεις το ελικόπτερο
++ Πάτησε το πλήκτρο διαστήματος για να κάνεις το ελικόπτερο να κάνει μία περιστροφή
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/toys-final.png)
+![ολοκληρωμένο έργο](images/toys-final.png)
 
 --- /print-only ---
