@@ -1,19 +1,19 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
+यह इस प्रोजेक्ट का **Scratch 3** वर्ज़न (version) है। इस प्रोजेक्ट का[Scratch 2 वर्ज़न (version) भी है](https://projects.raspberrypi.org/en/projects/balloons-scratch2)।
 
 --- /no-print ---
 
-## Introduction
+## परिचय
 
-You are going to make a balloon-popping game!
+आप एक गुब्बारे को फोड़ने वाला गेम बनाने बनाना सीखेंगे!
 
 
-### What you will make
+### आप क्या बनाएँगे
 
 --- no-print ---
 
-Pop the balloons by clicking on them.
+गुब्बारों को फोड़ने के लिए उनपर क्लिक करें |
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -30,42 +30,42 @@ Pop the balloons by clicking on them.
 
 --- collapse ---
 ---
-title: What you will need
+title: आपको किन चीजों की आवश्यकता होगी
 ---
 
-### Hardware
+### हार्डवेयर
 
-+ A computer capable of running Scratch
++ Scratch चलाने में सक्षम कंप्यूटर (computer)
 
-### Software
+### सॉफ्टवेयर
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (या तो [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफ़लाइन](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: आप क्या सीखेंगे
 ---
 
-- How to use animation to make sprites move
-- How to use random numbers
-- How to draw sprites
-- How to create clones of a sprite
+- स्प्राइटस (sprites) को हिलाने के लिए एनीमेशन (animation) का प्रयोग कैसे करते है
+- यादृच्छिक (random) संख्याओं का उपयोग कैसे करते हैं
+- स्प्राइट्स को कैसे बनाते है
+- स्प्राइटस के क्लोन्स (clones) कैसे बनाते है
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: शिक्षकों के लिए अतिरिक्त जानकारी
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/balloons/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृपया [प्रिंटर-अनुकूल वर्ज़न](https://projects.raspberrypi.org/en/projects/balloons/print){:target="_ blank"} का प्रयोग करें।
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/balloons-get){:target="_blank"}.
+आप इस प्रोजेक्ट का [अंतिम रूप यहाँ](http://rpf.io/p/en/balloons-get){:target="_blank"} देख सकते है।
 
 --- /collapse ---
