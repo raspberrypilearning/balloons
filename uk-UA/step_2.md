@@ -1,28 +1,28 @@
-## Animating a balloon
+## Анімація кульки
 
 --- task ---
 
-Open a new Scratch project.
+Відкрий новий проєкт Скретч.
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratch-new){:target="_blank"}.
+**Онлайн**: відкрий [новий онлайн проєкт](http://rpf.io/scratch-new){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Якщо у тебе є обліковий запис Скретч, то ти можеш зробити копію проєкту, натиснувши **Ремікс**.
 
-**Offline**: open a new project in the offline editor.
+**Офлайн**: відкрий новий проєкт в офлайн-редакторі.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Якщо тобі треба завантажити та встановити офлайн-редактор Скретч, то ти можеш його знайти на [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Delete the cat sprite.
+Видали спрайт кота.
 
 --- /task ---
 
 --- task ---
 
-Add in a new balloon sprite, and a suitable stage backdrop.
+Додай новий спрайт кульки і підходяще тло сцени.
 
 ![backdrop and balloon sprite](images/balloons-balloon.png)
 
