@@ -1,20 +1,20 @@
-## Popping balloons
+## Palloncini scoppiettanti
 
-Lets allow the player to pop the balloons!
+Permettiamo a un giocatore di far scoppiare i palloncini!
 
 --- task ---
 
-Click on your balloon sprite, and then click the **Costumes** tab. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
+Fai clic sullo sprite palloncino e poi clicca sulla scheda **Costumi**. Elimina tutti i costumi del palloncino tranne uno. Aggiungi un nuovo costume, facendo clic su **Disegna un nuovo costume** e crea un nuovo costume chiamato `scoppio`.
 
-![balloon costume called burst](images/balloons-costume.png)
+![costume dello sprite palloncino chiamato scoppio](images/balloons-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that your balloon switches to the right costume when the game starts. Your code should now look like this:
+Assicurati che il tuo palloncino passi al costume giusto all'inizio del gioco. Il tuo codice dovrebbe apparire così:
 
-![balloon sprite](images/balloon-sprite.png)
+![sprite palloncino](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -32,9 +32,9 @@ end
 
 --- task ---
 
-To allow the player to burst a balloon, add this code:
+Per far scoppiare un palloncino al giocatore, aggiungi questo codice:
 
-![balloon sprite](images/balloon-sprite.png)
+![sprite palloncino](images/balloon-sprite.png)
 
 ```blocks3
     when this sprite clicked
@@ -46,13 +46,13 @@ To allow the player to burst a balloon, add this code:
 
 --- task ---
 
-Test out your project. Can you pop the balloon? Does it work as you expected?
+Prova il tuo progetto. Riesci a far scoppiare il palloncino? Funziona come ti aspettavi?
 
-You'll need to improve this code, so that when the balloon is clicked, it shows the `burst` costume for a short time, and is then hidden.
+Dovrai migliorare il codice facendo in modo che, quando si fa clic sul palloncino, questo mostri brevemente il costume `scoppio` e dopo si nasconda.
 
-You can make all of this happen by changing your balloon `when sprite clicked`{:class="block3events"} code to this:
+Puoi riuscirci modificando in questo modo il blocco di codice `quando si clicca su questo sprite`{:class="block3events"} del palloncino:
 
-![balloon sprite](images/balloon-sprite.png)
+![sprite palloncino](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -66,9 +66,9 @@ start sound (pop v)
 
 --- task ---
 
-Now that you're deleting the balloon when it's clicked, you'll also need to add a `show`{:class="block3looks"} block to the start of the `when flag clicked`{:class="block3events"} code.
+Ora che stai nascondendo il palloncino quando viene cliccato, dovrai anche aggiungere un blocco `mostra`{:class="block3looks"} all'inizio del blocco di codice `quando si clicca su bandiera`{:class="block3events"}.
 
-![balloon sprite](images/balloon-sprite.png)
+![sprite palloncino](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -81,6 +81,6 @@ point in direction (pick random (-90) to (180))
 
 --- task ---
 
-Try popping a balloon again, to check that it works properly.
+Prova a far scoppiare un'altra volta un palloncino per controllare che funzioni.
 
 --- /task ---
