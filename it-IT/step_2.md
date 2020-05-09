@@ -1,39 +1,39 @@
-## Animating a balloon
+## Animare un palloncino
 
 --- task ---
 
-Open a new Scratch project.
+Inizia un nuovo progetto Scratch.
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratch-new){:target="_blank"}.
+**Online**: crea un [nuovo progetto Scratch online](http://rpf.io/scratch-new) {: Target = "_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Se hai un account su Scratch, puoi farne una copia cliccando su **Remix**.
 
-**Offline**: open a new project in the offline editor.
+**Offline**: apri un nuovo progetto nell'editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se hai bisogno di scaricare ed installare l'editor offline di Scratch, puoi trovarlo su [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Delete the cat sprite.
+Cancella lo sprite del gatto.
 
 --- /task ---
 
 --- task ---
 
-Add in a new balloon sprite, and a suitable stage backdrop.
+Aggiungi uno sprite palloncino e uno sfondo adatto.
 
-![backdrop and balloon sprite](images/balloons-balloon.png)
+![sfondo e sprite di un palloncino](images/balloons-balloon.png)
 
 --- /task ---
 
 
 --- task ---
 
-Add this code to your balloon, so that it bounces around the screen:
+Aggiungi questo codice al tuo palloncino per farlo rimbalzare sullo schermo:
 
-![balloon sprite](images/balloon-sprite.png)
+![sprite palloncino](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -49,7 +49,7 @@ Add this code to your balloon, so that it bounces around the screen:
 
 --- task ---
 
-Test out your balloon. Does it move too slowly? Change the numbers in your code if you want to speed it up a bit.
+Prova il tuo palloncino. Si muove troppo lentamente? Change the numbers in your code if you want to speed it up a bit.
 
 --- /task ---
 
@@ -57,18 +57,18 @@ Test out your balloon. Does it move too slowly? Change the numbers in your code 
 
 Did you also notice that your balloon flips as it moves around the screen?
 
-![balloon upside down](images/balloons-flip.png)
+![palloncino capovolto](images/balloons-flip.png)
 
-Balloons don't move like this! To fix this, click on the balloon sprite icon, and then click the direction.
+I palloncini non si muovono così! Per risolvere questo problema, fai clic sull'icona dello sprite del palloncino, una volta fatto, fai clic sulla direzione.
 
-In the 'rotation style' section, click 'Do not rotate' to stop the balloon rotating.
+Nella sezione "Stile di rotazione", fai clic su "Non ruotare" per non farlo ruotare.
 
-![rotation style option](images/balloons-lock-annotated.png)
+![opzione di stile di rotazione](images/balloons-lock-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-Test your program again to see if the problem is fixed.
+Prova di nuovo il tuo programma per controllare se il problema è stato risolto.
 
 --- /task ---
