@@ -31,7 +31,7 @@
 
 --- task ---
 
-Add this code to your balloon, so that it bounces around the screen:
+Додай наступний код до своєї кульки так, щоб вона літала по екрану:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -49,7 +49,7 @@ Add this code to your balloon, so that it bounces around the screen:
 
 --- task ---
 
-Test out your balloon. Does it move too slowly? Change the numbers in your code if you want to speed it up a bit.
+Протестуй свою кульку. Does it move too slowly? Change the numbers in your code if you want to speed it up a bit.
 
 --- /task ---
 
