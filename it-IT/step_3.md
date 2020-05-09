@@ -1,16 +1,16 @@
-## Random balloons
+## Palloncini imprevedibili
 
 --- task ---
 
-With the code you have now, your balloon will always start in the same place and move in the same path.
+Con il codice che hai ora, il tuo palloncino inizierà sempre dallo stesso punto e farà sempre lo stesso percorso.
 
-Click the flag a few times to start your program, and you'll see it's the same every time.
+Fai clic più volte sulla bandiera per avviare il programma e vedrai che si comporta sempre allo stesso modo.
 
 --- /task ---
 
 --- task ---
 
-Instead of using the same x and y position each time, you can let Scratch `pick a random number`{:class="blockoperators"} instead. Change your balloon's code, so that it looks like this:
+Invece di usare tutte le volte le stesse coordinate x e y, puoi lasciare che Scratch scelga un `numero a caso` {: class = "blockoperators"}. Change your balloon's code, so that it looks like this:
 
 ![balloon sprite](images/balloon-sprite.png)
 
