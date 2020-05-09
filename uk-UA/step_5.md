@@ -1,10 +1,10 @@
-## Popping balloons
+## Лопання кульок
 
-Lets allow the player to pop the balloons!
+Давай надамо гравцеві можливість лопати кульки!
 
 --- task ---
 
-Click on your balloon sprite, and then click the **Costumes** tab. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
+Клацни на спрайт кульки, а потім перейди у вкладку **Образи**. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
 
 ![balloon costume called burst](images/balloons-costume.png)
 
