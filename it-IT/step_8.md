@@ -1,24 +1,24 @@
-## Adding a timer
+## Aggiungere un cronometro
 
 You can make your game more interesting, by only giving your player 10 seconds to pop as many balloons as possible.
 
 --- task ---
 
-You can use another variable to store the remaining time left. Click on the stage, and create a new variable called `time`{:class="block3variables"}.
+Puoi usare un'altra variabile per tenere il tempo rimanente. Seleziona lo sfondo, e crea un nuova variabile chiamata `tempo`{:class="block3variables"}.
 
 --- /task ---
 
-This is how the timer should work:
+Ecco come dovrebbe funzionare il cronometro:
 
-+ The timer should start at 10 seconds;
-+ The timer should count down every second;
-+ The game should stop when the timer gets to 0.
++ Dovrebbe iniziare a 10 secondi;
++ Ogni secondo dovrebbe diminuire il tempo rimasto;
++ Il gioco dovrebbe interrompersi quando il cronometro raggiunge lo 0.
 
 --- task ---
 
-Here's the code to do this, which you can add to your _stage_:
+Questo è il codice per farlo, che puoi aggiungere allo _sfondo_:
 
-![balloon sprite](images/stage-sprite.png)
+![sprite palloncino](images/stage-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -34,7 +34,7 @@ stop [all v]
 
 --- task ---
 
-Drag your 'time' variable display to the right side of the stage. You can also right-click on the variable display and choose 'large readout' to change how the time is displayed.
+Trascina la visualizzazione della variabile "tempo" sul lato destro dello stage. Puoi fare clic con il tasto destro del mouse sul segnaposto della variabile e scegliere "grande" per cambiarne la visualizzazione.
 
 ![screenshot](images/balloons-readout.png)
 
@@ -42,14 +42,14 @@ Drag your 'time' variable display to the right side of the stage. You can also r
 
 --- task ---
 
-Test your game. How many points can you score? If your game is too easy, you can:
+Prova il tuo codice. Quanti punti riesci a fare? Se il gioco è troppo facile, puoi:
 
-+ Give the player less time;
-+ Have more balloons;
-+ Make the balloons move faster;
-+ Make the balloons smaller.
++ Dare al giocatore meno tempo;
++ Creare più palloncini;
++ Far muovere i palloncini più velocemente;
++ Rimpicciolire i palloncini.
 
-Play your game a few times until you're happy that it's the right level of difficulty.
+Gioca più volte fino a quando non sarai soddisfatto ed avrai trovato il giusto livello di difficoltà.
 
 --- /task ---
 
