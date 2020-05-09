@@ -12,7 +12,7 @@
 
 Замість того, щоб кожного разу вибирати однакові значення для x та y, ти можеш дозволити Скретч вибрати `випадкове число`{:class="blockoperators"}. Зміни код для своєї кульки, щоб він виглядав таким чином:
 
-![balloon sprite](images/balloon-sprite.png)
+![спрайт кульки](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -32,7 +32,7 @@
 
 Ти навіть можеш використовувати випадкове число, щоб вибирати випадковий колір кульки кожного разу:
 
-![red balloon sprite](images/balloons-colour.png)
+![червоний спрайт кульки](images/balloons-colour.png)
 
 --- hints ---
 
@@ -56,9 +56,9 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-You code should look like this:
+Твій код має виглядати таким чином:
 
-![balloon sprite](images/balloon-sprite.png)
+![спрайт кульки](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -78,5 +78,5 @@ You code should look like this:
 
 --- /task ---
 
-What happens if this code is put at the start of your program? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
+Що відбувається, коли цей код розміщено на початку твоєї програми? Чи щось зміниться, якщо ти розмістиш його _всередині_ циклу `завджи`{:class="block3control"}? Який із цих варіантів тобі подобається більше?
 
