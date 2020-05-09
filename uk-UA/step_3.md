@@ -1,8 +1,8 @@
-## Random balloons
+## Випадкові кульки
 
 --- task ---
 
-With the code you have now, your balloon will always start in the same place and move in the same path.
+Із кодом, який в тебе є зараз, твоя кулька буде завжди починати з одного й того ж місця і рухатиметься по однаковому шляху.
 
 Click the flag a few times to start your program, and you'll see it's the same every time.
 
