@@ -24,7 +24,7 @@
 
 Додай новий спрайт кульки і підходяще тло сцени.
 
-![backdrop and balloon sprite](images/balloons-balloon.png)
+![тло та спрайт кульки](images/balloons-balloon.png)
 
 --- /task ---
 
@@ -33,7 +33,7 @@
 
 Додай наступний код до своєї кульки так, щоб вона літала по екрану:
 
-![balloon sprite](images/balloon-sprite.png)
+![спрайт кульки](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -49,26 +49,26 @@
 
 --- task ---
 
-Протестуй свою кульку. Does it move too slowly? Change the numbers in your code if you want to speed it up a bit.
+Протестуй свою кульку. Вона рухається заповільно? Зміни числа в своєму коді, якщо ти хочеш її трохи прискорити.
 
 --- /task ---
 
 --- task ---
 
-Did you also notice that your balloon flips as it moves around the screen?
+Ти помітив (-ла), що кулька повертається, коли рухається по екрану?
 
-![balloon upside down](images/balloons-flip.png)
+![кулька догори ногами](images/balloons-flip.png)
 
-Balloons don't move like this! To fix this, click on the balloon sprite icon, and then click the direction.
+Кульки так не рухаються! Щоб це виправити, клацни на іконку спрайта кульки, а далі клікни на напрям.
 
-In the 'rotation style' section, click 'Do not rotate' to stop the balloon rotating.
+В розділі "Стиль обертання", клацни на "Не обертати", щоб не давати кульці повертатися.
 
-![rotation style option](images/balloons-lock-annotated.png)
+![параметри стилю обертання](images/balloons-lock-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-Test your program again to see if the problem is fixed.
+Протестуй свою програму, щоб побачити, чи цю проблему вдалося вирішити.
 
 --- /task ---
