@@ -4,17 +4,17 @@
 
 --- task ---
 
-Клацни на спрайт кульки, а потім перейди у вкладку **Образи**. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
+Клацни на спрайт кульки, а потім перейди у вкладку **Образи**. Ти можеш залишити тільки 1 образ кульки, видаливши всі інші. Якщо хочеш, можеш перейменувати його на "кулька". Додай новий образ, клацнувши на **Малювати**, і створи новий костюм із назвою `бабах`.
 
-![balloon costume called burst](images/balloons-costume.png)
+![образ кульки, що називається "бабах"](images/balloons-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that your balloon switches to the right costume when the game starts. Your code should now look like this:
+Переконайся в тому, що твоя кулька перемикаєтсья на правильний образ на початку гри. Тепер твій код має виглядати так:
 
-![balloon sprite](images/balloon-sprite.png)
+![спрайт кульки](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -32,9 +32,9 @@ end
 
 --- task ---
 
-To allow the player to burst a balloon, add this code:
+Щоб дати гравцеві можливість лопати кульку, додай наступний код:
 
-![balloon sprite](images/balloon-sprite.png)
+![спрайт кульки](images/balloon-sprite.png)
 
 ```blocks3
     when this sprite clicked
@@ -46,13 +46,13 @@ To allow the player to burst a balloon, add this code:
 
 --- task ---
 
-Test out your project. Can you pop the balloon? Does it work as you expected?
+Перевір свій проєкт. Чи можеш ти лопнути кульку? Чи все працює як слід?
 
-You'll need to improve this code, so that when the balloon is clicked, it shows the `burst` costume for a short time, and is then hidden.
+Тобі треба буде вдосконалити код, щоб при натисканні на кульку протягом короткого часу відображався образ `бабах`, після чого кулька ховалася.
 
-You can make all of this happen by changing your balloon `when sprite clicked`{:class="block3events"} code to this:
+Ти можеш реалізувати усе це, змінивши код `коли спрайт натиснуто`{:class="block3events"} таким чином:
 
-![balloon sprite](images/balloon-sprite.png)
+![спрайт кульки](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -66,9 +66,9 @@ start sound (pop v)
 
 --- task ---
 
-Now that you're deleting the balloon when it's clicked, you'll also need to add a `show`{:class="block3looks"} block to the start of the `when flag clicked`{:class="block3events"} code.
+Тепер, коли ти почав (-ла) видаляти кульку після натискання на неї, тобі також треба додати блок `показати`{:class="block3looks"} на початку фрагменту `коли зелений прапор натиснуто`{:class="block3events"}.
 
-![balloon sprite](images/balloon-sprite.png)
+![спрайт кульки](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -81,6 +81,6 @@ point in direction (pick random (-90) to (180))
 
 --- task ---
 
-Try popping a balloon again, to check that it works properly.
+Спробуй лопнути кульку іще, щоб перевірити, що все працює як слід.
 
 --- /task ---
