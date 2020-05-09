@@ -12,7 +12,7 @@ Fai clic più volte sulla bandiera per avviare il programma e vedrai che si comp
 
 Invece di usare tutte le volte le stesse coordinate x e y, puoi lasciare che Scratch scelga un `numero a caso` {: class = "blockoperators"}. Change your balloon's code, so that it looks like this:
 
-![balloon sprite](images/balloon-sprite.png)
+![sprite palloncino](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -30,9 +30,9 @@ If you click the green flag a few times, you should notice that your balloon sta
 
 --- task ---
 
-You could even use a random number to choose a random balloon colour each time:
+Puoi anche usare un numero casuale per scegliere ogni volta un colore a caso per il palloncino:
 
-![red balloon sprite](images/balloons-colour.png)
+![sprite palloncino rosso](images/balloons-colour.png)
 
 --- hints ---
 
@@ -44,7 +44,7 @@ You could even use a random number to choose a random balloon colour each time:
 
 --- hint ---
 
-You will need to add these blocks to your code.
+Dovrai aggiungere questi blocchi al tuo codice.
 
 ```blocks3
 (pick random (0) to (200)
@@ -56,9 +56,9 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-You code should look like this:
+Il tuo codice dovrebbe assomigliare a questo:
 
-![balloon sprite](images/balloon-sprite.png)
+![sprite palloncino](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -78,5 +78,5 @@ You code should look like this:
 
 --- /task ---
 
-What happens if this code is put at the start of your program? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
+Cosa succede se mettiamo questo codice all'inizio del programma? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Quale preferisci?
 
