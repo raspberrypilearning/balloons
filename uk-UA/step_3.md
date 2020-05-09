@@ -4,13 +4,13 @@
 
 Із кодом, який в тебе є зараз, твоя кулька буде завжди починати з одного й того ж місця і рухатиметься по однаковому шляху.
 
-Click the flag a few times to start your program, and you'll see it's the same every time.
+Клацни на прапорець кілька разів, щоб запустити програму, і ти побачиш кожного разу одне й те саме.
 
 --- /task ---
 
 --- task ---
 
-Instead of using the same x and y position each time, you can let Scratch `pick a random number`{:class="blockoperators"} instead. Change your balloon's code, so that it looks like this:
+Замість того, щоб кожного разу вибирати однакові значення для x та y, ти можеш дозволити Скретч вибрати `випадкове число`{:class="blockoperators"}. Зміни код для своєї кульки, щоб він виглядав таким чином:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -24,13 +24,13 @@ Instead of using the same x and y position each time, you can let Scratch `pick 
     end
 ```
 
-If you click the green flag a few times, you should notice that your balloon starts in a different place each time.
+Якщо ти клацнеш на зелений прапор декілька разів, то помітиш, що кулька починає кожного разу в іншому місці.
 
 --- /task ---
 
 --- task ---
 
-You could even use a random number to choose a random balloon colour each time:
+Ти навіть можеш використовувати випадкове число, щоб вибирати випадковий колір кульки кожного разу:
 
 ![red balloon sprite](images/balloons-colour.png)
 
@@ -38,13 +38,13 @@ You could even use a random number to choose a random balloon colour each time:
 
 --- hint ---
 
-`Change the color effect by`{:class="block3looks"} by a `random number`{:class="block3operators"} when the `green flag is clicked`{:class="block3events"}.
+`Змінити ефект колір`{:class="block3looks"} на `випадкове число`{:class="block3operators"}, коли `зелений прапор натиснуто`{:class="block3events"}.
 
 --- /hint ---
 
 --- hint ---
 
-You will need to add these blocks to your code.
+Тобі треба буде додати наступні блоки до свого коду.
 
 ```blocks3
 (pick random (0) to (200)
