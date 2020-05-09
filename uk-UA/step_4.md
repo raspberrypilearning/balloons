@@ -1,3 +1,3 @@
-## Challenge: More randomness
-Can you make your balloon start by pointing in a random direction (between -90 and 180)?
+## Завдання: більше випадковості
+Чи можеш ти направити свою кульку напочатку у випадковому напрямку (від -90 до 180)?
 
