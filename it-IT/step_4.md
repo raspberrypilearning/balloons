@@ -1,3 +1,3 @@
-## Challenge: More randomness
-Can you make your balloon start by pointing in a random direction (between -90 and 180)?
+## Sfida: Aggiungi ancora più casualità
+Riesci a far partire il tuo palloncino indirizzandolo in una direzione a caso (tra -90 e 180)?
 
