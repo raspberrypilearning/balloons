@@ -11,14 +11,14 @@ Du kannst eine weitere Variable verwenden, um die verbleibende Zeit zu speichern
 So sollte der Timer funktionieren:
 
 + Der Timer sollte bei 10 Sekunden starten;
-+ The timer should count down every second;
-+ The game should stop when the timer gets to 0.
++ Der Timer sollte jede Sekunde herunterzählen;
++ Das Spiel soll aufhören, wenn der Timer 0 erreicht.
 
 --- task ---
 
-Here's the code to do this, which you can add to your _stage_:
+Hier ist der Code, den du der _Bühne_ hinzufügen kannst:
 
-![balloon sprite](images/stage-sprite.png)
+![Luftballon-Sprite](images/stage-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -34,22 +34,22 @@ stop [all v]
 
 --- task ---
 
-Drag your 'time' variable display to the right side of the stage. You can also right-click on the variable display and choose 'large readout' to change how the time is displayed.
+Zieh die Anzeige deiner Variablen „Zeit“ auf die rechte Seite der Bühne. Du kannst auch mit der rechten Maustaste auf die Variablenanzeige klicken und "Große Anzeige" auswählen, um die Anzeige der Uhrzeit zu ändern.
 
-![screenshot](images/balloons-readout.png)
+![Screenshot](images/balloons-readout.png)
 
 --- /task ---
 
 --- task ---
 
-Test your game. How many points can you score? If your game is too easy, you can:
+Teste dein Spiel. Wieviele Punkte schaffst du? Wenn dein Spiel zu einfach ist, kannst du:
 
-+ Give the player less time;
-+ Have more balloons;
-+ Make the balloons move faster;
-+ Make the balloons smaller.
++ Dem Spieler weniger Zeit geben;
++ Mehr Luftballons erzeugen;
++ Die Luftballons schneller bewegen;
++ Die Luftballons verkleinern.
 
-Play your game a few times until you're happy that it's the right level of difficulty.
+Spiele dein Spiel ein paarmal, bis du mit dem Schwierigkeitsgrad zufrieden bist.
 
 --- /task ---
 
