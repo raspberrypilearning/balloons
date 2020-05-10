@@ -1,6 +1,6 @@
-## What next?
+## Wie geht's weiter?
 
-Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys) Scratch project.
+Schau dir das [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys) Scratch-Projekt an.
 
 --- no-print ---
 
@@ -9,11 +9,11 @@ Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech
   <img src="images/toys-final.png">
 </div>
 
-+ Click the bow tie to see it spin
-+ Click the sunglasses to see them change colour
-+ Click the laptop to power up the helicopter
-+ Use the arrow keys to fly the helicopter
-+ Press the space bar to make the helicopter loop-the-loop
++ Klicke auf die Fliege um zu sehen, wie sie sich dreht
++ Klicke auf die Sonnenbrille um zu sehen, wie sie ihre Farbe ändert
++ Klicke auf den Laptop, um den Hubschrauber einzuschalten
++ Verwende die Pfeiltasten, um den Hubschrauber zu fliegen
++ Drücke die Leertaste, um einen Looping mit dem Hubschrauber zu fliegen
 
 --- /no-print ---
 
