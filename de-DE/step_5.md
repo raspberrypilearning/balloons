@@ -1,10 +1,10 @@
-## Popping balloons
+## Luftballons platzen lassen
 
-Lets allow the player to pop the balloons!
+Erlaube dem Spieler, die Luftballons platzen zu lassen!
 
 --- task ---
 
-Click on your balloon sprite, and then click the **Costumes** tab. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
+Klicke auf deinen Luftballon-Sprite und klicke auf den Reiter **Kostüme**. Du kannst bis auf ein Luftballon-Kostüm alle Kostüme löschen. Füge ein neues Kostüm hinzu, indem du auf **Malen** klickst und ein neues Kostüm namens `Geplatzt` erstellst.
 
 ![balloon costume called burst](images/balloons-costume.png)
 
@@ -12,7 +12,7 @@ Click on your balloon sprite, and then click the **Costumes** tab. You can delet
 
 --- task ---
 
-Make sure that your balloon switches to the right costume when the game starts. Your code should now look like this:
+Stelle sicher, dass dein Luftballon zu Beginn des Spiels auf das richtige Kostüm wechselt. Dein Code sollte jetzt so aussehen:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -32,7 +32,7 @@ end
 
 --- task ---
 
-To allow the player to burst a balloon, add this code:
+Füge diesen Code hinzu, damit der Spieler einen Luftballon platzen lassen kann:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -46,9 +46,9 @@ To allow the player to burst a balloon, add this code:
 
 --- task ---
 
-Test out your project. Can you pop the balloon? Does it work as you expected?
+Teste nun dein Projekt. Kannst du den Luftballon platzen lassen? Funktioniert es wie erwartet?
 
-You'll need to improve this code, so that when the balloon is clicked, it shows the `burst` costume for a short time, and is then hidden.
+Du musst diesen Code verbessern, damit beim Klicken auf den Luftballon das `Geplatzt` Kostüm für kurze Zeit angezeigt wird.
 
 You can make all of this happen by changing your balloon `when sprite clicked`{:class="block3events"} code to this:
 
