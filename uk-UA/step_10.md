@@ -1,6 +1,6 @@
-## What next?
+## Що далі?
 
-Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys) Scratch project.
+Поглянь на проєкт Скретч [Технічні іграшки](https://projects.raspberrypi.org/en/projects/tech-toys).
 
 --- no-print ---
 
@@ -9,16 +9,16 @@ Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech
   <img src="images/toys-final.png">
 </div>
 
-+ Click the bow tie to see it spin
-+ Click the sunglasses to see them change colour
-+ Click the laptop to power up the helicopter
-+ Use the arrow keys to fly the helicopter
-+ Press the space bar to make the helicopter loop-the-loop
++ Клацни на краватку-метелик, щоб побачити, як вона обертається
++ Клацни на сонцезахисні окуляри, щоб побачити, як вони змінюють колір
++ Клацни на ноутбук, щоб запустити гелікоптер
++ Використовуй клавіші зі стрілками для керуванням гелікоптером
++ Натисни на клавішу пропуск, щоб гелікоптер зробив мертву петлю
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/toys-final.png)
+![завершений проєкт](images/toys-final.png)
 
 --- /print-only ---
