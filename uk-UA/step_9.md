@@ -1,5 +1,5 @@
-## Challenge: More objects
-Can you add in other objects to your game? You can add good objects, like donuts, that give you lots of points, or bad objects, like bats, that take points away.
+## Завдання: більше об’єктів
+Чи можеш ти додати інші об’єкти до своєї гри? You can add good objects, like donuts, that give you lots of points, or bad objects, like bats, that take points away.
 
 ![screenshot](images/balloons-objects.png)
 
