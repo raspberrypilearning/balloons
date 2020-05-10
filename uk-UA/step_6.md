@@ -1,10 +1,10 @@
-## Adding a score
+## Додавання рахунку
 
-Let's make things more interesting by keeping score.
+Давай зробимо гру цікавішою, додавши підрахунок очок.
 
 --- task ---
 
-To keep the player's score, you need a place to put it. Create a new `variable`{:class="block3variables"} called `score`{:class="block3variables"}.
+Щоб зберігати рахунок гравця, тобі потрібне для цього якесь місце. Створи нову `змінну`{:class="block3variables"} з назвою `рахунок`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,9 +12,9 @@ To keep the player's score, you need a place to put it. Create a new `variable`{
 
 --- task ---
 
-When a new game is started (by clicking the flag), you should set the player's score to 0. Add this code to the top of the balloon's `when flag clicked`{:class="block3events"} code:
+Коли гра розпочинається (при натисканні прапора), ти маєш обнулити рахунок гравця. Додай наступний код на початку скрипта для кульки під `коли зелений прапор натистнуто`{:class="block3events"}:
 
-![balloon sprite](images/balloon-sprite.png)
+![спрайт кульки](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -27,9 +27,9 @@ switch costume to (balloon1-a v)
 
 --- task ---
 
-Whenever a balloon is popped, you need to add 1 to the score:
+Кожного разу, коли кулька лопається, тобі треба збільшувати рахунок на 1:
 
-![balloon sprite](images/balloon-sprite.png)
+![спрайт кульки](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -44,7 +44,7 @@ hide
 
 --- task ---
 
-Run your program again and click the balloon. Does your score change?
+Запусти свою програму знову і клацни на кульку. Чи змінюється твій рахунок?
 
 --- /task ---
 
