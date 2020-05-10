@@ -1,16 +1,16 @@
-## Adding a timer
+## Hinzufügen eines Timers
 
-You can make your game more interesting, by only giving your player 10 seconds to pop as many balloons as possible.
+Du kannst das Spiel interessanter machen, indem du deinem Spieler nur 10 Sekunden Zeit gibst, um so viele Luftballons wie möglich platzen zu lassen.
 
 --- task ---
 
-You can use another variable to store the remaining time left. Click on the stage, and create a new variable called `time`{:class="block3variables"}.
+Du kannst eine weitere Variable verwenden, um die verbleibende Zeit zu speichern. Klicke auf die Bühne und füge eine neue Variable `Zeit`{:class="block3variables"} hinzu.
 
 --- /task ---
 
-This is how the timer should work:
+So sollte der Timer funktionieren:
 
-+ The timer should start at 10 seconds;
++ Der Timer sollte bei 10 Sekunden starten;
 + The timer should count down every second;
 + The game should stop when the timer gets to 0.
 
