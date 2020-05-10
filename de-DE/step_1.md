@@ -1,19 +1,19 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
+Dies ist die **Scratch 3** Version des Projekts. Es gibt auch eine [Scratch 2 Version des Projekts](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
 
 --- /no-print ---
 
-## Introduction
+## Einleitung
 
-You are going to make a balloon-popping game!
+Lerne, wie man ein Lass - den - Luftballon - platzen - Spiel erstellt!
 
 
-### What you will make
+### Was du machen wirst
 
 --- no-print ---
 
-Pop the balloons by clicking on them.
+Lass die Luftballons platzen, indem du sie anklickst.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -24,48 +24,48 @@ Pop the balloons by clicking on them.
 
 --- print-only ---
 
-![complete project](images/balloons-final.png)
+![fertiges Projekt](images/balloons-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Was du brauchen wirst
 ---
 
 ### Hardware
 
-+ A computer capable of running Scratch
++ Ein Computer, auf dem Scratch ausgeführt werden kann
 
 ### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (entweder [online](http://rpf.io/scratchon){:target="_blank"} oder [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Was du lernen wirst
 ---
 
-- How to use animation to make sprites move
-- How to use random numbers
-- How to draw sprites
-- How to create clones of a sprite
+- Wie man Animationen verwendet, um Sprites zu bewegen
+- Wie man Zufallszahlen benutzt
+- Wie man Sprites zeichnet
+- Wie man einen Sprite-Klon erstellt
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Zusätzliche Informationen für Pädagogen
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/balloons/print){:target="_blank"}.
+Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/balloons/print){:target="_blank"}.
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/balloons-get){:target="_blank"}.
+Du findest das [abgeschlossene Projekt hier](http://rpf.io/p/en/balloons-get){:target="_blank"}.
 
 --- /collapse ---
