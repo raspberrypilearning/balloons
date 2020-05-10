@@ -1,13 +1,13 @@
 ## Завдання: більше об’єктів
-Чи можеш ти додати інші об’єкти до своєї гри? You can add good objects, like donuts, that give you lots of points, or bad objects, like bats, that take points away.
+Чи можеш ти додати інші об’єкти до своєї гри? Ти можеш додавати як хороші об’єкти, наприклад, пончики, що дають тобі багато очок, так і погані, наприклад, летючі миші, які очки забирають.
 
 ![screenshot](images/balloons-objects.png)
 
-You'll need to think about the objects you're adding. Think about:
+Тобі треба поміркувати про об’єкти, які ти додаватимеш. Подумай про наступне:
 
-+ How many will there be?
-+ How big is it? How does it move?
-+ How many points will you score (or lose) for clicking it?
++ Скільки їх буде?
++ Який їх розмір? Як вони рухатимуться?
++ Скільки очок ти будеш отримувати (або втрачати), якщо натискатимеш на них?
 + Will it move faster or slower than the balloons?
 + What will it look/sound like when it's been clicked?
 
