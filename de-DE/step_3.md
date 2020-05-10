@@ -1,18 +1,18 @@
-## Random balloons
+## Zufällige Luftballons
 
 --- task ---
 
-With the code you have now, your balloon will always start in the same place and move in the same path.
+Mit dem Code, den du jetzt hast, startet dein Luftballon immer an derselben Stelle und bewegt sich auf demselben Weg.
 
-Click the flag a few times to start your program, and you'll see it's the same every time.
+Klicke einige Male auf die Fahne, um dein Programm zu starten und du wirst sehen, dass es jedes Mal das Gleiche ist.
 
 --- /task ---
 
 --- task ---
 
-Instead of using the same x and y position each time, you can let Scratch `pick a random number`{:class="blockoperators"} instead. Change your balloon's code, so that it looks like this:
+Anstatt jedes Mal dieselbe x- und y-Position zu verwenden, kannst du stattdessen Scratch eine `Zufallszahl von bis` {: class = "blockoperators"} auswählen lassen. Ändere den Code deines Luftballons so, dass er folgendermaßen aussieht:
 
-![balloon sprite](images/balloon-sprite.png)
+![Luftballon-Sprite](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -24,27 +24,27 @@ Instead of using the same x and y position each time, you can let Scratch `pick 
     end
 ```
 
-If you click the green flag a few times, you should notice that your balloon starts in a different place each time.
+Wenn du einige Male auf die grüne Fahne klickst, solltest du feststellen, dass dein Luftballon jedes Mal an einer anderen Stelle startet.
 
 --- /task ---
 
 --- task ---
 
-You could even use a random number to choose a random balloon colour each time:
+Du kannst auch eine Zufallszahl verwenden, um jedes Mal eine zufällige Ballonfarbe auszuwählen:
 
-![red balloon sprite](images/balloons-colour.png)
+![roter Luftballon-Sprite](images/balloons-colour.png)
 
 --- hints ---
 
 --- hint ---
 
-`Change the color effect by`{:class="block3looks"} by a `random number`{:class="block3operators"} when the `green flag is clicked`{:class="block3events"}.
+Benutze im `ändere Effekt Farbe um` {: class = "block3looks"} Block einen `Zufallszahl von bis` {: class = "block3operators"} Block, um die Farbe im `wenn die Fahne angeklickt wird` {: class = "block3events"} Skript anzupassen.
 
 --- /hint ---
 
 --- hint ---
 
-You will need to add these blocks to your code.
+Du musst diese Blöcke zu deinem Code hinzufügen.
 
 ```blocks3
 (pick random (0) to (200)
@@ -56,9 +56,9 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-You code should look like this:
+Dein Code sollte so aussehen:
 
-![balloon sprite](images/balloon-sprite.png)
+![Luftballon-Sprite](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -78,5 +78,5 @@ You code should look like this:
 
 --- /task ---
 
-What happens if this code is put at the start of your program? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
+Was passiert, wenn dieser Code am Anfang deines Programms steht? Passiert etwas anderes, wenn der Code _innerhalb_ der `Endlosschleife` {:class="block3control"} steht? Was bevorzugst du?
 
