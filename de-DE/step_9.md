@@ -1,15 +1,15 @@
-## Challenge: More objects
-Can you add in other objects to your game? You can add good objects, like donuts, that give you lots of points, or bad objects, like bats, that take points away.
+## Herausforderung: mehr Objekte
+Kannst du deinem Spiel andere Objekte hinzufügen? Du kannst gute Objekte wie Donuts hinzufügen, die deinen Punktestand erhöhen oder schlechte Objekte wie Fledermäuse, die deinen Punktestand reduzieren.
 
-![screenshot](images/balloons-objects.png)
+![Screenshot](images/balloons-objects.png)
 
-You'll need to think about the objects you're adding. Think about:
+Du musst über die Objekte nachdenken, die du hinzufügst. Überlege dir:
 
-+ How many will there be?
-+ How big is it? How does it move?
-+ How many points will you score (or lose) for clicking it?
-+ Will it move faster or slower than the balloons?
-+ What will it look/sound like when it's been clicked?
++ Wie viele gibt es?
++ Wie groß sind sie? Wie bewegen sie sich?
++ Wie viele Punkte erhält (oder verliert) der Spieler, wenn er sie anklickt?
++ Bewegen sie sich schneller oder langsamer als die Ballons?
++ Wie werden sie aussehen/ sich anhören, wenn sie angeklickt werden?
 
-If you need help adding another object, you can reuse the previous steps!
+Wenn du Hilfe beim Hinzufügen eines weiteren Objekts benötigst, kannst du die vorher genannten Schritte erneut verwenden.
 
