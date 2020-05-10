@@ -1,24 +1,24 @@
 ## Додавання таймера
 
-You can make your game more interesting, by only giving your player 10 seconds to pop as many balloons as possible.
+Ти можеш зробити гру іще цікавішою, надаючи гравцеві лише 10 секунд для того, щоб лопнути якомога більше кульок.
 
 --- task ---
 
-You can use another variable to store the remaining time left. Click on the stage, and create a new variable called `time`{:class="block3variables"}.
+Ти можеш використати ще одну змінну для зберігання залишку часу. Клацни на сцену і створи нову змінну `час`{:class="block3variables"}.
 
 --- /task ---
 
-This is how the timer should work:
+Твій таймер має працювати так:
 
-+ The timer should start at 10 seconds;
-+ The timer should count down every second;
-+ The game should stop when the timer gets to 0.
++ Він повинен починати із 10 секунд;
++ Він повинен робити зворотній відлік кожну секунду;
++ Гра має зупинитись, коли таймер дійде до 0.
 
 --- task ---
 
-Here's the code to do this, which you can add to your _stage_:
+Ось код, який може це робити, і який ти можеш додати до своєї _сцени_:
 
-![balloon sprite](images/stage-sprite.png)
+![спрайт кульки](images/stage-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -34,22 +34,22 @@ stop [all v]
 
 --- task ---
 
-Drag your 'time' variable display to the right side of the stage. You can also right-click on the variable display and choose 'large readout' to change how the time is displayed.
+Перетягни відображення змінної "час" в праву частину сцени. Також ти можеш клацнути правою кнопкою мишки по відображенню цієї змінної і вибрати "тільки дані", щоб змінити спосіб відображення часу.
 
-![screenshot](images/balloons-readout.png)
+![знімок екрана](images/balloons-readout.png)
 
 --- /task ---
 
 --- task ---
 
-Test your game. How many points can you score? If your game is too easy, you can:
+Протестуй свою гру. Скільки очок ти можеш набрати? Якщо гра занадто проста, ти можеш:
 
-+ Give the player less time;
-+ Have more balloons;
-+ Make the balloons move faster;
-+ Make the balloons smaller.
++ Давати гравцю менше часу;
++ Зробити більше кульок;
++ Зробити, щоб кульки рухалися швидше;
++ Зробити кульки меншими.
 
-Play your game a few times until you're happy that it's the right level of difficulty.
+Зіграй в свою гру декілька разів, поки не будеш задоволений рівнем складності.
 
 --- /task ---
 
