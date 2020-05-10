@@ -1,4 +1,4 @@
-## Adding a timer
+## Додавання таймера
 
 You can make your game more interesting, by only giving your player 10 seconds to pop as many balloons as possible.
 
