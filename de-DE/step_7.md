@@ -1,16 +1,16 @@
-## Lots of balloons
+## Viele Luftballons
 
-Popping 1 balloon isn't much of a game, so let's add lots more!
+Einen Luftballon platzen zu lassen ist kein tolles Spiel, also lasst uns noch viele mehr hinzufügen!
 
-One simple way to get lots of balloons is just to right-click on the balloon sprite and click **duplicate**. This is OK if you only want a few, but what if you need 20? or 100? Are you really going to click **duplicate** that many times?
+Eine einfache Möglichkeit, viele Luftballons zu erhalten, ist, mit der rechten Maustaste auf das Luftballon-Sprite zu klicken und auf **Duplizieren** zu klicken. Dies ist in Ordnung, wenn du nur wenige möchtest, aber was ist, wenn du 20 benötigst? oder 100? Möchtest du wirklich so oft auf **Duplizieren** klicken?
 
-A much better way of getting lots of balloons is to _clone_ the balloon sprite.
+Eine viel bessere Möglichkeit, viele Ballons zu erhalten, ist das _Klonen_ des Luftballon-Sprite.
 
 --- task ---
 
-Drag your balloon `when flag clicked`{:class="block3events"} code to a new `when I start as a clone`{:class="block3control"} control block.
+Zieh deinen Luftballon `Wenn die Fahne angeklickt wird` {: class = "block3events"} Code in einen neuen `Wenn ich als Klon enstehe` {: class = "block3control"} Steuerblock.
 
-![balloon sprite](images/balloon-sprite.png)
+![Luftballon-Sprite](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -41,9 +41,9 @@ end
 
 --- task ---
 
-Add code to create 20 balloon clones to the `when flag clicked`{:class="block3events"} code.
+Füge dem `Wenn die Fahne angeklickt wird` {: class = "block3events"} Block Code hinzu um 20 Luftballon-Klone zu erstellen.
 
-![balloon sprite](images/balloon-sprite.png)
+![Luftballon-Sprite](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -58,9 +58,9 @@ end
 
 --- task ---
 
-You should also replace the `hide`{:class="block3looks"} block in the balloon-clicking script with a `delete this clone`{:class="block3control"} block.
+Du solltest auch den `verstecke dich`{: class = "block3looks"} Block im Luftballon-Klick-Skript mit einem `lösche diesen Klon`{: class = "block3control"} Block ersetzen.
 
-![balloon sprite](images/balloon-sprite.png)
+![Luftballon-Sprite](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,7 +77,7 @@ change [score v] by (1)
 
 --- task ---
 
-Test your project! Now when the flag is clicked, your main balloon sprite will hide and then clone itself 20 times. When each of these 20 clones is started, they will each bounce around the screen randomly, just as they did before. See if you can pop the 20 balloons!
+Teste dein Projekt! Wenn du jetzt auf die Fahne klickst, wird dein Haupt-Luftballon-Sprite ausgeblendet und es klont sich anschließend 20 Mal. Wenn jeder dieser 20 Klone gestartet wird, springt er wie zufällig über den Bildschirm, so wie er es vorher auch getan hat. Schau, ob du die 20 Luftballons platzen lassen kannst!
 
 --- /task ---
 
