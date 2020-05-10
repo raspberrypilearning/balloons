@@ -1,7 +1,7 @@
-balloon1-a
+Luftballon1-a
 
-burst
+Geplatzt
 
-score
+Punktestand
 
 time
