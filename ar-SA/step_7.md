@@ -1,16 +1,16 @@
-## Lots of balloons
+## الكثير من البالونات
 
-Popping 1 balloon isn't much of a game, so let's add lots more!
+فرقعة بالون واحد ليست لعبة، لذا دعنا نضيف المزيد!
 
-One simple way to get lots of balloons is just to right-click on the balloon sprite and click **duplicate**. This is OK if you only want a few, but what if you need 20? or 100? Are you really going to click **duplicate** that many times?
+إحدى الطرق البسيطة للحصول على الكثير من البالونات هي النقر بزر الماوس الأيمن على كائن بالون والنقر فوق ** مضاعفة **. هذا جيد إذا كنت تريد القليل فقط ، ولكن ماذا لو كنت بحاجة إلى 20؟ أو 100؟ هل ستقوم حقاً بالنقر فوق ** مضاعفة ** مرات عديدة؟
 
-A much better way of getting lots of balloons is to _clone_ the balloon sprite.
+هناك طريقة أفضل للحصول على الكثير من البالونات وهي _ استنساخ _ كائن بالون.
 
 --- task ---
 
-Drag your balloon `when flag clicked`{:class="block3events"} code to a new `when I start as a clone`{:class="block3control"} control block.
+اسحب الكتلة ` عند نقر العلم ` {: class = "block3events"} إلى  كتلة تحكم جديدة ` عندما أبدأ كنسخة ` {:class="block3control"}.
 
-![balloon sprite](images/balloon-sprite.png)
+![كائن بالون](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -41,9 +41,9 @@ end
 
 --- task ---
 
-Add code to create 20 balloon clones to the `when flag clicked`{:class="block3events"} code.
+أضف هذه التعليمة البرمجية لإنشاء ٢٠ نسخة من البالونات في نهاية كود `عند نقر العلم`{:class="block3events"}:.
 
-![balloon sprite](images/balloon-sprite.png)
+![كائن بالون](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -58,9 +58,9 @@ end
 
 --- task ---
 
-You should also replace the `hide`{:class="block3looks"} block in the balloon-clicking script with a `delete this clone`{:class="block3control"} block.
+يجب عليك أيضًا استبدال كتلة ` إخفاء ` {:class="block3looks"}  في البرنامج النصي للنقر عل البالون الى ` حذف هذا النسخة `{:class="block3control"}.
 
-![balloon sprite](images/balloon-sprite.png)
+![كائن بالون](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,7 +77,7 @@ change [score v] by (1)
 
 --- task ---
 
-Test your project! Now when the flag is clicked, your main balloon sprite will hide and then clone itself 20 times. When each of these 20 clones is started, they will each bounce around the screen randomly, just as they did before. See if you can pop the 20 balloons!
+قم بإختبار مشروعك! الآن عند النقر على العلم، سيتم إخفاء كائن بالون الرئيسي الخاص بك ومن ثم يستنسخ نفسه 20 مرة. عند بدء كل من هذه النسخ العشرين، سيرتد كل منها بشكل عشوائي حول الشاشة، تمامًا كما فعلوا من قبل. انظر ما إذا كان بإمكانك فرقعة 20 بالوناً!
 
 --- /task ---
 
