@@ -1,19 +1,19 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
+هذا هو إصدار ** Scratch 3 ** من المشروع. هناك أيضاً [ إصدار Scratch 2 للمشروع](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
 
 --- /no-print ---
 
-## Introduction
+## المقدمة
 
-You are going to make a balloon-popping game!
+سوف تقوم بصنع لعبة فرقعة البالون!
 
 
-### What you will make
+### ما الذي ستصنعه
 
 --- no-print ---
 
-Pop the balloons by clicking on them.
+فرقع البالونات عند النقر عليها.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -24,48 +24,48 @@ Pop the balloons by clicking on them.
 
 --- print-only ---
 
-![complete project](images/balloons-final.png)
+![المشروع كامل](images/balloons-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: ما ستحتاج إليه
 ---
 
-### Hardware
+### الأجهزة
 
-+ A computer capable of running Scratch
++ جهاز كمبيوتر يدعم تشغيل برنامج 3 Scratch
 
-### Software
+### البرامج
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ برنامج Scratch 3 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: ما الذي ستتعلمه
 ---
 
-- How to use animation to make sprites move
-- How to use random numbers
-- How to draw sprites
-- How to create clones of a sprite
+- كيفية استخدام الرسوم المتحركة لجعل الكائنات تتحرك
+- كيفية استخدام الأرقام العشوائية
+- كيفية رسم الكائنات
+- كيفية إنشاء نُسخ من الكائن
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: معلومات إضافية للمعلمين
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/balloons/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام [نسخة متوافقة مع الطابعة](https://projects.raspberrypi.org/en/projects/balloons/print){:target="_blank"}.
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/balloons-get){:target="_blank"}.
+يمكنك الحصول على [المشروع كاملاً من هنا](http://rpf.io/p/en/balloons-get){:target="_blank"}.
 
 --- /collapse ---
