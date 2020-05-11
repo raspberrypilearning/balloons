@@ -1,16 +1,16 @@
-## Random balloons
+## Globos al azar
 
 --- task ---
 
-With the code you have now, your balloon will always start in the same place and move in the same path.
+Con el código que tienes ahora, tu globo siempre comenzará en el mismo lugar y se moverá por el mismo camino.
 
-Click the flag a few times to start your program, and you'll see it's the same every time.
+Haz clic en la bandera varias veces para iniciar tu programa, y verás que siempre es igual.
 
 --- /task ---
 
 --- task ---
 
-Instead of using the same x and y position each time, you can let Scratch `pick a random number`{:class="blockoperators"} instead. Change your balloon's code, so that it looks like this:
+En lugar de usar la misma posición x e y cada vez, puedes dejar que Scratch ` elija un número aleatorio ` {: class = "blockoperators"}. Cambia el código de tu globo para que se vea así:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -24,13 +24,13 @@ Instead of using the same x and y position each time, you can let Scratch `pick 
     end
 ```
 
-If you click the green flag a few times, you should notice that your balloon starts in a different place each time.
+Si haces clic en la bandera verde varias veces, vas a notar que tu globo comienza en un lugar diferente cada vez.
 
 --- /task ---
 
 --- task ---
 
-You could even use a random number to choose a random balloon colour each time:
+Incluso podrías usar un número aleatorio para elegir un color de globo aleatorio cada vez:
 
 ![red balloon sprite](images/balloons-colour.png)
 
