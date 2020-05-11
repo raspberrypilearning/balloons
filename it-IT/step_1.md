@@ -45,7 +45,7 @@ title: Di cosa avrai bisogno
 
 --- collapse ---
 ---
-titolo: Cosa imparerai
+title: Cosa imparerai
 ---
 
 - Ad usare le animazioni per far muovere gli sprite

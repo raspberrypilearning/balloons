@@ -8,7 +8,7 @@
 
 --- task ---
 
-اسحب الكتلة ` عند نقر العلم `{:class="block3events"} إلى  كتلة تحكم جديدة ` عندما أبدأ كنسخة `{:class="block3control"}.
+اسحب الكتلة `عند نقر العلم `{:class="block3events"} إلى  كتلة تحكم جديدة `عندما أبدأ كنسخة`{:class="block3control"}.
 
 ![كائن بالون](images/balloon-sprite.png)
 
