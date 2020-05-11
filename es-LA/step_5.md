@@ -1,20 +1,20 @@
-## Popping balloons
+## Reventando globos
 
-Lets allow the player to pop the balloons!
+¡Dejemos que el jugador reviente los globos!
 
 --- task ---
 
-Click on your balloon sprite, and then click the **Costumes** tab. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
+Haz clic en tu objeto globo y luego haz clic en la pestaña ** Disfraces **. Puedes eliminar todos los otros disfraces, dejando solo 1 disfraz de globo. Agrega un nuevo disfraz, haciendo clic en ** Pintar disfraz nuevo ** y crea un nuevo disfraz llamado ` burst `.
 
-![balloon costume called burst](images/balloons-costume.png)
+![disfraz de globo llamado explosión](images/balloons-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that your balloon switches to the right costume when the game starts. Your code should now look like this:
+Asegúrate de que tu globo cambie al disfraz correcto cuando comience el juego. Tu código debería verse así:
 
-![balloon sprite](images/balloon-sprite.png)
+![objeto globo](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -32,9 +32,9 @@ end
 
 --- task ---
 
-To allow the player to burst a balloon, add this code:
+Para permitir que el jugador explote un globo, agrega este código:
 
-![balloon sprite](images/balloon-sprite.png)
+![objeto globo](images/balloon-sprite.png)
 
 ```blocks3
     when this sprite clicked
@@ -46,13 +46,13 @@ To allow the player to burst a balloon, add this code:
 
 --- task ---
 
-Test out your project. Can you pop the balloon? Does it work as you expected?
+Prueba tu proyecto. ¿Puedes reventar el globo? ¿Funciona como esperabas?
 
-You'll need to improve this code, so that when the balloon is clicked, it shows the `burst` costume for a short time, and is then hidden.
+Deberás mejorar este código, para que cuando se haga clic en el globo, muestre el disfraz `explosión` tiempo corto, y luego se oculta.
 
-You can make all of this happen by changing your balloon `when sprite clicked`{:class="block3events"} code to this:
+Puedes hacer que todo esto suceda cambiando su globo ` cuando se hace clic en el objeto ` Código {: class = "block3events"} para esto:
 
-![balloon sprite](images/balloon-sprite.png)
+![objeto globo](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -66,9 +66,9 @@ start sound (pop v)
 
 --- task ---
 
-Now that you're deleting the balloon when it's clicked, you'll also need to add a `show`{:class="block3looks"} block to the start of the `when flag clicked`{:class="block3events"} code.
+Ahora que estás eliminando el globo cuando se hace clic, también necesitarás agregar un bloque `mostrar ` {class = "block3looks"} al comienzo del ` cuando se hace clic en la bandera ` Código {: class = "block3events"}.
 
-![balloon sprite](images/balloon-sprite.png)
+![objeto globo](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -81,6 +81,6 @@ point in direction (pick random (-90) to (180))
 
 --- task ---
 
-Try popping a balloon again, to check that it works properly.
+Intenta hacer estallar un globo nuevamente para verificar que funcione correctamente.
 
 --- /task ---
