@@ -1,24 +1,24 @@
-## Adding a timer
+## إضافة مؤقت
 
-You can make your game more interesting, by only giving your player 10 seconds to pop as many balloons as possible.
+يمكنك جعل لعبتك أكثر إثارة للاهتمام، من خلال منح لاعبك 10 ثوان فقط لتفجير أكبر عدد ممكن من البالونات.
 
 --- task ---
 
-You can use another variable to store the remaining time left. Click on the stage, and create a new variable called `time`{:class="block3variables"}.
+يمكنك استخدام متغير آخر لتخزين الوقت المتبقي. انقر على المنصةـ وقم بانشاء متغير جديد بالاسم `الوقت` {:class="block3variables"}.
 
 --- /task ---
 
-This is how the timer should work:
+هذه هي الطريقة التي يجب أن يعمل بها المؤقت:
 
-+ The timer should start at 10 seconds;
-+ The timer should count down every second;
-+ The game should stop when the timer gets to 0.
++ يجب أن يبدأ المؤقت بـ 10 ثوانٍ;
++ يجب أن يقوم المؤقت بالعد التنازلي كل ثانية؛
++ ستنتهي اللعبة عندما يصل الموقِت إلى 0.
 
 --- task ---
 
-Here's the code to do this, which you can add to your _stage_:
+إليك الكود للقيام بذلك، والذي يمكنك إضافته إلى _ المنصة _ الخاصة بك:
 
-![balloon sprite](images/stage-sprite.png)
+![كائن بالون](images/stage-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -34,22 +34,22 @@ stop [all v]
 
 --- task ---
 
-Drag your 'time' variable display to the right side of the stage. You can also right-click on the variable display and choose 'large readout' to change how the time is displayed.
+اسحب متغير "الوقت" الخاص بك إلى الجانب الأيمن من المنصة. يمكنك أيضًا النقر بزر الماوس الأيمن على شاشة العرض المتغيرة واختيار "عرض كبير" لتغيير طريقة عرض الوقت.
 
-![screenshot](images/balloons-readout.png)
+![لقطة الشاشة](images/balloons-readout.png)
 
 --- /task ---
 
 --- task ---
 
-Test your game. How many points can you score? If your game is too easy, you can:
+قم بإختبار لعبتك. كم نقطة ممكن أن تسجل؟ إذا كانت اللعبة سهلة للغاية، فيمكنك:
 
-+ Give the player less time;
-+ Have more balloons;
-+ Make the balloons move faster;
-+ Make the balloons smaller.
++ منح اللاعب وقتاً أقل;
++ الحصول على المزيد من البالونات;
++ جعل البالونات تتحرك بشكل أسرع ؛
++ جعل البالونات أصغر.
 
-Play your game a few times until you're happy that it's the right level of difficulty.
+العب لعبتك عدة مرات حتى تشعر بالرضا عن المستوى الصحيح من الصعوبة.
 
 --- /task ---
 
