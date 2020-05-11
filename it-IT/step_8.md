@@ -1,6 +1,6 @@
 ## Aggiungere un cronometro
 
-You can make your game more interesting, by only giving your player 10 seconds to pop as many balloons as possible.
+Puoi rendere il tuo gioco più interessante dando ai giocatori solo 10 secondi per far scoppiare più palloncini possibile.
 
 --- task ---
 
