@@ -1,0 +1,21 @@
+---
+hero_image: images/banner.png
+listed: true
+copyedit: true
+title: गुब्बारे
+description: गुब्बारे को फोड़ने वाले गेम बनाने का तरीका सीखें!
+version: 4
+last_tested: 2018-04-02
+steps:
+  - title: परिचय
+  - title: गुब्बारे को एनिमेट (animate) करना
+  - title: इधर-उधर गुब्बारे
+  - title: 'चुनौती: कुछ और अनियमितता जोड़े'
+    challenge: true
+  - title: गुब्बारे फोड़ना
+  - title: स्कोर (score) जोड़ना
+  - title: बहुत सारे गुब्बारे
+  - title: एक टाइमर (timer) जोड़ना
+  - title: 'चुनौती: और चीज़ें जोड़ें!'
+    challenge: true
+  - title: आगे क्या?

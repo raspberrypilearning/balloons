@@ -1,0 +1,21 @@
+---
+hero_image: images/banner.png
+listed: true
+copyedit: true
+title: Кульки
+description: Дізнайся, як створити гру про лопання кульок!
+version: 4
+last_tested: 2018-04-02
+steps:
+  - title: Вступ
+  - title: Анімація кульки
+  - title: Випадкові кульки
+  - title: 'Завдання: більше випадковості'
+    challenge: true
+  - title: Лопання кульок
+  - title: Додавання рахунку
+  - title: Тьма кульок
+  - title: Додавання таймера
+  - title: 'Завдання: більше об’єктів'
+    challenge: true
+  - title: Що далі?
