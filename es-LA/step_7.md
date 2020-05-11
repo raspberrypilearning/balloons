@@ -1,16 +1,16 @@
-## Lots of balloons
+## Muchos globos
 
-Popping 1 balloon isn't much of a game, so let's add lots more!
+Hacer estallar 1 globo no es un gran juego, ¡así que agreguemos mucho más!
 
-One simple way to get lots of balloons is just to right-click on the balloon sprite and click **duplicate**. This is OK if you only want a few, but what if you need 20? or 100? Are you really going to click **duplicate** that many times?
+Una forma sencilla de obtener muchos globos es simplemente hacer clic derecho en el objeto globo y hacer clic en ** duplicar **. Esto está bien si solo quieres unos pocos, pero ¿qué pasa si necesitas 20? o 100? ¿Realmente vas a hacer clic en ** duplicar ** tantas veces?
 
-A much better way of getting lots of balloons is to _clone_ the balloon sprite.
+Una forma mucho mejor de conseguir muchos globos es clonar _ _ el objeto globo.
 
 --- task ---
 
-Drag your balloon `when flag clicked`{:class="block3events"} code to a new `when I start as a clone`{:class="block3control"} control block.
+Arrastra el código de tu globo ` cuando hagas clic en la bandera ` {: class = "block3events"} a un nuevo bloque de control ` cuando empiezo como clon ` {: class = "block3control"}.
 
-![balloon sprite](images/balloon-sprite.png)
+![objeto globo](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -41,9 +41,9 @@ end
 
 --- task ---
 
-Add code to create 20 balloon clones to the `when flag clicked`{:class="block3events"} code.
+Agrega este código al código del globo `cuando hagas clic en la bandera` {: class = "block3events"} para crear 20 globos iguales.
 
-![balloon sprite](images/balloon-sprite.png)
+![objeto globo](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -58,9 +58,9 @@ end
 
 --- task ---
 
-You should also replace the `hide`{:class="block3looks"} block in the balloon-clicking script with a `delete this clone`{:class="block3control"} block.
+También debes reemplazar el bloque ` ocultar ` {: class = "block3looks"} en la secuencia de comandos de hacer clic al globo con un bloque `eliminar este clon `{: class = "block3control"}.
 
-![balloon sprite](images/balloon-sprite.png)
+![objeto globo](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,7 +77,7 @@ change [score v] by (1)
 
 --- task ---
 
-Test your project! Now when the flag is clicked, your main balloon sprite will hide and then clone itself 20 times. When each of these 20 clones is started, they will each bounce around the screen randomly, just as they did before. See if you can pop the 20 balloons!
+Prueba tu proyecto! Ahora, cuando se hace clic en la bandera, tu objeto globo principal se ocultará y luego se clonará 20 veces. Cuando se inicia cada uno de estos 20 clones, cada uno de ellos rebota alrededor de la pantalla al azar, tal como lo hicieron antes. ¡Ve si puedes reventar los 20 globos!
 
 --- /task ---
 
