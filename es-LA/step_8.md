@@ -1,24 +1,24 @@
-## Adding a timer
+## Añadir un cronómetro
 
-You can make your game more interesting, by only giving your player 10 seconds to pop as many balloons as possible.
+Puedes hacer que tu juego sea más interesante, solo dando a tu jugador 10 segundos para hacer estallar tantos globos como sea posible.
 
 --- task ---
 
-You can use another variable to store the remaining time left. Click on the stage, and create a new variable called `time`{:class="block3variables"}.
+Puedes usar otra variable para almacenar el tiempo restante. Haz clic en el escenario y crea una nueva variable llamada `tiempo` {: class = "block3variables"}.
 
 --- /task ---
 
-This is how the timer should work:
+Así es como debería funcionar el cronómetro:
 
-+ The timer should start at 10 seconds;
-+ The timer should count down every second;
-+ The game should stop when the timer gets to 0.
++ El temporizador debería comenzar en 10 segundos;
++ El cronómetro debería contar hacia atrás cada segundo;
++ El juego debería detenerse cuando el temporizador llegue a 0.
 
 --- task ---
 
-Here's the code to do this, which you can add to your _stage_:
+Aquí está el código para hacer esto, que puede agregar a tu_escenario_:
 
-![balloon sprite](images/stage-sprite.png)
+![objeto globo](images/stage-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -34,22 +34,22 @@ stop [all v]
 
 --- task ---
 
-Drag your 'time' variable display to the right side of the stage. You can also right-click on the variable display and choose 'large readout' to change how the time is displayed.
+Arrastra tu pantalla de la variable "tiempo" al lado derecho del escenario. También puedes hacer clic con el botón derecho en la pantalla variable y elegir 'lectura grande' para cambiar la forma en que se muestra el tiempo.
 
-![screenshot](images/balloons-readout.png)
+![captura de pantalla](images/balloons-readout.png)
 
 --- /task ---
 
 --- task ---
 
-Test your game. How many points can you score? If your game is too easy, you can:
+Prueba tu juego. ¿Cuántos puntos puedes anotar? Si tu juego es demasiado fácil, puedes:
 
-+ Give the player less time;
-+ Have more balloons;
-+ Make the balloons move faster;
-+ Make the balloons smaller.
++ Dale al jugador menos tiempo;
++ Tener más globos;
++ Haz que los globos se muevan más rápido;
++ Haz los globos más pequeños.
 
-Play your game a few times until you're happy that it's the right level of difficulty.
+Prueba tu juego varias veces hasta que estés seguro de que tiene el nivel de dificultad adecuado.
 
 --- /task ---
 
