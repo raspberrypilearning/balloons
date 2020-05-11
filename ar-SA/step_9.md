@@ -1,15 +1,15 @@
-## Challenge: More objects
-Can you add in other objects to your game? You can add good objects, like donuts, that give you lots of points, or bad objects, like bats, that take points away.
+## التحدي: كائنات أخرى
+هل يمكنك القيام بإضافة كائنات أخرى إلى اللعبة؟ يمكنك إضافة أشياء جيدة، مثل الكعك، التي تمنح اللاعب الكثير من النقاط، أو أشياء سيئة، مثل الخفافيش، تأخذ منك النقاط.
 
-![screenshot](images/balloons-objects.png)
+![لقطة الشاشة](images/balloons-objects.png)
 
-You'll need to think about the objects you're adding. Think about:
+ستحتاج إلى التفكير في الأشياء التي تضيفها. فكر في:
 
-+ How many will there be?
-+ How big is it? How does it move?
-+ How many points will you score (or lose) for clicking it?
-+ Will it move faster or slower than the balloons?
-+ What will it look/sound like when it's been clicked?
++ كم عددها هناك؟
++ ما حجمه؟ كيف تتحرك؟
++ كم عدد النقاط التي سيحرزها اللاعب (أو يخسرها) عندما يحاول النقر عليها؟
++ هل ستتحرك أسرع أو أبطأ من البالونات؟
++ كيف سيكون مظهره/صوته إذا تم النقر عليه؟
 
-If you need help adding another object, you can reuse the previous steps!
+إذا كنتَ تحتاج إلى مساعدة لإضافة كائن آخر، فيمكنك استخدام الخطوات السابقة!
 
