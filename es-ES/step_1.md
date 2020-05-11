@@ -1,19 +1,19 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
+Esta es la versión **Scratch 3** del proyecto. También hay una [versión del proyecto en Scratch 2](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
 
 --- /no-print ---
 
-## Introduction
+## Introducción
 
-You are going to make a balloon-popping game!
+¡Vas a hacer un juego de reventar globos!
 
 
-### What you will make
+### Lo que harás
 
 --- no-print ---
 
-Pop the balloons by clicking on them.
+Explota los globos haciendo clic en ellos.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -30,12 +30,12 @@ Pop the balloons by clicking on them.
 
 --- collapse ---
 ---
-title: What you will need
+title: Lo que necesitarás
 ---
 
 ### Hardware
 
-+ A computer capable of running Scratch
++ Un ordenador capaz de ejecutar Scratch
 
 ### Software
 
