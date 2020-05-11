@@ -6,10 +6,10 @@ Puoi aggiungere altri oggetti al tuo gioco? Puoi aggiungere oggetti buoni, come 
 Pensa agli oggetti che aggiungerai. Pensa a:
 
 + Quanti ce ne saranno?
-+ How big is it? How does it move?
-+ How many points will you score (or lose) for clicking it?
-+ Will it move faster or slower than the balloons?
-+ What will it look/sound like when it's been clicked?
++ Quanto saranno grandi? Come si muoveranno?
++ Quanti punti guadagnerai (o perderai) per averli acchiappati?
++ Saranno più veloci dei palloncini? Più lenti?
++ Come cambieranno quando verranno cliccati? Che suono faranno?
 
 Se hai bisogno di aiuto per aggiungere un altro oggetto, puoi riutilizzare i passaggi precedenti!
 
