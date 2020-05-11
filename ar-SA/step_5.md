@@ -1,20 +1,20 @@
-## Popping balloons
+## فرقعة البالونات
 
-Lets allow the player to pop the balloons!
+دعونا نتيح للاعب أن يفرقع البالونات!
 
 --- task ---
 
-Click on your balloon sprite, and then click the **Costumes** tab. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
+انقر فوق كائن البالون، ثم انقر فوق علامة التبويب **المظاهر**. يمكنك حذف جميع المظاهر الأخرى، وترك مظهر بالون واحد. قم بإضافة مظهر جديد، بالنقر فوق ** رسم - اختيار مظهر ** وإنشاء مظهر جديد يسمى ` فرقعة`.
 
-![balloon costume called burst](images/balloons-costume.png)
+![مظهر البالون يسمى فرقعة](images/balloons-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that your balloon switches to the right costume when the game starts. Your code should now look like this:
+تأكد من أن بالونك يتحول إلى الزي الصحيح عند بدء اللعبة. يجب أن تبدو التعليماتك البرمجية على الشكل التالي:
 
-![balloon sprite](images/balloon-sprite.png)
+![كائن بالون](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -32,9 +32,9 @@ end
 
 --- task ---
 
-To allow the player to burst a balloon, add this code:
+للسماح للاعب بفرقعة البالون، أضف هذا الكود:
 
-![balloon sprite](images/balloon-sprite.png)
+![كائن بالون](images/balloon-sprite.png)
 
 ```blocks3
     when this sprite clicked
@@ -46,13 +46,13 @@ To allow the player to burst a balloon, add this code:
 
 --- task ---
 
-Test out your project. Can you pop the balloon? Does it work as you expected?
+قم بإختبار مشروعك. هل يمكنك تفجير البالون؟ هل تعمل كما توقعت؟
 
-You'll need to improve this code, so that when the balloon is clicked, it shows the `burst` costume for a short time, and is then hidden.
+ستحتاج إلى تحسين هذا الكود، بحيث عند النقر على البالون، فإن مظهر` فرقعة `يعرض لوقت قصير، ثم يختفي.
 
-You can make all of this happen by changing your balloon `when sprite clicked`{:class="block3events"} code to this:
+يمكنك عمل كل هذا عن طريق تغيير كود بالونك ` عند نقر هذا الكائن ` {: class = "block3events"} لهذا:
 
-![balloon sprite](images/balloon-sprite.png)
+![كائن بالون](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -66,9 +66,9 @@ start sound (pop v)
 
 --- task ---
 
-Now that you're deleting the balloon when it's clicked, you'll also need to add a `show`{:class="block3looks"} block to the start of the `when flag clicked`{:class="block3events"} code.
+الآن انت تحذف البالون عند النقر عليه، ستحتاج أيضًا إلى إضافة كتلة ` اظهر` {: class = "block3looks"} في بداية كود ` عند النقر على العلم ` {: class = "block3events"}.
 
-![balloon sprite](images/balloon-sprite.png)
+![كائن بالون](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -81,6 +81,6 @@ point in direction (pick random (-90) to (180))
 
 --- task ---
 
-Try popping a balloon again, to check that it works properly.
+حاول فرقعة بالون مرة أخرى للتأكد من أنه يعمل بشكل صحيح.
 
 --- /task ---
