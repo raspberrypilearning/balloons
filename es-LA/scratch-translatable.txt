@@ -1,7 +1,7 @@
-balloon1-a
+globo1-a
 
-burst
+estallar
 
-score
+puntaje
 
-time
+tiempo
