@@ -1,6 +1,6 @@
-## What next?
+## ما التالي؟
 
-Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys) Scratch project.
+ألق نظرة على مشروع [العاب التقنية](https://projects.raspberrypi.org/en/projects/tech-toys) في برنامج Scratch.
 
 --- no-print ---
 
@@ -9,16 +9,16 @@ Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech
   <img src="images/toys-final.png">
 </div>
 
-+ Click the bow tie to see it spin
-+ Click the sunglasses to see them change colour
-+ Click the laptop to power up the helicopter
-+ Use the arrow keys to fly the helicopter
-+ Press the space bar to make the helicopter loop-the-loop
++ انقر فوق ربطة العنق لرؤيتها تدور
++ انقر فوق النظارات الشمسية لرؤيتها تغير اللون
++ انقر فوق الكمبيوتر المحمول لتشغيل الهليكوبتر
++ استخدم الأسهم في لوحة المفاتيح لتحليق طائرة الهليكوبتر
++ اضغط على شريط المسافة لجعل طائرة الهليكوبتر تتحرك في حلقة
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/toys-final.png)
+![المشروع كامل](images/toys-final.png)
 
 --- /print-only ---
