@@ -12,7 +12,7 @@ Haz clic en la bandera varias veces para iniciar tu programa, y verás que siemp
 
 En lugar de usar la misma posición x e y cada vez, puedes dejar que Scratch ` elija un número aleatorio ` {: class = "blockoperators"}. Cambia el código de tu globo para que se vea así:
 
-![balloon sprite](images/balloon-sprite.png)
+![objeto globo](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -32,7 +32,7 @@ Si haces clic en la bandera verde varias veces, vas a notar que tu globo comienz
 
 Incluso podrías usar un número aleatorio para elegir un color de globo aleatorio cada vez:
 
-![red balloon sprite](images/balloons-colour.png)
+![objeto globo rojo](images/balloons-colour.png)
 
 --- hints ---
 
@@ -44,7 +44,7 @@ Incluso podrías usar un número aleatorio para elegir un color de globo aleator
 
 --- hint ---
 
-You will need to add these blocks to your code.
+Tendrás que añadir estos bloques a tu código.
 
 ```blocks3
 (pick random (0) to (200)
@@ -56,9 +56,9 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-You code should look like this:
+Tu código debería verse así:
 
-![balloon sprite](images/balloon-sprite.png)
+![objeto globo](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -78,5 +78,5 @@ You code should look like this:
 
 --- /task ---
 
-What happens if this code is put at the start of your program? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
+¿Qué sucede si este código se coloca al comienzo de tu programa? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? ¿Cual prefieres?
 
