@@ -1,39 +1,39 @@
-## Animating a balloon
+## Animando un globo
 
 --- task ---
 
-Open a new Scratch project.
+Abre un nuevo proyecto en Scratch.
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratch-new){:target="_blank"}.
+** En línea ** abre un [ nuevo proyecto Scratch en línea ](http://rpf.io/scratch-new) {: target = "_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Si tienes una cuenta Scratch puedes hacer una copia haciendo clic en **Remix**.
 
-**Offline**: open a new project in the offline editor.
+**Sin conexión:** abre un nuevo proyecto en el editor sin conexión.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necesitas descargar e instalar el editor sin conexión de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Delete the cat sprite.
+Elimina el objeto de gato.
 
 --- /task ---
 
 --- task ---
 
-Add in a new balloon sprite, and a suitable stage backdrop.
+Agrega un nuevo objeto de globo y un fondo de escenario adecuado.
 
-![backdrop and balloon sprite](images/balloons-balloon.png)
+![telón de fondo y objeto globo](images/balloons-balloon.png)
 
 --- /task ---
 
 
 --- task ---
 
-Add this code to your balloon, so that it bounces around the screen:
+Agrega este código a tu globo, para que rebote alrededor de la pantalla:
 
-![balloon sprite](images/balloon-sprite.png)
+![objeto globo](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -49,26 +49,26 @@ Add this code to your balloon, so that it bounces around the screen:
 
 --- task ---
 
-Test out your balloon. Does it move too slowly? Change the numbers in your code if you want to speed it up a bit.
+Prueba tu animación del globo. ¿Se mueve demasiado lento? Cambia los números en tu código si quieres acelerarlo un poco.
 
 --- /task ---
 
 --- task ---
 
-Did you also notice that your balloon flips as it moves around the screen?
+¿Notaste que tu globo también se voltea cuando se mueve por la pantalla?
 
-![balloon upside down](images/balloons-flip.png)
+![globo boca abajo](images/balloons-flip.png)
 
-Balloons don't move like this! To fix this, click on the balloon sprite icon, and then click the direction.
+¡Los globos no se mueven así! Para solucionar esto, haz clic en el ícono del globo y luego haz clic en la dirección.
 
-In the 'rotation style' section, click 'Do not rotate' to stop the balloon rotating.
+En la sección 'estilo de rotación', haz clic en 'No rotar' para detener la rotación del globo.
 
-![rotation style option](images/balloons-lock-annotated.png)
+![opción de estilo de rotación](images/balloons-lock-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-Test your program again to see if the problem is fixed.
+Prueba tu programa nuevamente para ver si el problema se solucionó.
 
 --- /task ---
