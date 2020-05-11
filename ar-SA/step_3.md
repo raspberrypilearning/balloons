@@ -1,18 +1,18 @@
-## Random balloons
+## بالونات عشوائية
 
 --- task ---
 
-With the code you have now, your balloon will always start in the same place and move in the same path.
+باستخدام الكود الذي لديك الآن، سيبدأ بالونك دائماً في نفس المكان ويتحرك في نفس المسار.
 
-Click the flag a few times to start your program, and you'll see it's the same every time.
+انقر فوق العلم عدة مرات لبدء برنامجك، وسترى أنه هو نفس البالون في كل مرة.
 
 --- /task ---
 
 --- task ---
 
-Instead of using the same x and y position each time, you can let Scratch `pick a random number`{:class="blockoperators"} instead. Change your balloon's code, so that it looks like this:
+بدلاً من استخدام نفس موضع س و ص في كل مرة، يمكنك السماح لـ Scratch ` باختيار رقم عشوائي ` {: class = "blockoperators"} بدلاً من ذلك. قم بتغيير كود بالونك بحيث يبدو كالتالي:
 
-![balloon sprite](images/balloon-sprite.png)
+![كائن بالون](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -24,27 +24,27 @@ Instead of using the same x and y position each time, you can let Scratch `pick 
     end
 ```
 
-If you click the green flag a few times, you should notice that your balloon starts in a different place each time.
+إذا قمت بالنقر فوق العلم الأخضر عدة مرات، يجب أن تلاحظ أن بالونك يبدأ في مكان مختلف في كل مرة.
 
 --- /task ---
 
 --- task ---
 
-You could even use a random number to choose a random balloon colour each time:
+يمكنك حتى استخدام رقم عشوائي لاختيار لون بالون عشوائي في كل مرة:
 
-![red balloon sprite](images/balloons-colour.png)
+![كائن بالون احمر](images/balloons-colour.png)
 
 --- hints ---
 
 --- hint ---
 
-`Change the color effect by`{:class="block3looks"} by a `random number`{:class="block3operators"} when the `green flag is clicked`{:class="block3events"}.
+` تغيير تأثير اللون ` {: class = "block3looks"} بـ `رقم عشوائي ` {: class = "block3operators"} عند ` النقر على العلم الاخضر` {: class = "block3events"}.
 
 --- /hint ---
 
 --- hint ---
 
-You will need to add these blocks to your code.
+ستحتاج إلى إضافة هذه الكتل للكود الخاصة بك.
 
 ```blocks3
 (pick random (0) to (200)
@@ -56,9 +56,9 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-You code should look like this:
+يجب أن تبدو التعليمات البرمجية خاصتك بالشكل التالي:
 
-![balloon sprite](images/balloon-sprite.png)
+![كائن بالون](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -78,5 +78,5 @@ You code should look like this:
 
 --- /task ---
 
-What happens if this code is put at the start of your program? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
+ماذا يحدث إذا تم وضع هذا الكود في بداية برنامجك؟ هل يحدث أي شيء مختلف إذا قمت بوضع هذا الكود _ في داخل _ حلقة `كرر باستمرار ` {: class = "block3control"}؟ أى واحدة تفضل؟
 
