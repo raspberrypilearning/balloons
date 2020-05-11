@@ -10,7 +10,7 @@ Fai clic più volte sulla bandiera per avviare il programma e vedrai che si comp
 
 --- task ---
 
-Invece di usare tutte le volte le stesse coordinate x e y, puoi lasciare che Scratch scelga un `numero a caso` {: class = "blockoperators"}. Change your balloon's code, so that it looks like this:
+Invece di usare tutte le volte le stesse coordinate x e y, puoi lasciare che Scratch scelga un `numero a caso` {: class = "blockoperators"}. Modifica il codice del tuo palloncino in modo che assomigli a questo:
 
 ![sprite palloncino](images/balloon-sprite.png)
 
@@ -24,7 +24,7 @@ Invece di usare tutte le volte le stesse coordinate x e y, puoi lasciare che Scr
     end
 ```
 
-If you click the green flag a few times, you should notice that your balloon starts in a different place each time.
+Se fai clic sulla bandiera verde diverse volte, dovresti notare che il palloncino inizia ogni volta in un punto diverso.
 
 --- /task ---
 
@@ -38,7 +38,7 @@ Puoi anche usare un numero casuale per scegliere ogni volta un colore a caso per
 
 --- hint ---
 
-`Change the color effect by`{:class="block3looks"} by a `random number`{:class="block3operators"} when the `green flag is clicked`{:class="block3events"}.
+`cambia effetto colore di` {:class="block3looks"} con un `numero a caso` {:class="block3operators"} quando si fa clic sulla `bandiera verde` {:class="block3events"}.
 
 --- /hint ---
 
@@ -78,5 +78,5 @@ Il tuo codice dovrebbe assomigliare a questo:
 
 --- /task ---
 
-Cosa succede se mettiamo questo codice all'inizio del programma? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Quale preferisci?
+Cosa succede se mettiamo questo codice all'inizio del programma? Succede qualcosa di diverso se lo inseriamo _dentro_ il ciclo `per sempre` {:class="block3control"}? Quale preferisci?
 
