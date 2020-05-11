@@ -1,39 +1,39 @@
-## Animating a balloon
+## تحريك البالون
 
 --- task ---
 
-Open a new Scratch project.
+افتح مشروع جديد في Scratch.
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratch-new){:target="_blank"}.
+**متصل بالانترنت**: افتح [مشروع البداية في سكراتش](http://rpf.io/scratch-new) {:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+اذا كنت تملك حساب على برنامج Scratch فيمكنك عمل نسخة بالضغط على **Remix**.
 
-**Offline**: open a new project in the offline editor.
+**دون اتصال بالانترنت**: افتح مشروع جديد في Scratch عبر المحرر الموجود على جهازك دون اتصال بالانترنت.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+اذا كنت تحتاج تنزيل و تنصيب محرر Scratch للعمل دون اتصال بالانترنت, فيمكنك ايجاده على الرابط [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Delete the cat sprite.
+احذف كائن القط.
 
 --- /task ---
 
 --- task ---
 
-Add in a new balloon sprite, and a suitable stage backdrop.
+أضف كائن بالون جديد وخلفية مناسبة للمنصة.
 
-![backdrop and balloon sprite](images/balloons-balloon.png)
+![خلفية و كائن بالون](images/balloons-balloon.png)
 
 --- /task ---
 
 
 --- task ---
 
-Add this code to your balloon, so that it bounces around the screen:
+أضف هذا الكود إلى بالونك، بحيث يرتد حول الشاشة:
 
-![balloon sprite](images/balloon-sprite.png)
+![كائن بالون](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -49,26 +49,26 @@ Add this code to your balloon, so that it bounces around the screen:
 
 --- task ---
 
-Test out your balloon. Does it move too slowly? Change the numbers in your code if you want to speed it up a bit.
+اختبر بالونك. هل يتحرك ببطء شديد؟ قم بتغيير الأرقام في التعليمات البرمجية الخاصة بك إذا كنت تريد تسريعها قليلاً.
 
 --- /task ---
 
 --- task ---
 
-Did you also notice that your balloon flips as it moves around the screen?
+هل لاحظت أيضًا أن بالونك يتقلب أثناء حركته حول الشاشة؟
 
-![balloon upside down](images/balloons-flip.png)
+![بالون رأسا على عقب](images/balloons-flip.png)
 
-Balloons don't move like this! To fix this, click on the balloon sprite icon, and then click the direction.
+البالونات لا تتحرك هكذا! لإصلاح ذلك ، انقر فوق كائن البالون، ثم انقر فوق الاتجاه.
 
-In the 'rotation style' section, click 'Do not rotate' to stop the balloon rotating.
+قم بالضغط على "الاتجاه"، وانقر فوق "لا استدارة" لإيقاف تدوير البالون.
 
-![rotation style option](images/balloons-lock-annotated.png)
+![خيار الاتجاه](images/balloons-lock-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-Test your program again to see if the problem is fixed.
+اختبر البرنامج مرة أخرى لمعرفة ما إذا تم إصلاح المشكلة.
 
 --- /task ---
