@@ -1,8 +1,8 @@
 ## Tanti palloncini
 
-Popping 1 balloon isn't much of a game, so let's add lots more!
+Far scoppiare un palloncino non è molto divertente, aggiungiamone molti altri!
 
-One simple way to get lots of balloons is just to right-click on the balloon sprite and click **duplicate**. Questo metodo è comodo se hai bisogno di pochi palloncini, ma se te ne servono 20? or 100? Vuoi davvero fare clic su **duplica** così tante volte?
+Per avere facilmente molti palloncini puoi fare clic con il tasto destro del mouse sullo sprite palloncino e fare clic su **duplica**. Questo metodo è comodo se hai bisogno di pochi palloncini, ma se te ne servono 20? O 100? Vuoi davvero fare clic su **duplica** così tante volte?
 
 Un modo migliore per avere molti palloncini è _clonare_ lo sprite palloncino.
 
