@@ -49,13 +49,13 @@ Aggiungi questo codice al tuo palloncino per farlo rimbalzare sullo schermo:
 
 --- task ---
 
-Prova il tuo palloncino. Si muove troppo lentamente? Change the numbers in your code if you want to speed it up a bit.
+Prova il tuo palloncino. Si muove troppo lentamente? Cambia i numeri nel tuo codice se vuoi velocizzarlo un po'.
 
 --- /task ---
 
 --- task ---
 
-Did you also notice that your balloon flips as it moves around the screen?
+Hai notato che il tuo palloncino si ribalta mentre si muove sullo schermo?
 
 ![palloncino capovolto](images/balloons-flip.png)
 
