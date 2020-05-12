@@ -24,7 +24,7 @@ Explota los globos haciendo clic en ellos.
 
 --- print-only ---
 
-![complete project](images/balloons-final.png)
+![proyecto completo](images/balloons-final.png)
 
 --- /print-only ---
 
@@ -62,7 +62,7 @@ title: Información adicional para educadores
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/balloons/print){:target="_blank"}.
+Si necesitas imprimir este proyecto, por favor usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/balloons/print){:target="_blank"}.
 
 --- /no-print ---
 
