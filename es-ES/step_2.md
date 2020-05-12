@@ -4,7 +4,7 @@
 
 Abre un nuevo proyecto en Scratch.
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratch-new){:target="_blank"}.
+** En línea **: abre un [ nuevo proyecto Scratch en línea ](http://rpf.io/scratch-new) {:target="_ blank"}.
 
 Si tienes una cuenta de Scratch puedes hacer una copia haciendo clic en **Reinventar**.
 
@@ -55,7 +55,7 @@ Prueba tu globo. ¿Se mueve demasiado lento? Cambia los números en tu código s
 
 --- task ---
 
-Did you also notice that your balloon flips as it moves around the screen?
+¿Notaste que tu globo se da la vuelta cuando se mueve por la pantalla?
 
 ![globo boca abajo](images/balloons-flip.png)
 
@@ -69,6 +69,6 @@ En la sección 'estilo de rotación', haga clic en 'No rotar' para evitar que el
 
 --- task ---
 
-Test your program again to see if the problem is fixed.
+Prueba tu programa nuevamente para ver si el problema está solucionado.
 
 --- /task ---
