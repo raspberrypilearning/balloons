@@ -38,7 +38,7 @@ Incluso podrías usar un número aleatorio para elegir un color de globo aleator
 
 --- hint ---
 
-`Change the color effect by`{:class="block3looks"} by a `random number`{:class="block3operators"} when the `green flag is clicked`{:class="block3events"}.
+`Cambia el efecto de color`{:class="block3looks"} por un `número aleatorio`{:class="block3operators"} cuando `se hace clic en la bandera verde`{:class="block3events"}.
 
 --- /hint ---
 
@@ -78,5 +78,5 @@ Tu código debería verse así:
 
 --- /task ---
 
-¿Qué sucede si este código se coloca al comienzo de tu programa? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? ¿Cual prefieres?
+¿Qué sucede si este código se coloca al comienzo de tu programa? ¿Sucede algo diferente si colocas este código _dentro_ del bucle `por siempre`{:class="block3control"}? ¿Cual prefieres?
 
