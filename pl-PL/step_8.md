@@ -1,24 +1,24 @@
-## Adding a timer
+## Dodaj licznik czasu
 
-You can make your game more interesting, by only giving your player 10 seconds to pop as many balloons as possible.
+Możesz uczynić swoją grę bardziej interesującą, dając graczowi 10 sekund na przebicie jak największej liczby balonów.
 
 --- task ---
 
-You can use another variable to store the remaining time left. Click on the stage, and create a new variable called `time`{:class="block3variables"}.
+Możesz użyć innej zmiennej do przechowywania pozostałego czasu. Kliknij na scenie i utwórz nową zmienna nazwaną `czas`{:class="block3variables"}.
 
 --- /task ---
 
-This is how the timer should work:
+Twój licznik czasu powinien działać następująco:
 
-+ The timer should start at 10 seconds;
-+ The timer should count down every second;
-+ The game should stop when the timer gets to 0.
++ Licznik czasu powinien zaczynać od 10 sekund;
++ Licznik powinien zmniejszać się co sekundę;
++ Gra powinna się zatrzymać, gdy licznik czasu osiągnie 0.
 
 --- task ---
 
-Here's the code to do this, which you can add to your _stage_:
+Oto kod do zrobienia tego, który możesz dodać do swojej _sceny_:
 
-![balloon sprite](images/stage-sprite.png)
+![duszek balonu](images/stage-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -34,22 +34,22 @@ stop [all v]
 
 --- task ---
 
-Drag your 'time' variable display to the right side of the stage. You can also right-click on the variable display and choose 'large readout' to change how the time is displayed.
+Przeciągnij swoją wyświetloną zmienną 'czas' na prawą stronę sceny. Możesz także kliknąć prawym przyciskiem myszy na wyświetlaną zmienną i wybrać "powiększony widok", aby zmienić sposób wyświetlania czasu.
 
-![screenshot](images/balloons-readout.png)
+![zrzut ekranu](images/balloons-readout.png)
 
 --- /task ---
 
 --- task ---
 
-Test your game. How many points can you score? If your game is too easy, you can:
+Przetestuj swoją grę. Ile punktów możesz zdobyć? Jeśli Twoja gra jest zbyt łatwa, możesz:
 
-+ Give the player less time;
-+ Have more balloons;
-+ Make the balloons move faster;
-+ Make the balloons smaller.
++ Dać graczowi mniej czasu;
++ Zwiększyć liczbę balonów;
++ Sprawić, aby balony poruszały się szybciej;
++ Sprawić aby balony były mniejsze.
 
-Play your game a few times until you're happy that it's the right level of difficulty.
+Zagraj w grę kilka razy, aż będziesz zadowolony, że jest to odpowiedni poziom trudności.
 
 --- /task ---
 
