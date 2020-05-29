@@ -1,7 +1,7 @@
-balloon1-a
+氣球1-a
 
-burst
+爆炸
 
-score
+得分
 
-time
+時間
