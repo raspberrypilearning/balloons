@@ -1,19 +1,19 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
+這個專案是 **Scratch 3** 版本。 另外還有 [Scratch 2](https://projects.raspberrypi.org/en/projects/balloons-scratch2) 版本。
 
 --- /no-print ---
 
-## Introduction
+## 介紹
 
-You are going to make a balloon-popping game!
+你將製作一個氣球射擊遊戲！
 
 
-### What you will make
+### 你將會做出
 
 --- no-print ---
 
-Pop the balloons by clicking on them.
+通過點擊氣球來射擊他們
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -24,48 +24,48 @@ Pop the balloons by clicking on them.
 
 --- print-only ---
 
-![complete project](images/balloons-final.png)
+![完成專案](images/balloons-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: 你會需要用到
 ---
 
-### Hardware
+### 硬體
 
-+ A computer capable of running Scratch
++ 可運行Scratch 的電腦
 
-### Software
+### 軟體
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3（[線上版](http://rpf.io/scratchon){:target="_blank"} 或 [離線版](http://rpf.io/scratchoff){:target="_blank"}）
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 你將會學到
 ---
 
-- How to use animation to make sprites move
-- How to use random numbers
-- How to draw sprites
-- How to create clones of a sprite
+- 如何用動畫讓角色移動
+- 如何使用隨機數
+- 如何繪製角色
+- 如何複製角色
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 給教師的其它資訊
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/balloons/print){:target="_blank"}.
+如果你需要列印此專案，請使用[友善列印](https://projects.raspberrypi.org/en/projects/balloons/print){:target="_blank"}。
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/balloons-get){:target="_blank"}.
+你可以在這裡找到[已經完成的專案](http://rpf.io/p/en/balloons-get){:target="_blank"}。
 
 --- /collapse ---
