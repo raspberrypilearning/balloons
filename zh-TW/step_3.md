@@ -1,18 +1,18 @@
-## Random balloons
+## 隨機氣球
 
 --- task ---
 
-With the code you have now, your balloon will always start in the same place and move in the same path.
+用現在你有的的代碼，你的氣球將始終在同一位置開始並在同一路徑中移動。
 
-Click the flag a few times to start your program, and you'll see it's the same every time.
+點擊旗子數次來開始程式,你會看到每次都是相同的。
 
 --- /task ---
 
 --- task ---
 
-Instead of using the same x and y position each time, you can let Scratch `pick a random number`{:class="blockoperators"} instead. Change your balloon's code, so that it looks like this:
+與其每次都用相同的x和y位置,你可以使Scratch `選擇一隨機數`{:class="blockoperators"}。 更改你氣球的程式碼，使其如下所示：
 
-![balloon sprite](images/balloon-sprite.png)
+![氣球角色](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -24,27 +24,27 @@ Instead of using the same x and y position each time, you can let Scratch `pick 
     end
 ```
 
-If you click the green flag a few times, you should notice that your balloon starts in a different place each time.
+如果你點擊幾次綠色旗子，你應該會注意到你的氣球每次都在不同的地方開始。
 
 --- /task ---
 
 --- task ---
 
-You could even use a random number to choose a random balloon colour each time:
+你甚至可以每次使用隨機數來選擇一個任意的氣球顏色：
 
-![red balloon sprite](images/balloons-colour.png)
+![紅氣球角色](images/balloons-colour.png)
 
 --- hints ---
 
 --- hint ---
 
-`Change the color effect by`{:class="block3looks"} by a `random number`{:class="block3operators"} when the `green flag is clicked`{:class="block3events"}.
+`改變顏色效果透過`{:class="block3looks"}藉由一個 `隨機數`{:class="block3operators"}當`綠色旗子被點擊時`{:class="block3events"}.
 
 --- /hint ---
 
 --- hint ---
 
-You will need to add these blocks to your code.
+你將需要添加這些代碼塊到你的代碼中：
 
 ```blocks3
 (pick random (0) to (200)
@@ -56,9 +56,9 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-You code should look like this:
+你的程式應該會像這樣：
 
-![balloon sprite](images/balloon-sprite.png)
+![氣球角色](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -78,5 +78,5 @@ You code should look like this:
 
 --- /task ---
 
-What happens if this code is put at the start of your program? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
+如果將此程式碼放在你程式的開頭會怎樣？ 任何不一樣的事會發生嗎?如果你把這程式碼放在 `重複無限次`{:class="block3control"} 迴圈_內部_? 你喜歡哪個？
 
