@@ -1,20 +1,20 @@
-## Popping balloons
+## Przebijanie balonów
 
-Lets allow the player to pop the balloons!
+Pozwólmy graczowi przebijać balony!
 
 --- task ---
 
-Click on your balloon sprite, and then click the **Costumes** tab. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
+Kliknij duszka balonu, a następnie kliknij na zakładkę **Kostiumy**. Możesz usunąć wszystkie pozostałe kostiumy, pozostawiając tylko jeden kostium balonu. Dodaj nowy kostium, klikając **Maluj** i stwórz nowy kostium o nazwie `przebity`.
 
-![balloon costume called burst](images/balloons-costume.png)
+![kostium balonu nazwanego przebity](images/balloons-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that your balloon switches to the right costume when the game starts. Your code should now look like this:
+Upewnij się, że twój balon przełączy się na odpowiedni kostium na początku gry. Twój kod powinien wyglądać tak:
 
-![balloon sprite](images/balloon-sprite.png)
+![duszek balonu](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -32,9 +32,9 @@ end
 
 --- task ---
 
-To allow the player to burst a balloon, add this code:
+Aby umożliwić graczowi przebijanie balonu, dodaj ten kod:
 
-![balloon sprite](images/balloon-sprite.png)
+![duszek balonu](images/balloon-sprite.png)
 
 ```blocks3
     when this sprite clicked
@@ -46,13 +46,13 @@ To allow the player to burst a balloon, add this code:
 
 --- task ---
 
-Test out your project. Can you pop the balloon? Does it work as you expected?
+Przetestuj swój projekt. Czy potrafisz przebić balon? Czy działa to tak jak się spodziewałaś?
 
-You'll need to improve this code, so that when the balloon is clicked, it shows the `burst` costume for a short time, and is then hidden.
+Musisz poprawić ten kod, aby po kliknięciu balonu, na krótki czas wyświetlał się `przebity` kostium, a następnie był ukryty.
 
-You can make all of this happen by changing your balloon `when sprite clicked`{:class="block3events"} code to this:
+Możesz to wszystko zrobić, zmieniając balon `kiedy ten duszek kliknięty`Kod{:class="block3events"} do tego:
 
-![balloon sprite](images/balloon-sprite.png)
+![duszek balonu](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -66,9 +66,9 @@ start sound (pop v)
 
 --- task ---
 
-Now that you're deleting the balloon when it's clicked, you'll also need to add a `show`{:class="block3looks"} block to the start of the `when flag clicked`{:class="block3events"} code.
+Teraz, gdy usuwasz balon po jego kliknięciu, musisz również dodać blok `pokaż`{:class="block3looks"} do początku kodu `kiedy kliknięto zieloną flagę`{:class=„block3events”}.
 
-![balloon sprite](images/balloon-sprite.png)
+![duszek balonu](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -81,6 +81,6 @@ point in direction (pick random (-90) to (180))
 
 --- task ---
 
-Try popping a balloon again, to check that it works properly.
+Spróbuj ponownie przebić balon, aby sprawdzić, czy działa poprawnie.
 
 --- /task ---
