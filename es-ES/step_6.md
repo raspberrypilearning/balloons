@@ -12,7 +12,7 @@ Para mantener la puntuación del jugador, necesitas un lugar donde colocarlo. Cr
 
 --- task ---
 
-Cuando se inicia un nuevo juego (haciendo clic en la bandera), debe establecer la puntuación del jugador a 0. Agrega este código al principio de la secuencia de comandos `cuando haga clic en la bandera`{:class="blockevents"} de tu globo:
+Cuando se inicia un nuevo juego (haciendo clic en la bandera), debe establecer la puntuación del jugador a 0. Agrega este código al principio de la secuencia de comandos `cuando haga clic en la bandera`{:class="block3events"} de tu globo:
 
 ![objeto globo](images/balloon-sprite.png)
 

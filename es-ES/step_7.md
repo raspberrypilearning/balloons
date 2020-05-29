@@ -41,7 +41,7 @@ end
 
 --- task ---
 
-Agrega código para crear 20 clones de globos al principio de la secuencia de comandos del código `al presionar la bandera`{:class="blockevents"}.
+Agrega código para crear 20 clones de globos al principio de la secuencia de comandos del código `al presionar la bandera`{:class="block3events"}.
 
 ![objeto globo](images/balloon-sprite.png)
 
