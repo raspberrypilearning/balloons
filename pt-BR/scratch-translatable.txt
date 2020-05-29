@@ -1,7 +1,7 @@
-balloon1-a
+balão1-a
 
-burst
+estouro
 
-score
+pontos
 
-time
+tempo
