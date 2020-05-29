@@ -1,3 +1,3 @@
-## Challenge: More randomness
-Can you make your balloon start by pointing in a random direction (between -90 and 180)?
+## 挑戰：更多隨機性
+你可以讓你的氣球在開始時指向一個隨機的方向嗎(在-90和180之間）？
 
