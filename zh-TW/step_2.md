@@ -1,39 +1,39 @@
-## Animating a balloon
+## 讓氣球動起來
 
 --- task ---
 
-Open a new Scratch project.
+建立一個新的 Scratch 專案。
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratch-new){:target="_blank"}.
+**線上版**: 開啟一個 [新的線上Scratch專案](http://rpf.io/scratch-new){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+如果你有 Scratch 帳戶，你可以直接複製透過點擊**Remix**。
 
-**Offline**: open a new project in the offline editor.
+**離線版**: 在離線編輯器開啟新專案。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+如果你需要 Scratch 離線版編輯器，可以連結到 [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}。
 
 --- /task ---
 
 --- task ---
 
-Delete the cat sprite.
+刪除貓角色
 
 --- /task ---
 
 --- task ---
 
-Add in a new balloon sprite, and a suitable stage backdrop.
+增加一個新的氣球角色，還有一個合適的舞台背景。
 
-![backdrop and balloon sprite](images/balloons-balloon.png)
+![背景和氣球角色](images/balloons-balloon.png)
 
 --- /task ---
 
 
 --- task ---
 
-Add this code to your balloon, so that it bounces around the screen:
+將此代程式碼增加到你的氣球中，使它在螢幕上彈動：
 
-![balloon sprite](images/balloon-sprite.png)
+![氣球角色](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -49,26 +49,26 @@ Add this code to your balloon, so that it bounces around the screen:
 
 --- task ---
 
-Test out your balloon. Does it move too slowly? Change the numbers in your code if you want to speed it up a bit.
+測試你的氣球。 它移動的太慢了嗎？ 如果你要稍微加速它，更改你程式碼中的數字。
 
 --- /task ---
 
 --- task ---
 
-Did you also notice that your balloon flips as it moves around the screen?
+您還注意到你的氣球在屏幕上移動時會翻轉嗎？
 
-![balloon upside down](images/balloons-flip.png)
+![氣球顛倒](images/balloons-flip.png)
 
-Balloons don't move like this! To fix this, click on the balloon sprite icon, and then click the direction.
+氣球不會像這樣移動！ 要解決此問題，點擊氣球角色的圖示，然後點擊方向。
 
-In the 'rotation style' section, click 'Do not rotate' to stop the balloon rotating.
+在“旋轉樣式”部分，點擊“不旋轉”來停止氣球旋轉。
 
-![rotation style option](images/balloons-lock-annotated.png)
+![旋轉樣式選項](images/balloons-lock-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-Test your program again to see if the problem is fixed.
+再次測試你的程式，看問題是否解決。
 
 --- /task ---
