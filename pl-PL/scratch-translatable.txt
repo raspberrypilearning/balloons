@@ -1,7 +1,7 @@
-balloon1-a
+balon1-a
 
-burst
+przebity
 
-score
+wynik
 
-time
+czas
