@@ -1,20 +1,20 @@
-## Popping balloons
+## 射擊氣球
 
-Lets allow the player to pop the balloons!
+讓我們讓玩家射擊氣球！
 
 --- task ---
 
-Click on your balloon sprite, and then click the **Costumes** tab. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
+點擊你的氣球角色，然後點擊 **造型** 標籤。 你可以刪除所有其他造型，只留下一個氣球造型。 增加一個新造型，通過點擊**繪製新造型** 然後創造一個名為`爆炸`的新造型。
 
-![balloon costume called burst](images/balloons-costume.png)
+![氣球造型叫爆炸](images/balloons-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that your balloon switches to the right costume when the game starts. Your code should now look like this:
+遊戲開始時，確保你的氣球切換到正確的造型。 你的程式應該會像這樣：
 
-![balloon sprite](images/balloon-sprite.png)
+![氣球角色](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -32,9 +32,9 @@ end
 
 --- task ---
 
-To allow the player to burst a balloon, add this code:
+要允許玩家射擊一個氣球,增加這個程式碼：
 
-![balloon sprite](images/balloon-sprite.png)
+![氣球角色](images/balloon-sprite.png)
 
 ```blocks3
     when this sprite clicked
@@ -46,13 +46,13 @@ To allow the player to burst a balloon, add this code:
 
 --- task ---
 
-Test out your project. Can you pop the balloon? Does it work as you expected?
+測試你的專案。 你能射擊氣球嗎？ 它能按預期工作嗎？
 
-You'll need to improve this code, so that when the balloon is clicked, it shows the `burst` costume for a short time, and is then hidden.
+你需要改進此程式碼，以便當氣球被點擊時,`爆炸`的造型只會短暫的顯示，然後隱藏。
 
-You can make all of this happen by changing your balloon `when sprite clicked`{:class="block3events"} code to this:
+你可以做通過改變你的氣球`當角色被點擊`{:class="block3events"} 程式碼如下:
 
-![balloon sprite](images/balloon-sprite.png)
+![氣球角色](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -66,9 +66,9 @@ start sound (pop v)
 
 --- task ---
 
-Now that you're deleting the balloon when it's clicked, you'll also need to add a `show`{:class="block3looks"} block to the start of the `when flag clicked`{:class="block3events"} code.
+現在當你點擊氣球時,你把它刪除了, 你也必須增加一個 `顯示`{:class="block3looks"}方塊到程式碼的開端 `當旗子被點擊`{:class="block3events"} 。
 
-![balloon sprite](images/balloon-sprite.png)
+![氣球角色](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -81,6 +81,6 @@ point in direction (pick random (-90) to (180))
 
 --- task ---
 
-Try popping a balloon again, to check that it works properly.
+試著再次射擊氣球,來檢查是否正常運作。
 
 --- /task ---
