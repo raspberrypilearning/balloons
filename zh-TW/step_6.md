@@ -1,10 +1,10 @@
-## Adding a score
+## 增加一個得分
 
-Let's make things more interesting by keeping score.
+讓我們透過紀錄得分讓遊戲變得更有趣。
 
 --- task ---
 
-To keep the player's score, you need a place to put it. Create a new `variable`{:class="block3variables"} called `score`{:class="block3variables"}.
+你需要放置得分來紀錄玩家的分數。 建立一個新`變數`{:class="block3variables"} 稱為 `得分`{:class="block3variables"}。
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,9 +12,9 @@ To keep the player's score, you need a place to put it. Create a new `variable`{
 
 --- task ---
 
-When a new game is started (by clicking the flag), you should set the player's score to 0. Add this code to the top of the balloon's `when flag clicked`{:class="block3events"} code:
+當開始新遊戲時 (通過點擊旗子)，你應該將玩家的得分設置為0。 把這程式碼增加到氣球程式碼的頂端 `當綠旗被點擊`{:class="block3events"}:
 
-![balloon sprite](images/balloon-sprite.png)
+![氣球角色](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -27,9 +27,9 @@ switch costume to (balloon1-a v)
 
 --- task ---
 
-Whenever a balloon is popped, you need to add 1 to the score:
+每次氣球被射擊時,你需要在得分中加1:
 
-![balloon sprite](images/balloon-sprite.png)
+![氣球角色](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -44,7 +44,7 @@ hide
 
 --- task ---
 
-Run your program again and click the balloon. Does your score change?
+再次執行你的程式然後點擊氣球。 你的分數有改變嗎？
 
 --- /task ---
 
