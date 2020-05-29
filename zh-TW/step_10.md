@@ -1,6 +1,6 @@
-## What next?
+## 然後呢？
 
-Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys) Scratch project.
+看看 [科技玩具](https://projects.raspberrypi.org/en/projects/tech-toys) Scratch專案。
 
 --- no-print ---
 
@@ -9,16 +9,16 @@ Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech
   <img src="images/toys-final.png">
 </div>
 
-+ Click the bow tie to see it spin
-+ Click the sunglasses to see them change colour
-+ Click the laptop to power up the helicopter
-+ Use the arrow keys to fly the helicopter
-+ Press the space bar to make the helicopter loop-the-loop
++ 點擊領結以查看其旋轉
++ 點擊太陽鏡以查看它們變色
++ 點擊筆記本電腦為直升機充電
++ 使用箭頭鍵駕駛直升機
++ 按下空格鍵，使直升機迴旋
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/toys-final.png)
+![完成專案](images/toys-final.png)
 
 --- /print-only ---
