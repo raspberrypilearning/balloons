@@ -1,18 +1,18 @@
-## Random balloons
+## Losowe balony
 
 --- task ---
 
-With the code you have now, your balloon will always start in the same place and move in the same path.
+Dzięki kodowi, który masz teraz, twój balon zawsze zacznie w tym samym miejscu i będzie poruszać się tą samą ścieżką.
 
-Click the flag a few times to start your program, and you'll see it's the same every time.
+Kliknij flagę kilka razy, aby uruchomić program, a zobaczysz, że za każdym razem jest taki sam.
 
 --- /task ---
 
 --- task ---
 
-Instead of using the same x and y position each time, you can let Scratch `pick a random number`{:class="blockoperators"} instead. Change your balloon's code, so that it looks like this:
+Zamiast używać tej samej pozycji x i y za każdym razem, możesz pozwolić Scratch użyć bloku `losuj liczbę`{:class="blockoperators"}. Zmień kod balonu, aby wyglądał następująco:
 
-![balloon sprite](images/balloon-sprite.png)
+![duszek balonu](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -24,27 +24,27 @@ Instead of using the same x and y position each time, you can let Scratch `pick 
     end
 ```
 
-If you click the green flag a few times, you should notice that your balloon starts in a different place each time.
+Jeśli klikniesz zieloną flagę kilka razy, zauważysz, że twój balon za każdym razem zaczyna w innym miejscu.
 
 --- /task ---
 
 --- task ---
 
-You could even use a random number to choose a random balloon colour each time:
+Możesz nawet użyć losowej liczby, aby wybrać losowy kolor balonu za każdym razem:
 
-![red balloon sprite](images/balloons-colour.png)
+![czerwony duszek balonu](images/balloons-colour.png)
 
 --- hints ---
 
 --- hint ---
 
-`Change the color effect by`{:class="block3looks"} by a `random number`{:class="block3operators"} when the `green flag is clicked`{:class="block3events"}.
+` Zmień efekt kolor o`{:class="block3looks"} `losuj liczbę`{:class="block3operators"} `kiedy kliknięto zieloną flagę`{:class="block3events"}.
 
 --- /hint ---
 
 --- hint ---
 
-You will need to add these blocks to your code.
+Musisz dodać te bloki do swojego kodu.
 
 ```blocks3
 (pick random (0) to (200)
@@ -56,9 +56,9 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-You code should look like this:
+Twój kod powinien wyglądać tak:
 
-![balloon sprite](images/balloon-sprite.png)
+![duszek balonu](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -78,5 +78,5 @@ You code should look like this:
 
 --- /task ---
 
-What happens if this code is put at the start of your program? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
+Co się stanie, jeśli ten kod zostanie umieszczony na początku programu? Czy coś innego się wydarzy, jeśli umieścisz ten kod _w środku_ pętli `zawsze`{:class="block3control"}? Który wolisz?
 
