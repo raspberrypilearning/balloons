@@ -1,6 +1,6 @@
-## What next?
+## 次は何をしますか？
 
-Take a look at the [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys) Scratch project.
+Scratchプロジェクト[ハイテクおもちゃ](https://projects.raspberrypi.org/en/projects/tech-toys)を見てください。
 
 --- no-print ---
 
