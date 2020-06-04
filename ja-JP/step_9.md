@@ -1,15 +1,15 @@
-## Challenge: More objects
-Can you add in other objects to your game? You can add good objects, like donuts, that give you lots of points, or bad objects, like bats, that take points away.
+## チャレンジ：物体をふやす
+ゲームに他の物体を追加できますか？ ドーナツのように点がたくさんもらえる良い物体、またはコウモリのように点をとられてしまう悪い物体などです。
 
-![screenshot](images/balloons-objects.png)
+![スクリーンショット](images/balloons-objects.png)
 
-You'll need to think about the objects you're adding. Think about:
+追加する物体について考える必要があります。 以下について考えましょう：
 
-+ How many will there be?
-+ How big is it? How does it move?
-+ How many points will you score (or lose) for clicking it?
-+ Will it move faster or slower than the balloons?
-+ What will it look/sound like when it's been clicked?
++ いくつ出るようにしますか？
++ 大きさはどれくらいですか？ どのように動きますか？
++ クリックした時に、何点もらえますか（またはとられますか）？
++ 風船より速く動くのか、遅く動くのか？
++ クリックした時に、どのような見た目になりますか？どんな音が鳴りますか？
 
-If you need help adding another object, you can reuse the previous steps!
+別の物体を追加するのに手助けが必要なら、これまでにやった方法を使ってみましょう。
 
