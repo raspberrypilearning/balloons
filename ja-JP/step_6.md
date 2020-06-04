@@ -1,10 +1,10 @@
-## Adding a score
+## スコアを追加する
 
-Let's make things more interesting by keeping score.
+スコアをつけてもっと面白くしましょう！
 
 --- task ---
 
-To keep the player's score, you need a place to put it. Create a new `variable`{:class="block3variables"} called `score`{:class="block3variables"}.
+プレーヤーのスコアを保持するには、それを置く場所が必要です。 `スコア`{:class="block3variables"}という新しい`変数`{:class="block3variables"}を作成します。
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,7 +12,7 @@ To keep the player's score, you need a place to put it. Create a new `variable`{
 
 --- task ---
 
-When a new game is started (by clicking the flag), you should set the player's score to 0. Add this code to the top of the balloon's `when flag clicked`{:class="block3events"} code:
+（旗を押して）新しいゲームが始まるときに、プレーヤーのスコアを0に設定しなければなりません。 Add this code to the top of the balloon's `when flag clicked`{:class="block3events"} code:
 
 ![balloon sprite](images/balloon-sprite.png)
 
