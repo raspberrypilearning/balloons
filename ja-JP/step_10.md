@@ -9,16 +9,16 @@ Scratchプロジェクト[ハイテクおもちゃ](https://projects.raspberrypi
   <img src="images/toys-final.png">
 </div>
 
-+ Click the bow tie to see it spin
-+ Click the sunglasses to see them change colour
-+ Click the laptop to power up the helicopter
-+ Use the arrow keys to fly the helicopter
-+ Press the space bar to make the helicopter loop-the-loop
++ ちょうネクタイを押すと回る
++ サングラスを押すと色が変わる
++ ラップトップを押すとヘリコプターが動きだす
++ 矢印キーを使ってヘリコプターを飛ばす
++ スペースキーを押すとヘリコプターが宙返（ちゅうがえ）りする
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/toys-final.png)
+![完成したプロジェクト](images/toys-final.png)
 
 --- /print-only ---
