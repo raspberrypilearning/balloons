@@ -1,15 +1,15 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
+これはプロジェクトの**Scratch 3**バージョンです。 [Scratch 2バージョンのプロジェクト](https://projects.raspberrypi.org/en/projects/balloons-scratch2)もあります。
 
 --- /no-print ---
 
-## Introduction
+## はじめに
 
-You are going to make a balloon-popping game!
+風船を割るゲームを作りましょう！
 
 
-### What you will make
+### 作るもの
 
 --- no-print ---
 
