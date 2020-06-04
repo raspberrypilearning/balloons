@@ -2,30 +2,30 @@
 hero_image: images/banner.png
 listed: true
 copyedit: true
-title: Balloons
-description: Learn how to make a balloon-popping game!
+title: 風船
+description: 風船割りゲームの作り方を学ぶ
 version: 4
 last_tested: 2018-04-02
 steps:
   - 
-    title: Introduction
+    title: はじめに
   - 
-    title: Animating a balloon
+    title: 風船に動きをつける
   - 
-    title: Random balloons
+    title: 風船をランダムに
   - 
-    title: 'Challenge: More randomness'
+    title: 'チャレンジ：もっとランダムに'
     challenge: true
   - 
-    title: Popping balloons
+    title: 風船を割る
   - 
-    title: Adding a score
+    title: スコアを追加する
   - 
-    title: Lots of balloons
+    title: 風船をたくさんに
   - 
-    title: Adding a timer
+    title: タイマーを追加する
   - 
-    title: 'Challenge: More objects'
+    title: 'チャレンジ：物体をふやす'
     challenge: true
   - 
-    title: What next?
+    title: 次は何をしますか？
