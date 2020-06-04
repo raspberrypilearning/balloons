@@ -1,7 +1,7 @@
 balloon1-a
 
-burst
+割れた
 
-score
+スコア
 
-time
+時間
