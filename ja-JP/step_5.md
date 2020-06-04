@@ -1,20 +1,20 @@
-## Popping balloons
+## 風船を割る
 
-Lets allow the player to pop the balloons!
+プレーヤーが風船を割ることができるようにしましょう！
 
 --- task ---
 
-Click on your balloon sprite, and then click the **Costumes** tab. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
+風船のスプライトをクリックして、**コスチューム**タブをクリックします。 風船のコスチュームを1つだけ残して、他のすべてのコスチュームを削除します。 **描く**をクリックして、新しいコスチュームを追加します。そしてコスチュームの名前を `割れた`にします。
 
-![balloon costume called burst](images/balloons-costume.png)
+![割れたという名前の風船のコスチューム](images/balloons-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that your balloon switches to the right costume when the game starts. Your code should now look like this:
+ゲームの開始時に、風船が正しいコスチュームに切り替わるようにしてください。 コードは以下のようになります：
 
-![balloon sprite](images/balloon-sprite.png)
+![風船のスプライト](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -32,9 +32,9 @@ end
 
 --- task ---
 
-To allow the player to burst a balloon, add this code:
+プレーヤーが風船を割ることができるようにするには、次のコードを追加します：
 
-![balloon sprite](images/balloon-sprite.png)
+![風船のスプライト](images/balloon-sprite.png)
 
 ```blocks3
     when this sprite clicked
@@ -46,13 +46,13 @@ To allow the player to burst a balloon, add this code:
 
 --- task ---
 
-Test out your project. Can you pop the balloon? Does it work as you expected?
+プロジェクトをテストします。 風船を割ることができますか？ 期待どおりに動作しますか？
 
-You'll need to improve this code, so that when the balloon is clicked, it shows the `burst` costume for a short time, and is then hidden.
+このコードを改善して、風船をクリックしたときに`割れた`コスチュームがしばらくの間表示され 、そして消えるようにします。
 
-You can make all of this happen by changing your balloon `when sprite clicked`{:class="block3events"} code to this:
+風船の`スプライトが押されたとき`{:class="block3events"}コードを次のように変更することで、これらすべてを実現できます：
 
-![balloon sprite](images/balloon-sprite.png)
+![風船のスプライト](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -66,9 +66,9 @@ start sound (pop v)
 
 --- task ---
 
-Now that you're deleting the balloon when it's clicked, you'll also need to add a `show`{:class="block3looks"} block to the start of the `when flag clicked`{:class="block3events"} code.
+風船をクリックしたときに消すようにしたので、`旗が押されたとき`{:class="block3events"}のコードの先頭に`表示する`{:class="block3looks"}ブロックも追加する必要があります。
 
-![balloon sprite](images/balloon-sprite.png)
+![風船のスプライト](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -81,6 +81,6 @@ point in direction (pick random (-90) to (180))
 
 --- task ---
 
-Try popping a balloon again, to check that it works properly.
+もう一度風船を割ってみて、正しく機能することを確認します。
 
 --- /task ---
