@@ -1,18 +1,18 @@
-## Random balloons
+## 風船をランダムに
 
 --- task ---
 
-With the code you have now, your balloon will always start in the same place and move in the same path.
+今のコードでは、風船はいつも同じ場所から始まり、同じ道のりで動きます。
 
-Click the flag a few times to start your program, and you'll see it's the same every time.
+旗を何回かクリックしてプログラムを動かすと、毎回同じであることがわかります。
 
 --- /task ---
 
 --- task ---
 
-Instead of using the same x and y position each time, you can let Scratch `pick a random number`{:class="blockoperators"} instead. Change your balloon's code, so that it looks like this:
+毎回同じxとyの位置を使う代わりに、Scratchに`乱数`{:class="blockoperators"}を選ばせることができます。 風船のコードを変更して、次のようにします：
 
-![balloon sprite](images/balloon-sprite.png)
+![風船のスプライト](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -24,27 +24,27 @@ Instead of using the same x and y position each time, you can let Scratch `pick 
     end
 ```
 
-If you click the green flag a few times, you should notice that your balloon starts in a different place each time.
+緑の旗を何回かクリックすると、風船が毎回別の場所から動き始めることがわかります。
 
 --- /task ---
 
 --- task ---
 
-You could even use a random number to choose a random balloon colour each time:
+乱数を使って、毎回風船の色をランダムに選ぶこともできます。
 
-![red balloon sprite](images/balloons-colour.png)
+![赤い風船のスプライト](images/balloons-colour.png)
 
 --- hints ---
 
 --- hint ---
 
-`Change the color effect by`{:class="block3looks"} by a `random number`{:class="block3operators"} when the `green flag is clicked`{:class="block3events"}.
+`緑の旗が押された`{:class="block3events"}とき、`乱数`{:class="block3operators"}で`色の効果を変える`{:class="block3looks"}ようにします。
 
 --- /hint ---
 
 --- hint ---
 
-You will need to add these blocks to your code.
+これらのブロックをコードに追加する必要があります：
 
 ```blocks3
 (pick random (0) to (200)
@@ -56,9 +56,9 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-You code should look like this:
+コードは以下のようになります：
 
-![balloon sprite](images/balloon-sprite.png)
+![風船のスプライト](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -78,5 +78,5 @@ You code should look like this:
 
 --- /task ---
 
-What happens if this code is put at the start of your program? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
+このコードがプログラムの最初に置かれた場合はどうなりますか？ このコードを_ずっと_{:class="block3control"}ループの`内側に`置くと、何か違うことが起こりますか？ どちらがいいですか？
 
