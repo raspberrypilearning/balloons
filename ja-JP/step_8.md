@@ -18,7 +18,7 @@
 
 コードはつぎのようになり、_ステージ_に追加します：
 
-![balloon sprite](images/stage-sprite.png)
+![風船のスプライト](images/stage-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -36,7 +36,7 @@ stop [all v]
 
 「時間」変数の表示をステージの右側にドラッグします。 変数の表示を右クリックし、「大きな表示」を選択して、時間の表示方法を変更します。
 
-![screenshot](images/balloons-readout.png)
+![スクリーンショット](images/balloons-readout.png)
 
 --- /task ---
 
@@ -44,12 +44,12 @@ stop [all v]
 
 ゲームをテストします。 何点取れましたか？ ゲームがかんたんすぎるようでしたら、こんな風にしてみましょう：
 
-+ Give the player less time;
-+ Have more balloons;
-+ Make the balloons move faster;
-+ Make the balloons smaller.
++ 時間を短くする。
++ 風船を増やす。
++ 風船をもっと速く動かす。
++ 風船を小さくする。
 
-Play your game a few times until you're happy that it's the right level of difficulty.
+満足できるむずかしさになるまで、ゲームをプレイしましょう。
 
 --- /task ---
 
