@@ -1,28 +1,28 @@
-## Animating a balloon
+## 風船に動きをつける
 
 --- task ---
 
-Open a new Scratch project.
+新しいScratchプロジェクトを開きます。
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratch-new){:target="_blank"}.
+**オンライン**：[新しいオンラインScratchプロジェクト](http://rpf.io/scratch-new){:target="_ blank"}を開きます。
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Scratchアカウントをお持ちの場合は**リミックス**をクリックしてコピーを作成できます。
 
-**Offline**: open a new project in the offline editor.
+**オフライン**：オフラインエディタで新しいプロジェクトを開きます。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}からScratchオフラインエディタをダウンロードしてインストールできます。
 
 --- /task ---
 
 --- task ---
 
-Delete the cat sprite.
+猫のスプライトを削除します。
 
 --- /task ---
 
 --- task ---
 
-Add in a new balloon sprite, and a suitable stage backdrop.
+新しい風船のスプライトと、ふさわしいステージの背景（はいけい）を追加します。
 
 ![backdrop and balloon sprite](images/balloons-balloon.png)
 
@@ -31,7 +31,7 @@ Add in a new balloon sprite, and a suitable stage backdrop.
 
 --- task ---
 
-Add this code to your balloon, so that it bounces around the screen:
+このコードを風船に追加して、画面の端で跳ね返るようにします：
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -47,19 +47,19 @@ Add this code to your balloon, so that it bounces around the screen:
 
 --- /task ---
 
---- task ---
+--- /task ---
 
-Test out your balloon. Does it move too slowly? Change the numbers in your code if you want to speed it up a bit.
+風船の動きを確認しましょう。 動きが遅すぎませんか？ もう少し速くするには、コードの数値を変更してください。
 
 --- /task ---
 
 --- task ---
 
-Did you also notice that your balloon flips as it moves around the screen?
+画面の端で跳ね返るときに風船がひっくり返ることにも気づきましたか？
 
 ![balloon upside down](images/balloons-flip.png)
 
-Balloons don't move like this! To fix this, click on the balloon sprite icon, and then click the direction.
+風船はこのように動きません！ これを修正するには、風船のスプライトアイコンをクリックして、向きをクリックします。
 
 In the 'rotation style' section, click 'Do not rotate' to stop the balloon rotating.
 
