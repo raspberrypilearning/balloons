@@ -1,16 +1,16 @@
-## Lots of balloons
+## 風船をたくさんに
 
-Popping 1 balloon isn't much of a game, so let's add lots more!
+1つの風船を割るだけではゲームというほどではないので、もっとたくさんにしましょう！
 
-One simple way to get lots of balloons is just to right-click on the balloon sprite and click **duplicate**. This is OK if you only want a few, but what if you need 20? or 100? Are you really going to click **duplicate** that many times?
+風船をたくさんにする簡単な方法の1つは、風船のスプライトを右クリックして、**複製**をクリックすることです 。 数個だけなら問題ありませんが、20個必要な場合はどうでしょうか？ 100個では？ そんなに何回も**複製**をクリックしますか？
 
-A much better way of getting lots of balloons is to _clone_ the balloon sprite.
+風船をたくさんにするもっと良い方法は、風船のスプライトの_クローンを作る_ことです。
 
 --- task ---
 
-Drag your balloon `when flag clicked`{:class="block3events"} code to a new `when I start as a clone`{:class="block3control"} control block.
+風船の`旗が押されたとき`{:class="block3events"}コードを新しい制御ブロック`クローンされたとき`{:class="block3control"}にドラッグします。
 
-![balloon sprite](images/balloon-sprite.png)
+![風船のスプライト](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -41,9 +41,9 @@ end
 
 --- task ---
 
-Add code to create 20 balloon clones to the `when flag clicked`{:class="block3events"} code.
+`旗が押されたとき`{:class="block3events"}コードに風船のクローンを20個作成するコードを追加します。
 
-![balloon sprite](images/balloon-sprite.png)
+![風船のスプライト](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -58,9 +58,9 @@ end
 
 --- task ---
 
-You should also replace the `hide`{:class="block3looks"} block in the balloon-clicking script with a `delete this clone`{:class="block3control"} block.
+また、風船のスプライトが押されたときのスクリプトにある`隠す`{:class="block3looks"}ブロックを、 `このクローンを削除する`{:class="block3control"}ブロックに置き換える必要があります。
 
-![balloon sprite](images/balloon-sprite.png)
+![風船のスプライト](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,7 +77,7 @@ change [score v] by (1)
 
 --- task ---
 
-Test your project! Now when the flag is clicked, your main balloon sprite will hide and then clone itself 20 times. When each of these 20 clones is started, they will each bounce around the screen randomly, just as they did before. See if you can pop the 20 balloons!
+プロジェクトをテストしましょう！ 旗が押されると、最初の風船のスプライトが消え、そのクローンが20個作成されます。 これらの20個のクローンがそれぞれ動き始めると、1個の時と同じように、それぞれが画面上でランダムに跳ね返ります。 20個の風船を割ることができるかを確認してください。
 
 --- /task ---
 
