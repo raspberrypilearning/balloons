@@ -24,7 +24,7 @@ Scratchアカウントをお持ちの場合は**リミックス**をクリック
 
 新しい風船のスプライトと、ふさわしいステージの背景（はいけい）を追加します。
 
-![backdrop and balloon sprite](images/balloons-balloon.png)
+![背景と風船のスプライト](images/balloons-balloon.png)
 
 --- /task ---
 
@@ -33,7 +33,7 @@ Scratchアカウントをお持ちの場合は**リミックス**をクリック
 
 このコードを風船に追加して、画面の端で跳ね返るようにします：
 
-![balloon sprite](images/balloon-sprite.png)
+![風船のスプライト](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -57,18 +57,18 @@ Scratchアカウントをお持ちの場合は**リミックス**をクリック
 
 画面の端で跳ね返るときに風船がひっくり返ることにも気づきましたか？
 
-![balloon upside down](images/balloons-flip.png)
+![逆さまの風船](images/balloons-flip.png)
 
 風船はこのように動きません！ これを修正するには、風船のスプライトアイコンをクリックして、向きをクリックします。
 
-In the 'rotation style' section, click 'Do not rotate' to stop the balloon rotating.
+「回転しない」アイコンをクリックして、風船がひっくり返らないようにします。
 
-![rotation style option](images/balloons-lock-annotated.png)
+![回転方法の選択](images/balloons-lock-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-Test your program again to see if the problem is fixed.
+プログラムを再度テストして、問題が修正されたかどうかを確認します。
 
 --- /task ---
