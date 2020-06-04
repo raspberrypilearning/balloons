@@ -12,9 +12,9 @@
 
 --- task ---
 
-（旗を押して）新しいゲームが始まるときに、プレーヤーのスコアを0に設定しなければなりません。 Add this code to the top of the balloon's `when flag clicked`{:class="block3events"} code:
+（旗を押して）新しいゲームが始まるときに、プレーヤーのスコアを0に設定しなければなりません。 風船の`旗が押されたとき`{:class="block3events"}コードの最初の部分にこのコードを追加します：
 
-![balloon sprite](images/balloon-sprite.png)
+![風船のスプライト](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -27,9 +27,9 @@ switch costume to (balloon1-a v)
 
 --- task ---
 
-Whenever a balloon is popped, you need to add 1 to the score:
+風船が割れるたびに、スコアに1を加える必要があります。
 
-![balloon sprite](images/balloon-sprite.png)
+![風船のスプライト](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -44,7 +44,7 @@ hide
 
 --- task ---
 
-Run your program again and click the balloon. Does your score change?
+プログラムを再度実行し、風船をクリックします。 スコアは変わりましたか？
 
 --- /task ---
 
