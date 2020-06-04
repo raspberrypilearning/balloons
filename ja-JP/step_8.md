@@ -1,22 +1,22 @@
-## Adding a timer
+## タイマーの追加
 
-You can make your game more interesting, by only giving your player 10 seconds to pop as many balloons as possible.
+プレーヤーが風船をできるだけ多く割る時間を10秒間だけにすることで、ゲームをより面白くすることができます。
 
 --- task ---
 
-You can use another variable to store the remaining time left. Click on the stage, and create a new variable called `time`{:class="block3variables"}.
+別の変数を使用して、残りの持ち時間を保存します。 ステージをクリックし、`時間`{:class="block3variables"}という新しい変数を作成します。
 
 --- /task ---
 
-This is how the timer should work:
+タイマーは次のように動作します：
 
-+ The timer should start at 10 seconds;
-+ The timer should count down every second;
-+ The game should stop when the timer gets to 0.
++ タイマーは10秒から始まります。
++ タイマーは1秒ごとにカウントダウンします。
++ タイマーが0になると、ゲームは終わります。
 
 --- task ---
 
-Here's the code to do this, which you can add to your _stage_:
+コードはつぎのようになり、_ステージ_に追加します：
 
 ![balloon sprite](images/stage-sprite.png)
 
@@ -34,7 +34,7 @@ stop [all v]
 
 --- task ---
 
-Drag your 'time' variable display to the right side of the stage. You can also right-click on the variable display and choose 'large readout' to change how the time is displayed.
+「時間」変数の表示をステージの右側にドラッグします。 変数の表示を右クリックし、「大きな表示」を選択して、時間の表示方法を変更します。
 
 ![screenshot](images/balloons-readout.png)
 
@@ -42,7 +42,7 @@ Drag your 'time' variable display to the right side of the stage. You can also r
 
 --- task ---
 
-Test your game. How many points can you score? If your game is too easy, you can:
+ゲームをテストします。 何点取れましたか？ ゲームがかんたんすぎるようでしたら、こんな風にしてみましょう：
 
 + Give the player less time;
 + Have more balloons;
