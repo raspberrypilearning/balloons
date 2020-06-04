@@ -4,7 +4,7 @@
 
 --- task ---
 
-プレーヤーのスコアを保持するには、それを置く場所が必要です。 `スコア`{:class="block3variables"}という新しい`変数`{:class="block3variables"}を作成します。
+プレーヤーのスコアをつけるには、それを置く場所が必要です。 `スコア`{:class="block3variables"}という新しい`変数`{:class="block3variables"}を作成します。
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,7 +12,7 @@
 
 --- task ---
 
-（旗を押して）新しいゲームが始まるときに、プレーヤーのスコアを0に設定しなければなりません。 風船の`旗が押されたとき`{:class="block3events"}コードの最初の部分にこのコードを追加します：
+（旗を押して）新しいゲームを始めるときに、プレーヤーのスコアを0に設定しなければなりません。 風船の`旗が押されたとき`{:class="block3events"}コードの最初の部分にこのコードを追加します：
 
 ![風船のスプライト](images/balloon-sprite.png)
 
