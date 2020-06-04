@@ -1,3 +1,3 @@
-## Challenge: More randomness
-Can you make your balloon start by pointing in a random direction (between -90 and 180)?
+## チャレンジ：もっとランダムに
+風船がランダムな方向（-90から180の間）に向かって、動き始めるようにできますか？
 
