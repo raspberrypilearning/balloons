@@ -1,39 +1,39 @@
-## Animating a balloon
+## Animando um balão
 
 --- task ---
 
-Open a new Scratch project.
+Abra um novo projeto Scratch.
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratch-new){:target="_blank"}.
+**Online**: abra um [novo projeto online Scratch](http://rpf.io/scratch-new){:target="_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Se você tiver uma conta Scratch, você pode fazer uma cópia clicando em **Remix**.
 
-**Offline**: open a new project in the offline editor.
+**Offline**: abra um novo projeto no editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se você precisar baixar e instalar o editor offline do Scratch, você pode encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Delete the cat sprite.
+Apague o ator gato.
 
 --- /task ---
 
 --- task ---
 
-Add in a new balloon sprite, and a suitable stage backdrop.
+Adicione um novo ator balão e um cenário de palco adequado.
 
-![backdrop and balloon sprite](images/balloons-balloon.png)
+![cenário e ator balão](images/balloons-balloon.png)
 
 --- /task ---
 
 
 --- task ---
 
-Add this code to your balloon, so that it bounces around the screen:
+Adicione este código ao seu balão, para que ele salte pela tela:
 
-![balloon sprite](images/balloon-sprite.png)
+![ator balão](images/balloon-sprite.png)
 
 ```blocks3
     when flag clicked
@@ -49,26 +49,26 @@ Add this code to your balloon, so that it bounces around the screen:
 
 --- task ---
 
-Test out your balloon. Does it move too slowly? Change the numbers in your code if you want to speed it up a bit.
+Teste seu balão. Ele se move muito devagar? Mude os números no seu código, se você quiser acelerar um pouco.
 
 --- /task ---
 
 --- task ---
 
-Did you also notice that your balloon flips as it moves around the screen?
+Você também percebeu que seu balão vira enquanto se move pela tela?
 
-![balloon upside down](images/balloons-flip.png)
+![balão de cabeça para baixo](images/balloons-flip.png)
 
-Balloons don't move like this! To fix this, click on the balloon sprite icon, and then click the direction.
+Balões não se movem assim! Para corrigir isso, clique no ícone do ator balão e clique em Direção.
 
-In the 'rotation style' section, click 'Do not rotate' to stop the balloon rotating.
+Na seção 'estilo de rotação', clique em 'Não gire' para interromper a rotação do balão.
 
-![rotation style option](images/balloons-lock-annotated.png)
+![opção de estilo de rotação](images/balloons-lock-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-Test your program again to see if the problem is fixed.
+Teste seu programa novamente para verificar se o problema foi corrigido.
 
 --- /task ---
