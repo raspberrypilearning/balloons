@@ -1,20 +1,20 @@
-## Popping balloons
+## Estourando balões
 
-Lets allow the player to pop the balloons!
+Vamos permitir que o jogador estoure os balões!
 
 --- task ---
 
-Click on your balloon sprite, and then click the **Costumes** tab. You can delete all of the other costumes, just leaving 1 balloon costume. Add a new costume, by clicking **Paint new costume** and create a new costume called `burst`.
+Clique no seu ator balão e clique na aba **Fantasias**. Você pode apagar todos as outras fantasias, deixando apenas 1 fantasia de balão. Adicione uma nova fantasia clicando em **Pintar nova fantasia** e crie uma nova fantasia chamada `estouro`.
 
-![balloon costume called burst](images/balloons-costume.png)
+![fantasia balão chamada estouro](images/balloons-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that your balloon switches to the right costume when the game starts. Your code should now look like this:
+Certifique-se de que seu balão mude para a fantasia certa quando o jogo começar. Seu código agora deve ficar assim:
 
-![balloon sprite](images/balloon-sprite.png)
+![ator balão](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -32,9 +32,9 @@ end
 
 --- task ---
 
-To allow the player to burst a balloon, add this code:
+Para permitir ao jogador estourar um balão, adicione este código:
 
-![balloon sprite](images/balloon-sprite.png)
+![ator balão](images/balloon-sprite.png)
 
 ```blocks3
     when this sprite clicked
@@ -46,13 +46,13 @@ To allow the player to burst a balloon, add this code:
 
 --- task ---
 
-Test out your project. Can you pop the balloon? Does it work as you expected?
+Teste seu projeto. Você pode estourar o balão? É o que você esperava?
 
-You'll need to improve this code, so that when the balloon is clicked, it shows the `burst` costume for a short time, and is then hidden.
+Você precisará melhorar esse código para que, quando o balão for clicado, ele mostre a fantasia `estouro` por um curto período de tempo, e é então escondido.
 
-You can make all of this happen by changing your balloon `when sprite clicked`{:class="block3events"} code to this:
+Você pode fazer tudo isso acontecer mudando o código do balão `quando este ator for clicado`{:class="block3events"} para isso:
 
-![balloon sprite](images/balloon-sprite.png)
+![ator balão](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -66,9 +66,9 @@ start sound (pop v)
 
 --- task ---
 
-Now that you're deleting the balloon when it's clicked, you'll also need to add a `show`{:class="block3looks"} block to the start of the `when flag clicked`{:class="block3events"} code.
+Agora que você está apagando o balão quando ele é clicado, também precisa adicionar um bloco `mostre`{:class="block3looks"} para o início do código `quando ⚑ for clicada`{:class="block3events"}.
 
-![balloon sprite](images/balloon-sprite.png)
+![ator balão](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -81,6 +81,6 @@ point in direction (pick random (-90) to (180))
 
 --- task ---
 
-Try popping a balloon again, to check that it works properly.
+Tente estourar um balão novamente para verificar se ele funciona corretamente.
 
 --- /task ---
