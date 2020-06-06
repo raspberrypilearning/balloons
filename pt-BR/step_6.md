@@ -1,10 +1,10 @@
-## Adding a score
+## Adicionando uma pontuação
 
-Let's make things more interesting by keeping score.
+Vamos tornar as coisas mais interessantes e manter uma pontuação.
 
 --- task ---
 
-To keep the player's score, you need a place to put it. Create a new `variable`{:class="block3variables"} called `score`{:class="block3variables"}.
+Para manter a pontuação do jogador, você precisa de um local para guardá-la. Crie uma nova `variável`{:class="block3variables"} chamada `pontos`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,9 +12,9 @@ To keep the player's score, you need a place to put it. Create a new `variable`{
 
 --- task ---
 
-When a new game is started (by clicking the flag), you should set the player's score to 0. Add this code to the top of the balloon's `when flag clicked`{:class="block3events"} code:
+Quando um novo jogo é iniciado (clicando na bandeira), você deve definir a pontuação do jogador como 0. Adicione este código à parte superior do código do balão `quando ⚑ for clicado`{:class="block3events"}:
 
-![balloon sprite](images/balloon-sprite.png)
+![ator balão](images/balloon-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -27,9 +27,9 @@ switch costume to (balloon1-a v)
 
 --- task ---
 
-Whenever a balloon is popped, you need to add 1 to the score:
+Sempre que um balão é estourado, você precisa adicionar 1 à pontuação:
 
-![balloon sprite](images/balloon-sprite.png)
+![ator balão](images/balloon-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -44,7 +44,7 @@ hide
 
 --- task ---
 
-Run your program again and click the balloon. Does your score change?
+Execute seu programa novamente e clique no balão. Sua pontuação muda?
 
 --- /task ---
 
