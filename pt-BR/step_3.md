@@ -10,7 +10,7 @@ Click the flag a few times to start your program, and you'll see it's the same e
 
 --- task ---
 
-Instead of using the same x and y position each time, you can let Scratch `pick a random number`{:class="blockoperators"} instead. Change your balloon's code, so that it looks like this:
+Ao invés de cada vez usar a mesma posição x e y, em vez disso, você pode deixar o Scratch `escolher um número aleatório`{:class="blockoperators"}. Change your balloon's code, so that it looks like this:
 
 ![balloon sprite](images/balloon-sprite.png)
 
