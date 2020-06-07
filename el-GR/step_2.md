@@ -4,13 +4,13 @@
 
 Δημιούργησε ένα νέο έργο Scratch.
 
-**Online**: άνοιξε ένα [νέο online έργο Scratch](http://rpf.io/scratch-new){:target="_ blank"}.
+**Σε σύνδεση**: άνοιξε ένα [νέο έργο Scratch σε σύνδεση](http://rpf.io/scratch-new){:target="_ blank"}.
 
 Αν έχεις λογαριασμό Scratch μπορείς να κάνεις ένα αντίγραφο, κάνοντας κλικ στο κουμπί **Ανάμειξη**.
 
 **Eκτός σύνδεσης**: άνοιξε ένα νέο έργο στο Scratch.
 
-Αν χρειαστεί να κατεβάσεις και να εγκαταστήσεις τον offline editor για το Scratch, μπορείς να το βρεις στο [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Αν χρειαστεί να κατεβάσεις και να εγκαταστήσεις τον επεξεργαστή εκτός σύνδεσης για το Scratch, μπορείς να το βρεις στο [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
