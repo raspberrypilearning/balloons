@@ -39,7 +39,7 @@ title: Τι θα χρειαστείς
 
 ### Λογισμικό
 
-+ Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (είτε [σε σύνδεση](http://rpf.io/scratchon){:target="_blank"} είτε [εκτός σύνδεσης](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -66,6 +66,6 @@ title: Πρόσθετες πληροφορίες για εκπαιδευτικο
 
 --- /no-print ---
 
-Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/en/balloons-get){:target="_blank"}.
+Μπορείς να βρεις [ολοκληρωμένο το έργο εδώ](http://rpf.io/p/en/balloons-get){:target="_blank"}.
 
 --- /collapse ---
