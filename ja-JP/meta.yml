@@ -15,7 +15,7 @@ steps:
   - title: 風船を割る
   - title: スコアを追加する
   - title: 風船をたくさんに
-  - title: タイマーを追加する
+  - title: タイマーの追加
   - title: 'チャレンジ：物体をふやす'
     challenge: true
   - title: 次は何をしますか？
