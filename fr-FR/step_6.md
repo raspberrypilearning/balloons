@@ -12,7 +12,7 @@ Pour conserver le score du joueur, tu as besoin d'un endroit pour le mettre. Cr�
 
 --- task ---
 
-Lorsqu'une nouvelle partie démarre (en cliquant sur le drapeau), tu dois définir le score du joueur sur 0. Ajoute ce code en haut du code du ballon `quand le drapeau est cliqué`{:class="block3events"}:
+Lorsqu'une nouvelle partie démarre (en cliquant sur le drapeau), tu dois définir le score du joueur sur 0. Ajoute ce code en haut du code du ballon `quand le drapeau est cliqué`{:class="block3events"} :
 
 ![sprite ballon](images/balloon-sprite.png)
 
@@ -27,7 +27,7 @@ switch costume to (balloon1-a v)
 
 --- task ---
 
-Chaque fois qu'un ballon est éclaté, tu dois ajouter 1 au score:
+Chaque fois qu'un ballon est éclaté, tu dois ajouter 1 au score :
 
 ![sprite ballon](images/balloon-sprite.png)
 
@@ -44,7 +44,7 @@ hide
 
 --- task ---
 
-Exécute à nouveau ton programme et clique sur le ballon. Ton score change-t-il?
+Exécute à nouveau ton programme et clique sur le ballon. Ton score change-t-il ?
 
 --- /task ---
 

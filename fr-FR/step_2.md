@@ -4,11 +4,11 @@
 
 Ouvre un nouveau projet Scratch.
 
-**En ligne**: ouvre un [nouveau projet Scratch en ligne](http://rpf.io/scratch-new){:target="_blank"}.
+**En ligne** : ouvre un [nouveau projet Scratch en ligne](http://rpf.io/scratch-new){:target="_blank"}.
 
 Si tu as un compte Scratch, tu peux en créer une copie en cliquant sur **Remix**.
 
-**Hors-ligne**: ouvre un nouveau projet dans l’éditeur hors-ligne.
+**Hors-ligne** : ouvre un nouveau projet dans l’éditeur hors-ligne.
 
 Si tu dois télécharger et installer l'éditeur hors-ligne Scratch, tu peux le trouver à [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
@@ -31,7 +31,7 @@ Ajoute un nouveau sprite de ballon et un arrière-plan approprié.
 
 --- task ---
 
-Ajoute ce code à ton ballon, pour qu'il rebondisse sur l'écran:
+Ajoute ce code à ton ballon, pour qu'il rebondisse sur l'écran :
 
 ![sprite ballon](images/balloon-sprite.png)
 
@@ -49,19 +49,19 @@ Ajoute ce code à ton ballon, pour qu'il rebondisse sur l'écran:
 
 --- task ---
 
-Teste ton ballon. Se déplace-t-il trop lentement? Modifie les nombres dans ton code si tu souhaites l'accélérer un peu.
+Teste ton ballon. Se déplace-t-il trop lentement ? Modifie les nombres dans ton code si tu souhaites l'accélérer un peu.
 
 --- /task ---
 
 --- task ---
 
-As-tu également remarqué que ton ballon se retourne en se déplaçant sur l'écran?
+As-tu également remarqué que ton ballon se retourne en se déplaçant sur l'écran ?
 
 ![ballon à l'envers](images/balloons-flip.png)
 
-Les ballons ne bougent pas comme ça  Pour résoudre ce problème, clique sur l'icône de sprite de ballon, puis clique sur la direction.
+Les ballons ne bougent pas comme ça ! Pour résoudre ce problème, clique sur l'icône de sprite de ballon, puis clique sur la direction.
 
-Dans la section «style de rotation», clique sur « Ne pivote pas » pour arrêter la rotation du ballon.
+Dans la section « style de rotation », clique sur « Ne pivote pas » pour arrêter la rotation du ballon.
 
 ![option de style de rotation](images/balloons-lock-annotated.png)
 

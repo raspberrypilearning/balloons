@@ -8,15 +8,15 @@ Tu peux utiliser une autre variable pour stocker le temps restant. Clique sur la
 
 --- /task ---
 
-Voici comment le chronomètre devrait fonctionner:
+Voici comment le chronomètre devrait fonctionner :
 
-+ Le chronomètre devrait démarrer à 10 secondes;
-+ Le chronomètre doit décompter chaque seconde;
++ Le chronomètre devrait démarrer à 10 secondes ;
++ Le chronomètre doit décompter chaque seconde ;
 + Le jeu devrait s'arrêter lorsque le chronomètre atteint 0.
 
 --- task ---
 
-Voici le code pour faire cela, que tu peux ajouter à ta _scène_:
+Voici le code pour faire cela, que tu peux ajouter à ta _scène_ :
 
 ![sprite ballon](images/stage-sprite.png)
 
@@ -34,7 +34,7 @@ stop [all v]
 
 --- task ---
 
-Fais glisser ton affichage de la variable «temps» vers le côté droit de la scène. Tu peux également cliquer avec le bouton droit de la souris sur l'affichage de la variable et choisir «grande lecture» pour changer la façon dont le temps est affiché.
+Fais glisser ton affichage de la variable « temps » vers le côté droit de la scène. Tu peux également cliquer avec le bouton droit de la souris sur l'affichage de la variable et choisir « grande lecture » pour changer la façon dont le temps est affiché.
 
 ![capture d'écran](images/balloons-readout.png)
 
@@ -42,11 +42,11 @@ Fais glisser ton affichage de la variable «temps» vers le côté droit de la s
 
 --- task ---
 
-Teste ton jeu. Combien de points peux-tu marquer? Si ton jeu est trop facile, tu peux:
+Teste ton jeu. Combien de points peux-tu marquer ? Si ton jeu est trop facile, tu peux :
 
-+ Donner au joueur moins de temps;
-+ Avoir plus de ballons;
-+ Faire bouger les ballons plus rapidement;
++ Donner au joueur moins de temps ;
++ Avoir plus de ballons ;
++ Faire bouger les ballons plus rapidement ;
 + Rendre les ballons plus petits.
 
 Joue à ton jeu plusieurs fois jusqu'à ce que tu sois satisfait du bon niveau de difficulté.

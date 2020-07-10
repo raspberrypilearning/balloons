@@ -1,8 +1,8 @@
 ## Beaucoup de ballons
 
-Faire éclater 1 ballon n'est pas vraiment un jeu, alors ajoutons en beaucoup plus!
+Faire éclater 1 ballon n'est pas vraiment un jeu, alors ajoutons en beaucoup plus !
 
-Une façon simple d'obtenir beaucoup de ballons consiste simplement à cliquer avec le bouton droit sur le sprite de ballon et à cliquer sur **dupliquer**. Ce n'est pas grave si tu n'en veux que quelques-uns, mais qu'en est-il si tu en as besoin de 20? ou 100? Vas-tu vraiment cliquer sur **dupliquer** autant de fois?
+Une façon simple d'obtenir beaucoup de ballons consiste simplement à cliquer avec le bouton droit sur le sprite de ballon et à cliquer sur **dupliquer**. Ce n'est pas grave si tu n'en veux que quelques-uns, mais qu'en est-il si tu en as besoin de 20 ? ou 100 ? Vas-tu vraiment cliquer sur **dupliquer** autant de fois ?
 
 Une bien meilleure façon d'obtenir beaucoup de ballons est de _cloner_ le sprite de ballon.
 
@@ -77,7 +77,7 @@ change [score v] by (1)
 
 --- task ---
 
-Teste ton projet! Maintenant, quand le drapeau est cliqué, ton sprite de ballon principal se cache et se clone ensuite 20 fois. Lorsque chacun de ces 20 clones est démarré, ils rebondissent chacun au hasard sur l'écran, comme ils le faisaient auparavant. Vois si tu peux faire éclater les 20 ballons!
+Teste ton projet ! Maintenant, quand le drapeau est cliqué, ton sprite de ballon principal se cache et se clone ensuite 20 fois. Lorsque chacun de ces 20 clones est démarré, ils rebondissent chacun au hasard sur l'écran, comme ils le faisaient auparavant. Vois si tu peux faire éclater les 20 ballons !
 
 --- /task ---
 
