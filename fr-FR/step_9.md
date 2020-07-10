@@ -1,4 +1,4 @@
-## Défi: plus d'objets
+## Défi : plus d'objets
 Peux-tu ajouter d'autres objets à ton jeu ? Tu peux ajouter de bons objets, comme des beignets, qui te donnent beaucoup de points, ou de mauvais objets, comme des chauves-souris, qui enlèvent des points.
 
 ![capture d'écran](images/balloons-objects.png)
