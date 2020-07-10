@@ -10,7 +10,7 @@ Clique sur le drapeau plusieurs fois pour démarrer ton programme, et tu verras 
 
 --- task ---
 
-Au lieu d'utiliser la même position x et y à chaque fois, tu peux laisser Scratch `choisir un nombre aléatoire`{:class="blockoperators"} à la place. Modifie le code de ton ballon pour qu'il ressemble à ceci:
+Au lieu d'utiliser la même position x et y à chaque fois, tu peux laisser Scratch `choisir un nombre aléatoire`{:class="blockoperators"} à la place. Modifie le code de ton ballon pour qu'il ressemble à ceci :
 
 ![sprite ballon](images/balloon-sprite.png)
 
@@ -30,7 +30,7 @@ Si tu cliques plusieurs fois sur le drapeau vert, tu devrais remarquer que ton b
 
 --- task ---
 
-Tu peux même utiliser un nombre aléatoire pour choisir une couleur de ballon aléatoire à chaque fois:
+Tu peux même utiliser un nombre aléatoire pour choisir une couleur de ballon aléatoire à chaque fois :
 
 ![sprite ballon rouge](images/balloons-colour.png)
 
@@ -57,7 +57,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-Ton code devrait ressembler à ceci:
+Ton code devrait ressembler à ceci :
 
 ![sprite ballon](images/balloon-sprite.png)
 
@@ -79,5 +79,5 @@ Ton code devrait ressembler à ceci:
 
 --- /task ---
 
-Que se passe-t-il si ce code est mis au début de ton programme? Est-ce que quelque chose de différent se produit si tu mets ce code _à l'intérieur_ d'une boucle `répéter indéfiniment`{:class="block3control"}? Lequel préfères-tu?
+Que se passe-t-il si ce code est mis au début de ton programme ? Est-ce que quelque chose de différent se produit si tu mets ce code _à l'intérieur_ d'une boucle `répéter indéfiniment`{:class="block3control"} ? Lequel préfères-tu ?
 
