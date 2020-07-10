@@ -1,6 +1,6 @@
 ## Ballons à éclater
 
-Permets au joueur de faire éclater les ballons!
+Permets au joueur de faire éclater les ballons !
 
 --- task ---
 
@@ -32,7 +32,7 @@ end
 
 --- task ---
 
-Pour permettre au joueur d'éclater un ballon, ajoute ce code:
+Pour permettre au joueur d'éclater un ballon, ajoute ce code :
 
 ![sprite ballon](images/balloon-sprite.png)
 
@@ -46,11 +46,11 @@ Pour permettre au joueur d'éclater un ballon, ajoute ce code:
 
 --- task ---
 
-Teste ton projet. Peux-tu faire éclater le ballon? Cela fonctionne-t-il comme prévu?
+Teste ton projet. Peux-tu faire éclater le ballon ? Cela fonctionne-t-il comme prévu ?
 
 Tu devras améliorer ce code, de sorte que lorsque le ballon est cliqué, il affiche le costume `éclatement` pendant une courte période, puis est caché.
 
-Tu peux faire tout cela en changeant le code de ton ballon `quand ce sprite est cliqué`{:class="block3events"} comme ceci:
+Tu peux faire tout cela en changeant le code de ton ballon `quand ce sprite est cliqué`{:class="block3events"} comme ceci :
 
 ![sprite ballon](images/balloon-sprite.png)
 
