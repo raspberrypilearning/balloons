@@ -1,4 +1,4 @@
-## Et ensuite?
+## Et ensuite ?
 
 Jette un œil au projet Scratch [Tech Toys](https://projects.raspberrypi.org/fr-FR/projects/tech-toys).
 
@@ -25,7 +25,7 @@ Jette un œil au projet Scratch [Tech Toys](https://projects.raspberrypi.org/fr-
 
 
 ***
-Ce projet a été traduit par des bénévoles:
+Ce projet a été traduit par des bénévoles :
 
 Jonathan Vannieuwkerke
 
