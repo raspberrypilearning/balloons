@@ -1,4 +1,4 @@
-## E poi?
+## E adesso?
 
 Dai un'occhiata al progetto Scratch [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys).
 
