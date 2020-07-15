@@ -14,7 +14,7 @@ Trascina il codice del palloncino che trovi sotto al blocco `quando si clicca su
 
 ```blocks3
 when flag clicked
-set [score v] to [0]
+set [punti v] to [0]
 -show
 -switch costume to (balloon1-a v)
 -point in direction (pick random (-90) to (180))
@@ -47,10 +47,10 @@ Aggiungi il codice per creare 20 cloni di palloncino sotto al blocco`quando si c
 
 ```blocks3
 when flag clicked
-set [score v] to [0]
+set [punti v] to [0]
 +hide
 +repeat (20)
-create clone of (myself v)
+create clone of (me stesso v)
 end
 ```
 
@@ -67,7 +67,7 @@ when this sprite clicked
 switch costume to (burst v)
 start sound (pop v)
 wait (0.3) seconds
-change [score v] by (1)
+change [punteggio v] by (1)
 -hide
 +delete this clone
 ```
@@ -77,7 +77,7 @@ change [score v] by (1)
 
 --- task ---
 
-Prova il tuo progetto! Adesso, quando fai clic sulla bandiera, lo sprite del palloncino principale si nasconderà e si clonerà 20 volte. Appena creato, ognuno dei 20 cloni, rimbalza sullo schermo in modo casuale, proprio come prima. Prova a far scoppiare i 20 palloncini!
+Prova il tuo progetto! Adesso, quando fai clic sulla bandiera, lo sprite del palloncino principale si nasconderà e si clonerà 20 volte. Appena creato, ognuno dei 20 cloni, rimbalzerà sullo schermo in modo casuale, proprio come prima. Prova a far scoppiare i 20 palloncini!
 
 --- /task ---
 
