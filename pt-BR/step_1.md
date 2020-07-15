@@ -57,7 +57,7 @@ title: O que você vai aprender
 
 --- collapse ---
 ---
-título: Informações adicionais para educadores
+title: Informações adicionais para educadores
 ---
 
 --- no-print ---

@@ -23,7 +23,7 @@ Aqui está o código para fazer isso, que você pode adicionar ao seu _palco_:
 ```blocks3
 when flag clicked
 set [tempo v] to [10]
-repeat until <(tempo) = [0]>
+repeat until <(tempo :: variables) = [0]>
     wait (1) seconds
     change [tempo v] by (-1)
 end
