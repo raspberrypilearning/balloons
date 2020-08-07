@@ -1,10 +1,10 @@
-## Añadir un cronómetro
+## Añadir un temporizador
 
 Puedes hacer que tu juego sea más interesante, solo dando a tu jugador 10 segundos para hacer estallar tantos globos como sea posible.
 
 --- task ---
 
-Puedes usar otra variable para almacenar el tiempo restante. Haz clic en el escenario y crea una nueva variable llamada `tiempo` {:class="block3variables"}.
+Puedes usar otra variable para almacenar el tiempo restante. Haz clic en el escenario y crea una nueva variable llamada `tiempo`{:class="block3variables"}.
 
 --- /task ---
 

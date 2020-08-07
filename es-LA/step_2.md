@@ -4,7 +4,7 @@
 
 Abre un nuevo proyecto en Scratch.
 
-**En línea** abre un [nuevo proyecto Scratch en línea](http://rpf.io/scratch-new){:target="_blank"}.
+**En línea:** abre un [nuevo proyecto Scratch en línea](http://rpf.io/scratch-new){:target="_blank"}.
 
 Si tienes una cuenta Scratch puedes hacer una copia haciendo clic en **Remix**.
 
