@@ -4,7 +4,7 @@ Hacer estallar 1 globo no es un gran juego, ¡así que agreguemos mucho más!
 
 Una forma sencilla de obtener muchos globos es simplemente hacer clic derecho en el objeto globo y hacer clic en ** duplicar **. Esto está bien si solo quieres unos pocos, pero ¿qué pasa si necesitas 20? o 100? ¿Realmente vas a hacer clic en ** duplicar ** tantas veces?
 
-Una forma mucho mejor de conseguir muchos globos es clonar _ _ el objeto globo.
+Una forma mucho mejor de conseguir muchos globos _es clonar_ el objeto globo.
 
 --- task ---
 
@@ -58,7 +58,7 @@ end
 
 --- task ---
 
-También debes reemplazar el bloque `ocultar`{:class="block3looks"} en la secuencia de comandos de hacer clic al globo con un bloque `eliminar este clon`{:class= "block3control"}.
+También debes reemplazar el bloque `ocultar`{:class="block3looks"} en la secuencia de comandos de hacer clic al globo con un bloque `eliminar este clon`{:class="block3control"}.
 
 ![objeto globo](images/balloon-sprite.png)
 

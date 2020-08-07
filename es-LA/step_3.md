@@ -36,6 +36,7 @@ Incluso podrías usar un número aleatorio para elegir un color de globo aleator
 
 --- hints ---
 
+
 --- hint ---
 
 `Cambiar el efecto de color por`{:class="block3looks"} por un `número aleatorio`{:class="block3operators"} cuando `se hace clic en la bandera verde`{:class="block3events"}.

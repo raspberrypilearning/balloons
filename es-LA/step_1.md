@@ -1,6 +1,6 @@
 --- no-print ---
 
-Esta es la versión **Scratch 3** del proyecto. También hay una [versión del proyecto en Scratch 2](https://projects.raspberrypi.org/en/projects/balloons-scratch2).
+Esta es la versión **Scratch 3** del proyecto. También hay una [versión del proyecto en Scratch 2](https://projects.raspberrypi.org/es-LA/projects/balloons-scratch2).
 
 --- /no-print ---
 
@@ -16,7 +16,7 @@ Esta es la versión **Scratch 3** del proyecto. También hay una [versión del p
 Revienta los globos haciendo clic en ellos.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/394054465/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/416391191/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/balloons-final.png">
 </div>
 
@@ -39,7 +39,7 @@ title: Lo que necesitarás
 
 ### Programa
 
-+ Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff) {:target="_blank"})
++ Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -66,6 +66,6 @@ Si necesitas imprimir el proyecto, utiliza la [versión de impresión amigable](
 
 --- /no-print ---
 
-Puedes encontrar el [ proyecto completo aquí ](http://rpf.io/p/es-LA/balloons-get){:target="_blank"}.
+Puedes encontrar el [proyecto completo aquí](http://rpf.io/p/es-LA/balloons-get){:target="_blank"}.
 
 --- /collapse ---

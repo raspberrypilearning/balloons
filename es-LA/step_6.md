@@ -4,7 +4,7 @@ Vamos a hacer las cosas más interesantes añadiendo una puntuación.
 
 --- task ---
 
-Para mantener el puntaje del jugador, necesitas un lugar donde colocarlo. Crear una nueva `variable `{:class="block3variables"} llamada `puntaje`{:class="block3variables"}.
+Para mantener el puntaje del jugador, necesitas un lugar donde colocarlo. Crear una nueva `variable`{:class="block3variables"} llamada `puntaje`{:class="block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -12,7 +12,7 @@ Para mantener el puntaje del jugador, necesitas un lugar donde colocarlo. Crear 
 
 --- task ---
 
-Cuando se inicia un nuevo juego (haciendo clic en la bandera), debes establecer la puntuación del jugador en 0. Agrega este código a la parte superior del código del globo  `cuando hagas clic en la bandera`{:class="block3events"}:
+Cuando se inicia un nuevo juego (haciendo clic en la bandera), debes establecer la puntuación del jugador en 0. Agrega este código a la parte superior del código del globo `cuando hagas clic en la bandera`{:class="block3events"}:
 
 ![objeto globo](images/balloon-sprite.png)
 

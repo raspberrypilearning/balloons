@@ -50,7 +50,7 @@ Prueba tu proyecto. ¿Puedes reventar el globo? ¿Funciona como esperabas?
 
 Deberás mejorar este código, para que cuando se haga clic en el globo, muestre el disfraz `explosión` tiempo corto, y luego se oculta.
 
-Puedes hacer que todo esto suceda cambiando su globo `cuando se hace clic en el objeto`{:class="block3events"} Código para esto:
+Puedes hacer que todo esto suceda cambiando su globo `cuando se hace clic en el objeto`{:class="block3events"} código para esto:
 
 ![objeto globo](images/balloon-sprite.png)
 
@@ -66,7 +66,7 @@ start sound (pop v)
 
 --- task ---
 
-Ahora que estás eliminando el globo cuando se hace clic, también necesitarás agregar un bloque `mostrar`{class="block3looks"} al comienzo del `cuando se hace clic en la bandera`{:class="block3events"} Código.
+Ahora que estás eliminando el globo cuando se hace clic, también necesitarás agregar un bloque `mostrar`{:class="block3looks"} al comienzo del `cuando se hace clic en la bandera`{:class="block3events"} código.
 
 ![objeto globo](images/balloon-sprite.png)
 
