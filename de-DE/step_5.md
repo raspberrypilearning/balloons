@@ -6,7 +6,7 @@ Erlaube dem Spieler, die Luftballons platzen zu lassen!
 
 Klicke auf deinen Luftballon-Sprite und klicke auf den Reiter **Kostüme**. Du kannst bis auf ein Luftballon-Kostüm alle Kostüme löschen. Füge ein neues Kostüm hinzu, indem du auf **Malen** klickst und ein neues Kostüm namens `Geplatzt` erstellst.
 
-![balloon costume called burst](images/balloons-costume.png)
+![Luftballon-Kostüm „Geplatzt“](images/balloons-costume.png)
 
 --- /task ---
 
