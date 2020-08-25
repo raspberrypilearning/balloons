@@ -4,7 +4,7 @@ Lass uns die Dinge interessanter machen, indem wir Punkte zählen.
 
 --- task ---
 
-To keep the player's score, you need a place to put it. Erstelle eine neue `Variable` {: class = "block3variables"} mit dem Namen `Punktestand` {: class = "block3variables"}.
+Um den Punktestand des Spielers zu verfolgen, benötigst du einen Platz, an dem du sie anzeigen lassen kannst. Erstelle eine neue `Variable` {: class = "block3variables"} mit dem Namen `Punktestand` {: class = "block3variables"}.
 
 [[[generic-scratch3-add-variable]]]
 
