@@ -2,30 +2,30 @@
 hero_image: images/banner.png
 listed: true
 copyedit: true
-title: Balloons
-description: Learn how to make a balloon-popping game!
+title: Luftballons
+description: Lerne, wie man ein Lass - den - Luftballon - platzen - Spiel erstellt!
 version: 4
 last_tested: 2018-04-02
 steps:
   - 
-    title: Introduction
+    title: Einleitung
   - 
-    title: Animating a balloon
+    title: Einen Luftballon animieren
   - 
-    title: Random balloons
+    title: Zufällige Luftballons
   - 
-    title: 'Challenge: More randomness'
+    title: 'Herausforderung: mehr Zufälligkeit'
     challenge: true
   - 
-    title: Popping balloons
+    title: Luftballons platzen lassen
   - 
-    title: Adding a score
+    title: Einen Punktestand hinzufügen
   - 
-    title: Lots of balloons
+    title: Viele Luftballons
   - 
-    title: Adding a timer
+    title: Hinzufügen eines Timers
   - 
-    title: 'Challenge: More objects'
+    title: 'Herausforderung: mehr Objekte'
     challenge: true
   - 
-    title: What next?
+    title: Wie geht es weiter?
