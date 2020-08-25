@@ -19,6 +19,6 @@ Schau dir das [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys
 
 --- print-only ---
 
-![complete project](images/toys-final.png)
+![fertiges Projekt](images/toys-final.png)
 
 --- /print-only ---
