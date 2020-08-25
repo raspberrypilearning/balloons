@@ -1,4 +1,4 @@
-## Wie geht's weiter?
+## Wie geht es weiter?
 
 Schau dir das [Tech Toys](https://projects.raspberrypi.org/de-DE/projects/tech-toys) Scratch-Projekt an.
 
