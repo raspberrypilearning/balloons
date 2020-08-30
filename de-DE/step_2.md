@@ -16,13 +16,13 @@ Wenn du den Scratch-Offline-Editor herunterladen und installieren möchtest, fin
 
 --- task ---
 
-Lösche das Katzen-Sprite.
+Lösche die Katzen-Figur.
 
 --- /task ---
 
 --- task ---
 
-Füge ein neues Luftballon-Sprite und einen passenden Bühnenhintergrund hinzu.
+Füge eine neue Luftballon-Figur und einen passenden Bühnenhintergrund hinzu.
 
 ![Hintergrund und Luftballon-Sprite](images/balloons-balloon.png)
 
@@ -59,7 +59,7 @@ Hast du auch bemerkt, dass sich dein Luftballon dreht, wenn er sich über den Bi
 
 ![Luftballon auf den Kopf gestellt](images/balloons-flip.png)
 
-Luftballons bewegen sich nicht so! Um dies zu beheben, klicke auf das Luftballon-Sprite-Symbol und dann auf die Richtung.
+Luftballons bewegen sich nicht so! Um dies zu beheben, klicke auf das Luftballon-Figur-Symbol und dann auf die Richtung.
 
 Klicke im Abschnitt "Rotationsstil" auf "Nicht drehen", um die Rotation des Luftballons zu stoppen.
 
