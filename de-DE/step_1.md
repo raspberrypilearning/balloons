@@ -48,10 +48,10 @@ title: Was du brauchen wirst
 title: Was du lernen wirst
 ---
 
-- Wie man Animationen verwendet, um Sprites zu bewegen
+- Wie man Animationen verwendet, um Figuren zu bewegen
 - Wie man Zufallszahlen benutzt
-- Wie man Sprites zeichnet
-- Wie man einen Sprite-Klon erstellt
+- Wie man Figuren zeichnet
+- Wie man einen Figur-Klon erstellt
 
 --- /collapse ---
 
