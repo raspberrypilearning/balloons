@@ -2,9 +2,9 @@
 
 Einen Luftballon platzen zu lassen ist kein tolles Spiel, also lasst uns noch viele mehr hinzufügen!
 
-Eine einfache Möglichkeit, viele Luftballons zu erhalten, ist, mit der rechten Maustaste auf das Luftballon-Sprite zu klicken und auf **Duplizieren** zu klicken. Dies ist in Ordnung, wenn du nur wenige möchtest, aber was ist, wenn du 20 benötigst? oder 100? Möchtest du wirklich so oft auf **Duplizieren** klicken?
+Eine einfache Möglichkeit, viele Luftballons zu erhalten, ist, mit der rechten Maustaste auf die Luftballon-Figur zu klicken und auf **Duplizieren** zu klicken. Dies ist in Ordnung, wenn du nur wenige möchtest, aber was ist, wenn du 20 benötigst? oder 100? Möchtest du wirklich so oft auf **Duplizieren** klicken?
 
-Eine viel bessere Möglichkeit, viele Ballons zu erhalten, ist das _Klonen_ des Luftballon-Sprite.
+Eine viel bessere Möglichkeit, viele Ballons zu erhalten, ist das _Klonen_ der Luftballon-Figur.
 
 --- task ---
 
@@ -77,7 +77,7 @@ change [score v] by (1)
 
 --- task ---
 
-Teste dein Projekt! Wenn du jetzt auf die Fahne klickst, wird dein Haupt-Luftballon-Sprite ausgeblendet und es klont sich anschließend 20 Mal. Wenn jeder dieser 20 Klone gestartet wird, springt er wie zufällig über den Bildschirm, so wie er es vorher auch getan hat. Schau, ob du die 20 Luftballons platzen lassen kannst!
+Teste dein Projekt! Wenn du jetzt auf die Fahne klickst, wird deine Haupt-Luftballon-Figur ausgeblendet und sie klont sich anschließend 20 Mal. Wenn jeder dieser 20 Klone gestartet wird, springt er wie zufällig über den Bildschirm, so wie er es vorher auch getan hat. Schau, ob du die 20 Luftballons platzen lassen kannst!
 
 --- /task ---
 
