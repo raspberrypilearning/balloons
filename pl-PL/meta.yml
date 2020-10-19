@@ -15,7 +15,7 @@ steps:
   - title: Przebijanie balonów
   - title: Dodawanie wyniku
   - title: Dużo balonów
-  - title: Dodawanie stopera
+  - title: Dodaj licznik czasu
   - title: 'Wyzwanie: Więcej obiektów'
     challenge: true
   - title: Co dalej?
