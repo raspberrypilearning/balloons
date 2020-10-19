@@ -1,0 +1,21 @@
+---
+hero_image: images/banner.png
+listed: true
+copyedit: true
+title: Balony
+description: Naucz się, jak stworzyć grę, w której przebijasz balony!
+version: 4
+last_tested: 2018-04-02
+steps:
+  - title: Wprowadzenie
+  - title: Animowanie balonu
+  - title: Losowe balony
+  - title: 'Wyzwanie: Większa losowość'
+    challenge: true
+  - title: Przebijanie balonów
+  - title: Dodawanie wyniku
+  - title: Dużo balonów
+  - title: Dodawanie stopera
+  - title: 'Wyzwanie: Więcej obiektów'
+    challenge: true
+  - title: Co dalej?
