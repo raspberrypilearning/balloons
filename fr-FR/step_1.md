@@ -39,7 +39,7 @@ title: Ce qu'il te faut
 
 ### Logiciel
 
-+ Scratch 3 (soit [en ligne](http://rpf.io/scratchon){:target="_blank"} soit [hors-ligne](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (soit [en ligne](https://rpf.io/scratchon){:target="_blank"} soit [hors-ligne](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -66,6 +66,6 @@ Si vous avez besoin d'imprimer ce projet, utilisez la [version imprimable](https
 
 --- /no-print ---
 
-Vous pouvez trouver le [projet terminé ici](http://rpf.io/p/fr-FR/balloons-get){:target="_blank"}.
+Vous pouvez trouver le [projet terminé ici](https://rpf.io/p/fr-FR/balloons-get){:target="_blank"}.
 
 --- /collapse ---

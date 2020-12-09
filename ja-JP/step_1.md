@@ -39,7 +39,7 @@ title: 必要（ひつよう）なもの
 
 ### ソフトウェア
 
-+ Scratch 3（[オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"}）
++ Scratch 3（[オンライン](https://rpf.io/scratchon){:target="_blank"}または[オフライン](https://rpf.io/scratchoff){:target="_blank"}）
 
 --- /collapse ---
 
@@ -66,6 +66,6 @@ title: 教育者向けの追加情報
 
 --- /no-print ---
 
-[完成したプロジェクトはこちらに](http://rpf.io/p/ja-JP/balloons-get){:target="_blank"}あります 。
+[完成したプロジェクトはこちらに](https://rpf.io/p/ja-JP/balloons-get){:target="_blank"}あります 。
 
 --- /collapse ---
