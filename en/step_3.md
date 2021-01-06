@@ -79,4 +79,3 @@ Your code should look like this:
 --- /task ---
 
 What happens if this code is put at the start of your program? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
-
