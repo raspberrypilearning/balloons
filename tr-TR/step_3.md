@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-You code should look like this:
+Your code should look like this:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ You code should look like this:
 --- /task ---
 
 What happens if this code is put at the start of your program? Does anything different happen if you put this code _inside_ the `forever`{:class="block3control"} loop? Which do you prefer?
-
