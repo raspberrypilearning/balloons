@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-コードは以下のようになります：
+Your code should look like this:
 
 ![風船のスプライト](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ change [colour v] effect by (25)
 --- /task ---
 
 このコードがプログラムの最初に置かれた場合はどうなりますか？ このコードを_ずっと_{:class="block3control"}ループの`内側に`置くと、何か違うことが起こりますか？ どちらがいいですか？
-
