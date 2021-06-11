@@ -39,7 +39,7 @@ title: Wat heb je nodig
 
 ### Software
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -66,6 +66,6 @@ Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](htt
 
 --- /no-print ---
 
-Je kunt het [voltooide project hier](http://rpf.io/p/en/balloons-get)"{:target="_blank"} vinden.
+You can find the [completed project here](https://rpf.io/p/en/balloons-get){:target="_blank"}.
 
 --- /collapse ---
