@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-다음과 같은 코드가 될 것입니다:
+Your code should look like this:
 
 ![풍선 스프라이트](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ change [colour v] effect by (25)
 --- /task ---
 
 만약 이 코드가 프로그램의 시작점에 놓인다면 어떻게 될까요? `무한 반복하기`{:class="block3control"} 루프 _안에_ 코드를 넣는 것과 다른 것이 있을까요? 무엇을 선호하나요?
-
