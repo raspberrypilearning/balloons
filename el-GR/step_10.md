@@ -1,6 +1,6 @@
 ## Τι υπάρχει στη συνέχεια;
 
-Ρίξε μια ματιά στο Scratch έργο [Tech Toys](https://projects.raspberrypi.org/en/projects/tech-toys).
+Ρίξε μια ματιά στο Scratch έργο [Παιχνίδια τεχνολογίας](https://projects.raspberrypi.org/en/projects/tech-toys).
 
 --- no-print ---
 
