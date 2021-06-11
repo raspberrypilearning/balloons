@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-你的程式應該會像這樣：
+Your code should look like this:
 
 ![氣球角色](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ change [colour v] effect by (25)
 --- /task ---
 
 如果將此程式碼放在你程式的開頭會怎樣？ 任何不一樣的事會發生嗎?如果你把這程式碼放在 `重複無限次`{:class="block3control"} 迴圈_內部_? 你喜歡哪個？
-
