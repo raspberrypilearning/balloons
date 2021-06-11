@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-Dein Code sollte so aussehen:
+Your code should look like this:
 
 ![Luftballon-Sprite](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ Dein Code sollte so aussehen:
 --- /task ---
 
 Was passiert, wenn dieser Code am Anfang deines Programms steht? Passiert etwas anderes, wenn der Code _innerhalb_ der `Endlosschleife` {:class="block3control"} steht? Was bevorzugst du?
-
