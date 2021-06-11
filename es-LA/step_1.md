@@ -39,7 +39,7 @@ title: Lo que necesitarás
 
 ### Programa
 
-+ Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff) {:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -66,6 +66,6 @@ Si necesitas imprimir el proyecto, utiliza la [versión de impresión amigable](
 
 --- /no-print ---
 
-Puedes encontrar el [ proyecto completo aquí ](http://rpf.io/p/en/balloons-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/balloons-get){:target="_blank"}.
 
 --- /collapse ---
