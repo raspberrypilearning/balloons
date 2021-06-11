@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-Ο κώδικας θα μοιάζει κάπως έτσι:
+Your code should look like this:
 
 ![αντικείμενο μπαλόνι](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ change [colour v] effect by (25)
 --- /task ---
 
 Τι θα συμβεί εάν αυτός ο κώδικας τοποθετηθεί στην αρχή του προγράμματός σου; Συμβαίνει κάτι διαφορετικό αν βάλεις αυτόν τον κώδικα _μέσα_ στο βρόχο `για πάντα`{:class="block3control"}; Ποιο προτιμάς;
-
