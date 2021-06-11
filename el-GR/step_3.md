@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-Your code should look like this:
+Ο κώδικας θα μοιάζει κάπως έτσι:
 
 ![αντικείμενο μπαλόνι](images/balloon-sprite.png)
 
