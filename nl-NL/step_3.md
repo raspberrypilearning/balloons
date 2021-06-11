@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-Je code zou er als volgt uit moeten zien:
+Your code should look like this:
 
 ![ballon sprite](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ Je code zou er als volgt uit moeten zien:
 --- /task ---
 
 Wat gebeurt er als deze code aan het begin van je programma wordt gezet? Gebeurt er iets anders als je deze code _binnen_ de `herhaal`{:class="block3control"} lus zet? Wat heb je liever?
-
