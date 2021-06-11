@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-आपका कोड इस प्रकार दिखना चाहिए:
+Your code should look like this:
 
 ![balloon sprite](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ change [colour v] effect by (25)
 --- /task ---
 
 यदि यह कोड आपके प्रोग्राम की शुरुआत में रखा जाए तो क्या होगा? क्या कुछ अलग होता है जब आप इस कोड को `forever`{:class="block3control"} लूप (loop) के _अंदर_  डालते है तो? आप क्या पसंद करेंगे?
-
