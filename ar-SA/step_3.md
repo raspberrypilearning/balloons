@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-يجب أن تبدو التعليمات البرمجية خاصتك بالشكل التالي:
+Your code should look like this:
 
 ![كائن بالون](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ change [colour v] effect by (25)
 --- /task ---
 
 ماذا يحدث إذا تم وضع هذا الكود في بداية برنامجك؟ هل يحدث أي شيء مختلف إذا قمت بوضع هذا الكود _ في داخل _ حلقة `كرر باستمرار ` {: class = "block3control"}؟ أى واحدة تفضل؟
-
