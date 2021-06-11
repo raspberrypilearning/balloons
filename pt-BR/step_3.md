@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-Seu código deve ficar assim:
+Your code should look like this:
 
 ![ator balão](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ Seu código deve ficar assim:
 --- /task ---
 
 O que acontece se esse código for colocado no início do seu programa? Acontece algo diferente se você colocar esse código _dentro_ do loop `sempre`{:class="block3control"}? Qual você prefere?
-
