@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-Il tuo codice dovrebbe assomigliare a questo:
+Your code should look like this:
 
 ![sprite palloncino](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ Il tuo codice dovrebbe assomigliare a questo:
 --- /task ---
 
 Cosa succede se mettiamo questo codice all'inizio del programma? Succede qualcosa di diverso se lo inseriamo _dentro_ il ciclo `per sempre` {:class="block3control"}? Quale preferisci?
-
