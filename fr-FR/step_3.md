@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-Ton code devrait ressembler à ceci :
+Your code should look like this:
 
 ![sprite ballon](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ Ton code devrait ressembler à ceci :
 --- /task ---
 
 Que se passe-t-il si ce code est mis au début de ton programme ? Est-ce que quelque chose de différent se produit si tu mets ce code _à l'intérieur_ d'une boucle `répéter indéfiniment`{:class="block3control"} ? Lequel préfères-tu ?
-
