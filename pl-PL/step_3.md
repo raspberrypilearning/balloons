@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-Twój kod powinien wyglądać tak:
+Your code should look like this:
 
 ![duszek balonu](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ Twój kod powinien wyglądać tak:
 --- /task ---
 
 Co się stanie, jeśli ten kod zostanie umieszczony na początku programu? Czy coś innego się wydarzy, jeśli umieścisz ten kod _w środku_ pętli `zawsze`{:class="block3control"}? Który wolisz?
-
