@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-Tu código debería verse así:
+Your code should look like this:
 
 ![objeto globo](images/balloon-sprite.png)
 
@@ -79,4 +79,3 @@ Tu código debería verse así:
 --- /task ---
 
 ¿Qué pasa si este código se coloca al comienzo de tu programa? ¿Pasa algo diferente si colocas este código _ dentro _ del loop ` para siempre ` {: class = "block3control"}? ¿Cuál prefieres?
-
