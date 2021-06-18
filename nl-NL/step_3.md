@@ -56,7 +56,7 @@ change [colour v] effect by (25)
 
 --- hint ---
 
-Your code should look like this:
+Je code zou er als volgt uit moeten zien:
 
 ![ballon sprite](images/balloon-sprite.png)
 
