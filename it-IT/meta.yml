@@ -7,15 +7,17 @@ description: Impara a creare un gioco in cui si fanno scoppiare dei palloncini!
 version: 4
 last_tested: 2018-04-02
 steps:
-  - title: Introduzione
-  - title: Animare un palloncino
-  - title: Palloncini imprevedibili
-  - title: 'Sfida: Aggiungi ancora più casualità'
-    challenge: true
-  - title: Palloncini scoppiettanti
-  - title: Aggiungere un punteggio
-  - title: Tanti palloncini
-  - title: Aggiungere un cronometro
-  - title: 'Sfida: Altri oggetti'
-    challenge: true
-  - title: E poi?
+- title: Introduzione
+  completion: engaged
+- title: Animare un palloncino
+- title: Palloncini imprevedibili
+- title: 'Sfida: Aggiungi ancora più casualità'
+  challenge: true
+- title: Palloncini scoppiettanti
+- title: Aggiungere un punteggio
+- title: Tanti palloncini
+  completion: internal
+- title: Aggiungere un cronometro
+- title: 'Sfida: Altri oggetti'
+  challenge: true
+- title: E poi?

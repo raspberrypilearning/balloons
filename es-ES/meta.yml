@@ -3,19 +3,21 @@ hero_image: images/banner.png
 listed: true
 copyedit: true
 title: Globos
-description: '¡Aprende a hacer un juego de reventar globos!'
+description: "¡Aprende a hacer un juego de reventar globos!"
 version: 4
 last_tested: 2018-04-02
 steps:
-  - title: Introducción
-  - title: Animando un globo
-  - title: Globos al azar
-  - title: 'Desafío: más aleatoriedad'
-    challenge: true
-  - title: Reventando los globos
-  - title: Añadir una puntuación
-  - title: Muchos globos
-  - title: Añadir un temporizador
-  - title: 'Desafío: más objetos'
-    challenge: true
-  - title: '¿Qué sigue?'
+- title: Introducción
+  completion: engaged
+- title: Animando un globo
+- title: Globos al azar
+- title: 'Desafío: más aleatoriedad'
+  challenge: true
+- title: Reventando los globos
+- title: Añadir una puntuación
+- title: Muchos globos
+  completion: internal
+- title: Añadir un temporizador
+- title: 'Desafío: más objetos'
+  challenge: true
+- title: "¿Qué sigue?"

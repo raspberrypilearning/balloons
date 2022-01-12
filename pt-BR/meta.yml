@@ -7,15 +7,17 @@ description: Aprenda a fazer um jogo de estourar balões!
 version: 4
 last_tested: 2018-04-02
 steps:
-  - title: Introdução
-  - title: Animando um balão
-  - title: Balões aleatórios
-  - title: 'Desafio: Mais aleatoriedade'
-    challenge: true
-  - title: Estourando balões
-  - title: Adicionando uma pontuação
-  - title: Muitos balões
-  - title: Adicionando um cronômetro
-  - title: 'Desafio: Mais objetos'
-    challenge: true
-  - title: E agora?
+- title: Introdução
+  completion: engaged
+- title: Animando um balão
+- title: Balões aleatórios
+- title: 'Desafio: Mais aleatoriedade'
+  challenge: true
+- title: Estourando balões
+- title: Adicionando uma pontuação
+- title: Muitos balões
+  completion: internal
+- title: Adicionando um cronômetro
+- title: 'Desafio: Mais objetos'
+  challenge: true
+- title: E agora?

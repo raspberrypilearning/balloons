@@ -7,15 +7,17 @@ description: تعلم كيفية صنع لعبة فرقعة البالون!
 version: 4
 last_tested: 2018-04-02
 steps:
-  - title: المقدمة
-  - title: تحريك البالون
-  - title: بالونات عشوائية
-  - title: 'التحدي: أكثر عشوائية'
-    challenge: true
-  - title: فرقعة البالونات
-  - title: إضافة نتيجة
-  - title: الكثير من البالونات
-  - title: إضافة مؤقت
-  - title: 'التحدي: كائنات أخرى'
-    challenge: true
-  - title: ما التالي؟
+- title: المقدمة
+  completion: engaged
+- title: تحريك البالون
+- title: بالونات عشوائية
+- title: 'التحدي: أكثر عشوائية'
+  challenge: true
+- title: فرقعة البالونات
+- title: إضافة نتيجة
+- title: الكثير من البالونات
+  completion: internal
+- title: إضافة مؤقت
+- title: 'التحدي: كائنات أخرى'
+  challenge: true
+- title: ما التالي؟
