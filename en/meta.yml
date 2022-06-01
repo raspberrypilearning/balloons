@@ -8,16 +8,18 @@ version: 4
 last_tested: 2018-04-02
 steps:
 - title: Introduction
-  completion: engaged
 - title: Animating a balloon
 - title: Random balloons
+  completion:
+  - engaged
 - title: 'Challenge: More randomness'
   challenge: true
 - title: Popping balloons
 - title: Adding a score
 - title: Lots of balloons
-  completion: internal
 - title: Adding a timer
+  completion:
+  - internal
 - title: 'Challenge: More objects'
   challenge: true
 - title: What next?

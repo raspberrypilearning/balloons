@@ -8,16 +8,18 @@ version: 4
 last_tested: 2018-04-02
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Een ballon animeren
 - title: Willekeurige ballonnen
+  completion:
+  - engaged
 - title: 'Uitdaging: meer willekeur'
   challenge: true
 - title: Ballonnen knallen
 - title: Een score toevoegen
 - title: Veel ballonnen
-  completion: internal
 - title: Een timer toevoegen
+  completion:
+  - internal
 - title: 'Uitdaging: meer objecten'
   challenge: true
 - title: Wat kun je verder nog doen?

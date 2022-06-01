@@ -8,16 +8,18 @@ version: 4
 last_tested: 2018-04-02
 steps:
 - title: Introducción
-  completion: engaged
 - title: Animando un globo
 - title: Globos al azar
+  completion:
+  - engaged
 - title: 'Desafío: más aleatoriedad'
   challenge: true
 - title: Reventando los globos
 - title: Añadir una puntuación
 - title: Muchos globos
-  completion: internal
 - title: Añadir un temporizador
+  completion:
+  - internal
 - title: 'Desafío: más objetos'
   challenge: true
 - title: "¿Qué sigue?"

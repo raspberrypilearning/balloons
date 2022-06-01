@@ -8,16 +8,18 @@ version: 4
 last_tested: 2018-04-02
 steps:
 - title: 介紹
-  completion: engaged
 - title: 讓氣球動起來
 - title: 隨機氣球
+  completion:
+  - engaged
 - title: 挑戰：更多隨機性
   challenge: true
 - title: 射擊氣球
 - title: 記錄得分
 - title: 很多氣球
-  completion: internal
 - title: 添加計時器
+  completion:
+  - internal
 - title: 挑戰：更多目標
   challenge: true
 - title: 接下來呢？

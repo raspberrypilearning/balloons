@@ -8,16 +8,18 @@ version: 4
 last_tested: 2018-04-02
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Δίνοντας κίνηση στο μπαλόνι
 - title: Τυχαία μπαλόνια
+  completion:
+  - engaged
 - title: 'Πρόκληση: Περισσότερη τυχαιότητα'
   challenge: true
 - title: Σκάσιμο μπαλονιών
 - title: Προσθήκη βαθμολογίας
 - title: Πολλά μπαλόνια
-  completion: internal
 - title: Προσθήκη χρονομέτρου
+  completion:
+  - internal
 - title: 'Πρόκληση: Περισσότερα αντικείμενα'
   challenge: true
 - title: Τι υπάρχει στη συνέχεια;

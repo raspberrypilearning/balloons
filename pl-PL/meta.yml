@@ -8,16 +8,18 @@ version: 4
 last_tested: 2018-04-02
 steps:
 - title: Wprowadzenie
-  completion: engaged
 - title: Animowanie balonu
 - title: Losowe balony
+  completion:
+  - engaged
 - title: 'Wyzwanie: Większa losowość'
   challenge: true
 - title: Przebijanie balonów
 - title: Dodawanie wyniku
 - title: Dużo balonów
-  completion: internal
 - title: Dodaj licznik czasu
+  completion:
+  - internal
 - title: 'Wyzwanie: Więcej obiektów'
   challenge: true
 - title: Co dalej?

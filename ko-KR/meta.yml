@@ -8,16 +8,18 @@ version: 4
 last_tested: 2018-04-02
 steps:
 - title: 소개
-  completion: engaged
 - title: 풍선을 움직이게 만들기
 - title: 무작위의 풍선들
+  completion:
+  - engaged
 - title: '과제: 더 무작위하게'
   challenge: true
 - title: 풍선들 터뜨리기
 - title: 점수 추가하기
 - title: 많은 풍선들
-  completion: internal
 - title: 타이머 추가하기
+  completion:
+  - internal
 - title: '과제: 더 많은 물체들'
   challenge: true
 - title: 도전해 보기

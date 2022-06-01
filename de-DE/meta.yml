@@ -8,16 +8,18 @@ version: 4
 last_tested: 2018-04-02
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Einen Luftballon animieren
 - title: Zufällige Luftballons
+  completion:
+  - engaged
 - title: 'Herausforderung: mehr Zufälligkeit'
   challenge: true
 - title: Luftballons platzen lassen
 - title: Einen Punktestand hinzufügen
 - title: Viele Luftballons
-  completion: internal
 - title: Hinzufügen eines Timers
+  completion:
+  - internal
 - title: 'Herausforderung: mehr Objekte'
   challenge: true
 - title: Wie geht es weiter?

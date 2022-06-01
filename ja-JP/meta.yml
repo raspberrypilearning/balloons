@@ -8,16 +8,18 @@ version: 4
 last_tested: 2018-04-02
 steps:
 - title: はじめに
-  completion: engaged
 - title: 風船に動きをつける
 - title: 風船をランダムに
+  completion:
+  - engaged
 - title: チャレンジ：もっとランダムに
   challenge: true
 - title: 風船を割る
 - title: スコアを追加する
 - title: 風船をたくさんに
-  completion: internal
 - title: タイマーの追加
+  completion:
+  - internal
 - title: チャレンジ：物体をふやす
   challenge: true
 - title: 次は何をしますか？
