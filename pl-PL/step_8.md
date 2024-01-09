@@ -27,7 +27,7 @@ repeat until <(czas) = [0]>
     wait (1) seconds
     change [czas v] by (-1)
 end
-stop [all v]
+stop [wszystko v]
 ```
 
 --- /task ---
