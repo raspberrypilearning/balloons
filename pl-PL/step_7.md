@@ -50,7 +50,7 @@ when flag clicked
 set [wynik v] to [0]
 +hide
 +repeat (20)
-create clone of (myself v)
+create clone of (siebie v)
 end
 ```
 
