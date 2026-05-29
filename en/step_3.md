@@ -35,25 +35,6 @@ You could even use a random number to choose a random balloon colour each time:
 ![red balloon sprite](images/balloons-colour.png)
 
 --- hints ---
-
---- hint ---
-
-`Change the color effect by`{:class="block3looks"} by a `random number`{:class="block3operators"} when the `green flag is clicked`{:class="block3events"}. 
-
---- /hint ---
-
---- hint ---
-
-You will need to add these blocks to your code.
-
-```blocks3
-(pick random (0) to (200)
-
-change [colour v] effect by (25)
-```
-
---- /hint ---
-
 --- hint ---
 
 Your code should look like this:
@@ -72,9 +53,8 @@ Your code should look like this:
 ```
 
 --- /hint ---
-
-
 --- /hints ---
+
 
 --- /task ---
 
